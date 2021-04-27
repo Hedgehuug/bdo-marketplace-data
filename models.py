@@ -25,7 +25,7 @@ def item_info_cleanser(rsp,enhancement):
     rsp = rsp.split('-')
     return rsp
 
-# print(item_info_cleanser(response.text,3))
+print(item_info_cleanser(dict_response,3))
 
 class Api_Request:
     def __init__(self,headers={},payload = {}):
