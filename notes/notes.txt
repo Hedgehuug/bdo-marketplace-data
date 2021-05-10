@@ -1,0 +1,31 @@
+
+
+
+I want to use this file to document my thought-process
+
+
+Notes:
+- Generally the market cycles in BDO are way shorter than real-life
+- Price movement is very event-driven
+- I need to find an efficient way to store time-series data in a database
+
+
+
+
+Processes:
+- I want daily refreshes to return stock/total-trades/base-Price
+- Visualise data in terms of volume
+- I want to send this data to a discord bot and display the info
+
+
+
+Further Development:
+- I want to create relational data:
+    - Meaning I want to see what amount of stock-volume makes what amount of change to the market
+
+
+
+
+
+Development:
+- This is an incredible amount of data that I'm going to have to break up somehow while still having it be easy to access

@@ -62,16 +62,23 @@ if __name__ == "__main__":
                 print(msg)
 
     
+    # This here is a successful implementation of looping through 2 lists to find the matching items
     with ContextManager('../data/mp_reference.json') as file:
         use_file = file.read()
-        map_item = list(mapped_msg)[0]
-        def filter_price(item):
-            conditional = bool(item[0] == map_item[0])
-            return item if conditional else None
-                
-        final_print = filter(filter_price,json.loads(use_file))
+        # map_item = list(mapped_msg)[0]
+        list_msg = list(mapped_msg)
+        
+
+        final_print = []   
+        for a in list_msg:
+            # print(a)
+            if a == ['']:
+                print('bullshit')
+            final_print = final_print + list(filter(lambda item: item if a[0] == item[0] else None,json.loads(use_file)))
+            
+
         file_ids = map(lambda item: item[0],json.loads(use_file))
-        print(list(final_print))
+        print(final_print)
         
 
 
