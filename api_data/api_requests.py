@@ -1,6 +1,7 @@
 
 import requests as r
 import json
+import datetime
 
 use_headers = {
     "Content-Type": "application/json",
@@ -66,19 +67,22 @@ if __name__ == "__main__":
     with ContextManager('../data/mp_reference.json') as file:
         use_file = file.read()
         # map_item = list(mapped_msg)[0]
-        list_msg = list(mapped_msg)
+    list_msg = list(mapped_msg)
+    
+
+    final_print = []   
+    for a in list_msg:
+        # print(a)
+        if [''] in a:
+            print('bullshit')
+        # This sorts through all the item references in the json file and match them to the api returned data
+        # by ID, and return both data in a tuple
+        final_print = final_print + list(filter(lambda item: item if a[0] == item[0] else None,json.loads(use_file)))
+        final_print[-1] = (final_print[-1],a[1:])
         
 
-        final_print = []   
-        for a in list_msg:
-            # print(a)
-            if a == ['']:
-                print('bullshit')
-            final_print = final_print + list(filter(lambda item: item if a[0] == item[0] else None,json.loads(use_file)))
-            
-
-        file_ids = map(lambda item: item[0],json.loads(use_file))
-        print(final_print)
+    file_ids = map(lambda item: item[0],json.loads(use_file))
+    print(final_print)
         
 
 

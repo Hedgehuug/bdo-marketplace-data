@@ -60,5 +60,7 @@ class Request_info:
 
                 
 
-print(Request_info.get_item_by_id(12061))
+# print(Request_info.get_item_by_id(12061))
+
+
 
