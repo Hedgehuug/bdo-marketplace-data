@@ -39,6 +39,7 @@ class Api_Request:
 
 if __name__ == "__main__":
     # This is for debugging, if you run the file this'll run
+
     raw_msg = json.loads((Api_Request.sub_class_request(url=example_url,mainkey=20).content).content)['resultMsg']
     # Items in the api are returned separated by '|' so we split the request by that first
     raw_split_msg = str(raw_msg).split('|')
@@ -56,6 +57,7 @@ if __name__ == "__main__":
         def __exit__(self, type, value, traceback):
             self.file.close()
 
+    # This here is a successful implementation of looping through 2 lists to find the matching items
     def look_through_msg(msg):
         use_msg = msg_ids
         for item in msg:
@@ -63,7 +65,6 @@ if __name__ == "__main__":
                 print(msg)
 
     
-    # This here is a successful implementation of looping through 2 lists to find the matching items
     with ContextManager('../data/mp_reference.json') as file:
         use_file = file.read()
         # map_item = list(mapped_msg)[0]

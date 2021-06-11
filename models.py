@@ -63,4 +63,7 @@ class Request_info:
 # print(Request_info.get_item_by_id(12061))
 
 
+# Create a file for each of the item categories with all their data saved in there
+
+
 
