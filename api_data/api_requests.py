@@ -39,13 +39,18 @@ class Api_Request:
 
 if __name__ == "__main__":
     # This is for debugging, if you run the file this'll run
-
+    """
+    Dev V1:
     raw_msg = json.loads((Api_Request.sub_class_request(url=example_url,mainkey=20).content).content)['resultMsg']
     # Items in the api are returned separated by '|' so we split the request by that first
     raw_split_msg = str(raw_msg).split('|')
     mapped_msg = map(lambda item: item.split('-'),raw_split_msg)
     msg_ids = map(lambda item: item[0],mapped_msg)
     # print(list(mapped_msg))
+    """
+
+    """
+    Dev V1:
 
     class ContextManager:
         def __init__(self,filename):
@@ -62,18 +67,20 @@ if __name__ == "__main__":
         use_msg = msg_ids
         for item in msg:
             if item in use_msg:
-                print(msg)
+                print(msg)"""
 
-    
+    """
+    Dev v1:
     with ContextManager('../data/mp_reference.json') as file:
         use_file = file.read()
         # map_item = list(mapped_msg)[0]
     list_msg = list(mapped_msg)
+    """
     
-
+    """
+    Dev V1:
     final_print = []   
     for a in list_msg:
-        # print(a)
         if [''] in a:
             print('bullshit')
         # This sorts through all the item references in the json file and match them to the api returned data
@@ -81,9 +88,9 @@ if __name__ == "__main__":
         final_print = final_print + list(filter(lambda item: item if a[0] == item[0] else None,json.loads(use_file)))
         final_print[-1] = (final_print[-1],a[1:])
         
-
     file_ids = map(lambda item: item[0],json.loads(use_file))
     print(final_print)
+        """
         
 
 
