@@ -31,10 +31,8 @@ if __name__ == "__main__":
         for item in use_file:
             if item[0] == a[0]:
                 final_print.append((item,a[1:]))
+
         # I tried using filter, it did not work very well
-        # final_print = final_print +(list(filter(lambda item: item if a[0] == item[0] else None,use_file)))
-        print(final_print[-1])
-        # final_print[-1] = (final_print[-1],a[1:])
         
 
 
