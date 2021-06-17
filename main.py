@@ -24,11 +24,11 @@ if __name__ == "__main__":
         
     # List of item-groups as they are organised in bdo-mp
     # TO BE MOVED TO ITS OWN FILE
-    group_list = [1,5,10,15,20,25,30,35,40,45,50,65,70,75,80]
+    group_list = [(1,"Main Weapons"),(5,"Sub Weapons"),(10,"Awakening Weapons"),(15,"Armors"),(20,"Accessories"),(25,"Materials"),(30,"Enchancements/Upgrades"),(35,"Consumables"),(40,"Life Tools"),(45,"Alchemy Stones"),(50,"Crystals"),(65,"Mount"),(70,"Ship"),(75,"Wagon"),(80,"Furniture")]
 
     for i in group_list:
         # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
-        raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=example_url,mainkey=i).content).content)['resultMsg']
+        raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=example_url,mainkey=i[0]).content).content)['resultMsg']
         # Step 2: (decodes the message and converts it to usable data)
         decoded_msg = analysis.decode_msg(raw_msg)
         # This is how you find the index of a value in a list
@@ -49,7 +49,7 @@ if __name__ == "__main__":
         with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
             file.write(to_save_json)
 
-        print(f"group {i} is complete")
+        print(f"group {i[1]} is complete")
 
 
 

@@ -23,3 +23,11 @@ Used for my start of the day reminder of what I worked on last time to refresh m
 12/06/2021 Saturday
 - Yesterday I set up the file-saving setup
 - Also set up 1 of the main loops, still need to do this for every single group
+
+15/06/2021 Tuesday
+- I put in another loop to loop through all of the item groups, so it can now save every single item in the game
+- I chose not to touch pearl items, as it's pretty damn pointless with EU costume markets
+- I also built an info accessing model in models.py, although this can only do 1 day for now
+
+17/06/2021 Thursday
+- Last time I made the fetching method begin to work with multiple days
