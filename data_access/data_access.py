@@ -2,6 +2,7 @@ import json
 import datetime
 import data.context_manager as cm
 import os
+import analysis
 
 date_today = datetime.date.today()
 day_delta = datetime.timedelta(days=1)
@@ -19,11 +20,15 @@ class Data_Access:
             with cm.ContextManager(f"../data/group_{i}/daily/{str(date_today)}.json") as file:
                 use_file = json.loads(file.read())
             # this turns all the 
+            
+            for value in use_file.values():
+                value = analysis.Analysis.create_list_fetch_all(value)
+            """
             for value in use_file.values():
                 value['stock'] = [value['stock']]
                 value['volume'] = [value['volume']]
                 value['price'] = [value['price']]
-
+            """
             # MERGES ALL THE JSON FILES TOGETHER
             final_value.update(use_file)
         # SO THIS VERY USEFUL LOOP THAT FETCHES ALL PAST DAY INFO

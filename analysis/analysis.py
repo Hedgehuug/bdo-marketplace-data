@@ -25,6 +25,17 @@ class Analysis:
         return return_dict
 
 
+    # Used for creating lists out of the initially fetched files going backwards from today, it's meant to be used in recursive steps
+    @staticmethod
+    def create_list_fetch_all(item):
+        item['stock'] = [item['stock']]
+        item['volume'] = [item['volume']]
+        item['price'] = [item['price']]
+        return item
+
+
+
+
         """
             converted_line = {
             "name": line[0[1]],
