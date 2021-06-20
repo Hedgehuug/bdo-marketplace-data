@@ -49,7 +49,10 @@ if __name__ == "__main__":
         with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
             file.write(to_save_json)
 
-        print(f"group {i[1]} is complete")
+        progress_percent = (group_list.index(i) / (len(group_list))) * 100
+        print(f"Completion: {progress_percent}% - {i[1]} complete", end='\r')
+        # print(f"group {i[1]} is complete")
+
 
 
 

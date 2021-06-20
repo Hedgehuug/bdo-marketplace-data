@@ -8,7 +8,7 @@ day_delta = datetime.timedelta(days=1)
 
 
 # This can fetch and print all the lines saved in every json file for the day
-final_value = {}
+'''final_value = {}
 for i in range(1,14):
     with cm.ContextManager(f"data/group_{i}/daily/{str(date_today)}.json") as file:
         use_file = json.loads(file.read())
@@ -33,8 +33,15 @@ for a in range(onlyfiles-1):
             final_value[key]['stock'].append(value['stock'])
             final_value[key]['volume'].append(value['volume'])
             final_value[key]['price'].append(value['price'])
-            print(final_value[key])
+            print(final_value[key])'''
 
+
+
+from time import sleep
+if __name__ == "__main__":
+    for num in range(100):
+        sleep(0.1)
+        print(f"{num}%", end='\r')
 
 
 
