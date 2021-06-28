@@ -4,10 +4,11 @@ import data.context_manager as cm
 import api_data.api_requests as api_requests
 from analysis.analysis import Analysis as analysis
 
+import datetime
 
 # Main file
-if __name__ == "__main__":
-    # Example URL, being used for development( it is currently for a sub-category fetch)
+
+def menu_option_one():
     example_url = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
     
 
@@ -41,7 +42,6 @@ if __name__ == "__main__":
                 if item[0] == a[0]:
                     final_print.append((item,a[1:]))
         # THIS SEGMENT IS GOING TO BE MOVED TO SAVE_DATA MODULE
-        import datetime
         to_save_json = analysis.reformat_sub_group(final_print)
         to_save_json = json.dumps(to_save_json,indent=4)
         date_today = str(datetime.date.today())
@@ -51,7 +51,26 @@ if __name__ == "__main__":
 
         progress_percent = (group_list.index(i) / (len(group_list))) * 100
         print(f"Completion: {progress_percent}% - {i[1]} complete", end='\r')
-        # print(f"group {i[1]} is complete")
+
+
+if __name__ == "__main__":
+
+    # Used by input() for user inputs later
+    menu_options = [
+        "Fetch Daily Data",
+        "Get Item Info",
+        "Leaderboard"
+    ]
+
+    # Step 1: Print the main menu options
+    """for option in menu_options:
+        print(f"{menu_options.index(option) +1}: {option}")"""
+
+    # Step 2: Take input
+    # main_menu_input = 
+
+    # Temporary activation
+    menu_option_one()
 
 
 
