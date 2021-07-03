@@ -1,76 +1,111 @@
 import json
 import data
+import datetime
+import requests
 import data.context_manager as cm
 import api_data.api_requests as api_requests
 from analysis.analysis import Analysis as analysis
+from data_access import data_access
+import services
 
-import datetime
 
 # Main file
 
-def menu_option_one():
-    example_url = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
-    
+# Temporary Link, will turn into a selection
+with cm.ContextManager('data/settings.json') as file:
+    settings = json.loads(file.read())
+temporary_link = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
+offile_mode = False
 
-    # Dev V2 will just focus on sending a proper API request to the website
-    # Dev V3 will focus on the group search and saving methods, and making sure everything runs just right
 
-    # Using the API interaction module, it fetches and returns a raw message from the endpoint
-    # Decodes the raw returned message into a processable data-type using the Analysis module
+# Option one hits the api and saves all the data for that day
+def option_one(url):
+    try:
+        services.fetch_and_store_data(url)
+    except requests.exceptions.ConnectionError as err:
+        print(f"Could not connect to API: {err}\n")
+        print("Marketplace info not fetched")
+        print("Starting in Offline Mode")
+        offline_mode = True
 
-    # Open reference file to translate IDs
-    with cm.ContextManager('data/mp_reference.json') as file:
-        use_file = json.loads(file.read())
-    
+
+# Option Two is for the accessing of data, this might get broken up further later
+def option_two():
+    # Item id-name references
+    while True:
+        with cm.ContextManager('data/mp_reference.json') as item_reference_file:
+            reference_json = json.loads(item_reference_file.read())
+        all_data = data_access.Data_Access.get_all_info()
+        print(reference_json)
+
+        version_list = ['Fetch Item Info','All Data','Rankings','Back to Main Menu']
+        for x in version_list:
+            print(f"{version_list.index(x) +1}: {x}")
+
+
+        version_input = int(input("Input Version: "))
+        try:
+            if version_input != 4:
+                data_object = services.Data_Access_Version(all_data.make_indicators(),version=version_input,reference = reference_json)
+            elif version_input == 4:
+                break
+
         
-    # List of item-groups as they are organised in bdo-mp
-    # TO BE MOVED TO ITS OWN FILE
-    group_list = [(1,"Main Weapons"),(5,"Sub Weapons"),(10,"Awakening Weapons"),(15,"Armors"),(20,"Accessories"),(25,"Materials"),(30,"Enchancements/Upgrades"),(35,"Consumables"),(40,"Life Tools"),(45,"Alchemy Stones"),(50,"Crystals"),(65,"Mount"),(70,"Ship"),(75,"Wagon"),(80,"Furniture")]
-
-    for i in group_list:
-        # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
-        raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=example_url,mainkey=i[0]).content).content)['resultMsg']
-        # Step 2: (decodes the message and converts it to usable data)
-        decoded_msg = analysis.decode_msg(raw_msg)
-        # This is how you find the index of a value in a list
-
-        final_print = []
-        for a in decoded_msg:
-            # This sorts through all the item references in the json file and match them to the api returned data
-            # by ID, and return both data in a tuple
-            for item in use_file:
-                if item[0] == a[0]:
-                    final_print.append((item,a[1:]))
-        # THIS SEGMENT IS GOING TO BE MOVED TO SAVE_DATA MODULE
-        to_save_json = analysis.reformat_sub_group(final_print)
-        to_save_json = json.dumps(to_save_json,indent=4)
-        date_today = str(datetime.date.today())
-        folder_index = group_list.index(i)+1
-        with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
-            file.write(to_save_json)
-
-        progress_percent = (group_list.index(i) / (len(group_list))) * 100
-        print(f"Completion: {progress_percent}% - {i[1]} complete", end='\r')
+        except TypeError as err:
+            print(f"TypeError: {err}")
 
 
-if __name__ == "__main__":
+
+
+
+def main():
+    # Fetched date of last fetch from settings
+    date_today = datetime.date.today()
+    settings_date = datetime.date.fromisoformat((settings['last-fetched']))
+    if date_today == settings_date:
+        # If the data for today is already fetched:
+        print("Information already fetched for the day")
+
+    elif date_today != settings_date:
+        # if it is not fetched
+        option_one(temporary_link)
+        settings['last-fetched'] = str(date_today)
+        print('\n')
+        
+
 
     # Used by input() for user inputs later
     menu_options = [
         "Fetch Daily Data",
         "Get Item Info",
-        "Leaderboard"
+        "Leaderboard",
+        "Exit"
     ]
 
     # Step 1: Print the main menu options
-    """for option in menu_options:
-        print(f"{menu_options.index(option) +1}: {option}")"""
+    while True:
+        for option in menu_options:
+            print(f"{menu_options.index(option) +1}: {option}")
 
-    # Step 2: Take input
-    # main_menu_input = 
+        # Step 2: Take input
+        menu_input= int(input("Enter Num. for menu option: "))
 
-    # Temporary activation
-    menu_option_one()
+        # Step 3: Logic
+
+        # Option 1 will override the day's info fetch
+        if menu_input == 1:
+            option_one(temporary_link)
+
+        # Option 2 prints all price changes
+        if menu_input == 2:
+            option_two()
+        if menu_input == 4:
+            break
+    print('Thank you for using the bdo marketplace analyzer')
+    print('Goodbye!')
+
+if __name__ == "__main__":
+    main()
 
 
 
