@@ -1,6 +1,5 @@
 import json
 import datetime
-
 import sys
 sys.path.append('..')
 import data as data

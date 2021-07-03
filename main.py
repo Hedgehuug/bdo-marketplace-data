@@ -36,7 +36,6 @@ def option_two():
         with cm.ContextManager('data/mp_reference.json') as item_reference_file:
             reference_json = json.loads(item_reference_file.read())
         all_data = data_access.Data_Access.get_all_info()
-        print(reference_json)
 
         version_list = ['Fetch Item Info','All Data','Rankings','Back to Main Menu']
         for x in version_list:
@@ -70,6 +69,8 @@ def main():
         # if it is not fetched
         option_one(temporary_link)
         settings['last-fetched'] = str(date_today)
+        with open('data/settings.json','w') as file:
+            json.dump(settings,file)
         print('\n')
         
 

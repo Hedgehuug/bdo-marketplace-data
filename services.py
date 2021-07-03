@@ -81,7 +81,6 @@ class Data_Access_Version:
         input_name = input("Input part of searched item, it'll return all items with it in their name: ")
 
         returned_item_from_input = list(filter(lambda a: input_name in a[1],self._reference))
-        print(returned_item_from_input)
         # Prints out all the searched for items' past data
         for items in returned_item_from_input:
             try:
