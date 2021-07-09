@@ -1,0 +1,5738 @@
+{
+    "212": {
+        "name": "Capturing Rope",
+        "stock": "128",
+        "volume": "2073656",
+        "price": "1390"
+    },
+    "1178": {
+        "name": "Corrupt Oil of Immortality",
+        "stock": "0",
+        "volume": "60",
+        "price": "6700000"
+    },
+    "4001": {
+        "name": "Iron Ore",
+        "stock": "50699",
+        "volume": "2617372754",
+        "price": "605"
+    },
+    "4002": {
+        "name": "Lead Ore",
+        "stock": "34190",
+        "volume": "614129977",
+        "price": "570"
+    },
+    "4003": {
+        "name": "Copper Ore",
+        "stock": "41868",
+        "volume": "2370175102",
+        "price": "530"
+    },
+    "4004": {
+        "name": "Tin Ore",
+        "stock": "39045",
+        "volume": "960678702",
+        "price": "1260"
+    },
+    "4005": {
+        "name": "Zinc Ore",
+        "stock": "17331",
+        "volume": "1177922522",
+        "price": "1430"
+    },
+    "4006": {
+        "name": "Rough Stone",
+        "stock": "0",
+        "volume": "163093816",
+        "price": "3510"
+    },
+    "4007": {
+        "name": "Coal",
+        "stock": "141019",
+        "volume": "1547100318",
+        "price": "825"
+    },
+    "4008": {
+        "name": "Vanadium Ore",
+        "stock": "10000",
+        "volume": "217387660",
+        "price": "4910"
+    },
+    "4009": {
+        "name": "Titanium Ore",
+        "stock": "20144",
+        "volume": "209240960",
+        "price": "3470"
+    },
+    "4010": {
+        "name": "Sulfur",
+        "stock": "9475",
+        "volume": "2863142",
+        "price": "855"
+    },
+    "4011": {
+        "name": "Noc Ore",
+        "stock": "132832",
+        "volume": "328104173",
+        "price": "505"
+    },
+    "4013": {
+        "name": "Nickel Ore",
+        "stock": "9",
+        "volume": "13958136",
+        "price": "575"
+    },
+    "4051": {
+        "name": "Melted Iron Shard",
+        "stock": "1021",
+        "volume": "581462623",
+        "price": "1970"
+    },
+    "4052": {
+        "name": "Iron Ingot",
+        "stock": "143398",
+        "volume": "116976159",
+        "price": "9150"
+    },
+    "4053": {
+        "name": "Pure Iron Crystal",
+        "stock": "7170",
+        "volume": "11431901",
+        "price": "198000"
+    },
+    "4054": {
+        "name": "Melted Lead Shard",
+        "stock": "73796",
+        "volume": "40822387",
+        "price": "1370"
+    },
+    "4055": {
+        "name": "Lead Ingot",
+        "stock": "44787",
+        "volume": "31364628",
+        "price": "8700"
+    },
+    "4056": {
+        "name": "Pure Lead Crystal",
+        "stock": "1650",
+        "volume": "1038391",
+        "price": "116000"
+    },
+    "4057": {
+        "name": "Melted Copper Shard",
+        "stock": "10485",
+        "volume": "401921216",
+        "price": "1270"
+    },
+    "4058": {
+        "name": "Copper Ingot",
+        "stock": "309778",
+        "volume": "88129456",
+        "price": "9050"
+    },
+    "4059": {
+        "name": "Pure Copper Crystal",
+        "stock": "4747",
+        "volume": "3344958",
+        "price": "197000"
+    },
+    "4060": {
+        "name": "Melted Tin Shard",
+        "stock": "25614",
+        "volume": "123607284",
+        "price": "3140"
+    },
+    "4061": {
+        "name": "Tin Ingot",
+        "stock": "231730",
+        "volume": "20000719",
+        "price": "9150"
+    },
+    "4062": {
+        "name": "Pure Tin Crystal",
+        "stock": "3854",
+        "volume": "827065",
+        "price": "195000"
+    },
+    "4063": {
+        "name": "Melted Zinc Shard",
+        "stock": "9119",
+        "volume": "162766249",
+        "price": "4130"
+    },
+    "4064": {
+        "name": "Zinc Ingot",
+        "stock": "43366",
+        "volume": "123919389",
+        "price": "22100"
+    },
+    "4065": {
+        "name": "Pure Zinc Crystal",
+        "stock": "6593",
+        "volume": "1324032",
+        "price": "56500"
+    },
+    "4066": {
+        "name": "Brass Ingot",
+        "stock": "8773",
+        "volume": "114771382",
+        "price": "16100"
+    },
+    "4067": {
+        "name": "Bronze Ingot",
+        "stock": "5011",
+        "volume": "121631013",
+        "price": "11100"
+    },
+    "4068": {
+        "name": "Polished Stone",
+        "stock": "0",
+        "volume": "27226198",
+        "price": "16000"
+    },
+    "4070": {
+        "name": "Processed Coal",
+        "stock": "31827",
+        "volume": "32386069",
+        "price": "2310"
+    },
+    "4076": {
+        "name": "Metal Solvent",
+        "stock": "7847",
+        "volume": "27960312",
+        "price": "125000"
+    },
+    "4077": {
+        "name": "Steel",
+        "stock": "15158",
+        "volume": "462684558",
+        "price": "8300"
+    },
+    "4078": {
+        "name": "Melted Vanadium Shard",
+        "stock": "8917",
+        "volume": "16740712",
+        "price": "9700"
+    },
+    "4079": {
+        "name": "Vanadium Ingot",
+        "stock": "6849",
+        "volume": "18897485",
+        "price": "54000"
+    },
+    "4080": {
+        "name": "Pure Vanadium Crystal",
+        "stock": "11024",
+        "volume": "20412308",
+        "price": "259000"
+    },
+    "4081": {
+        "name": "Melted Titanium Shard",
+        "stock": "0",
+        "volume": "22309072",
+        "price": "7250"
+    },
+    "4082": {
+        "name": "Titanium Ingot",
+        "stock": "3389",
+        "volume": "13802719",
+        "price": "23800"
+    },
+    "4083": {
+        "name": "Pure Titanium Crystal",
+        "stock": "9208",
+        "volume": "11764432",
+        "price": "195000"
+    },
+    "4084": {
+        "name": "Margoria Dark Iron",
+        "stock": "308",
+        "volume": "1182833",
+        "price": "640000"
+    },
+    "4085": {
+        "name": "Melted Noc Shard",
+        "stock": "65765",
+        "volume": "8622699",
+        "price": "2280"
+    },
+    "4086": {
+        "name": "Noc Ingot",
+        "stock": "11612",
+        "volume": "9067264",
+        "price": "11400"
+    },
+    "4087": {
+        "name": "Pure Noc Crystal",
+        "stock": "1994",
+        "volume": "352945",
+        "price": "174000"
+    },
+    "4088": {
+        "name": "Melted Nickel Shard",
+        "stock": "33303",
+        "volume": "518768",
+        "price": "2200"
+    },
+    "4089": {
+        "name": "Nickel Ingot",
+        "stock": "127800",
+        "volume": "273608",
+        "price": "17600"
+    },
+    "4090": {
+        "name": "Pure Nickel Crystal",
+        "stock": "398",
+        "volume": "2617",
+        "price": "115000"
+    },
+    "4201": {
+        "name": "Silver Ore",
+        "stock": "0",
+        "volume": "40269599",
+        "price": "10500"
+    },
+    "4202": {
+        "name": "Gold Ore",
+        "stock": "163",
+        "volume": "31252660",
+        "price": "7150"
+    },
+    "4203": {
+        "name": "Platinum Ore",
+        "stock": "19169",
+        "volume": "115486012",
+        "price": "2690"
+    },
+    "4204": {
+        "name": "Rough Opal",
+        "stock": "35949",
+        "volume": "84803579",
+        "price": "2740"
+    },
+    "4206": {
+        "name": "Mythril",
+        "stock": "0",
+        "volume": "1768725",
+        "price": "37300"
+    },
+    "4251": {
+        "name": "Melted Silver Shard",
+        "stock": "113",
+        "volume": "22400491",
+        "price": "31300"
+    },
+    "4252": {
+        "name": "Silver Ingot",
+        "stock": "12753",
+        "volume": "2433848",
+        "price": "88500"
+    },
+    "4253": {
+        "name": "Pure Silver Crystal",
+        "stock": "4774",
+        "volume": "1063287",
+        "price": "101000"
+    },
+    "4254": {
+        "name": "Melted Gold Shard",
+        "stock": "50",
+        "volume": "16813885",
+        "price": "13200"
+    },
+    "4255": {
+        "name": "Gold Ingot",
+        "stock": "19788",
+        "volume": "3845073",
+        "price": "59000"
+    },
+    "4256": {
+        "name": "Pure Gold Crystal",
+        "stock": "7666",
+        "volume": "829435",
+        "price": "150000"
+    },
+    "4257": {
+        "name": "Melted Platinum Shard",
+        "stock": "4937",
+        "volume": "30632968",
+        "price": "11000"
+    },
+    "4258": {
+        "name": "Platinum Ingot",
+        "stock": "678371",
+        "volume": "1355124",
+        "price": "67000"
+    },
+    "4259": {
+        "name": "Pure Platinum Crystal",
+        "stock": "1243",
+        "volume": "2366037",
+        "price": "158000"
+    },
+    "4260": {
+        "name": "Polished Opal",
+        "stock": "8353",
+        "volume": "14405883",
+        "price": "10200"
+    },
+    "4262": {
+        "name": "Melted Mythril Shard",
+        "stock": "0",
+        "volume": "90396",
+        "price": "83500"
+    },
+    "4263": {
+        "name": "Mythril Ingot",
+        "stock": "0",
+        "volume": "207084",
+        "price": "640000"
+    },
+    "4264": {
+        "name": "Pure Mythril Crystal",
+        "stock": "2813",
+        "volume": "614687",
+        "price": "1560000"
+    },
+    "4265": {
+        "name": "Brilliant Opal",
+        "stock": "0",
+        "volume": "1346381",
+        "price": "46700"
+    },
+    "4266": {
+        "name": "Moonlight Opal",
+        "stock": "4340",
+        "volume": "1341229",
+        "price": "188000"
+    },
+    "4267": {
+        "name": "Black Gold Ingot",
+        "stock": "0",
+        "volume": "489250",
+        "price": "1050000"
+    },
+    "4269": {
+        "name": "Jade Coral Ingot",
+        "stock": "1482",
+        "volume": "11912238",
+        "price": "202000"
+    },
+    "4401": {
+        "name": "Rough Ruby",
+        "stock": "22783",
+        "volume": "57825187",
+        "price": "3640"
+    },
+    "4402": {
+        "name": "Rough Sapphire",
+        "stock": "0",
+        "volume": "2990383",
+        "price": "33100"
+    },
+    "4403": {
+        "name": "Rough Topaz",
+        "stock": "347",
+        "volume": "3844234",
+        "price": "7100"
+    },
+    "4404": {
+        "name": "Rough Emerald",
+        "stock": "634",
+        "volume": "2898492",
+        "price": "21000"
+    },
+    "4405": {
+        "name": "Rough Diamond",
+        "stock": "172",
+        "volume": "2760102",
+        "price": "4950"
+    },
+    "4406": {
+        "name": "Rough Translucent Crystal",
+        "stock": "329",
+        "volume": "40082509",
+        "price": "6800"
+    },
+    "4407": {
+        "name": "Rough Mud Crystal",
+        "stock": "23431",
+        "volume": "78027218",
+        "price": "9100"
+    },
+    "4408": {
+        "name": "Rough Red Crystal",
+        "stock": "29035",
+        "volume": "88302575",
+        "price": "2870"
+    },
+    "4409": {
+        "name": "Rough Green Crystal",
+        "stock": "7662",
+        "volume": "46810904",
+        "price": "3490"
+    },
+    "4410": {
+        "name": "Rough Black Crystal",
+        "stock": "42272",
+        "volume": "153735876",
+        "price": "2750"
+    },
+    "4411": {
+        "name": "Rough Blue Crystal",
+        "stock": "2007",
+        "volume": "27792809",
+        "price": "1500"
+    },
+    "4412": {
+        "name": "Rough Violet Crystal",
+        "stock": "5020",
+        "volume": "31725848",
+        "price": "1830"
+    },
+    "4413": {
+        "name": "Rough Lapis Lazuli",
+        "stock": "0",
+        "volume": "2612752",
+        "price": "37300"
+    },
+    "4451": {
+        "name": "Ruby",
+        "stock": "32107",
+        "volume": "4724552",
+        "price": "14500"
+    },
+    "4452": {
+        "name": "Resplendent Ruby",
+        "stock": "372965",
+        "volume": "1182687",
+        "price": "46700"
+    },
+    "4453": {
+        "name": "Blood Ruby",
+        "stock": "389",
+        "volume": "625072",
+        "price": "310000"
+    },
+    "4454": {
+        "name": "Sapphire",
+        "stock": "9",
+        "volume": "805700",
+        "price": "92000"
+    },
+    "4455": {
+        "name": "Resplendent Sapphire",
+        "stock": "142",
+        "volume": "916736",
+        "price": "95000"
+    },
+    "4456": {
+        "name": "Ocean Sapphire",
+        "stock": "817",
+        "volume": "272915",
+        "price": "1120000"
+    },
+    "4457": {
+        "name": "Topaz",
+        "stock": "2790",
+        "volume": "1219257",
+        "price": "25600"
+    },
+    "4458": {
+        "name": "Resplendent Topaz",
+        "stock": "337",
+        "volume": "586887",
+        "price": "51500"
+    },
+    "4459": {
+        "name": "Gold Topaz",
+        "stock": "122",
+        "volume": "142265",
+        "price": "405000"
+    },
+    "4460": {
+        "name": "Emerald",
+        "stock": "76",
+        "volume": "2053816",
+        "price": "46000"
+    },
+    "4461": {
+        "name": "Resplendent Emerald",
+        "stock": "1157",
+        "volume": "859792",
+        "price": "98500"
+    },
+    "4462": {
+        "name": "Forest Emerald",
+        "stock": "896",
+        "volume": "86054",
+        "price": "840000"
+    },
+    "4463": {
+        "name": "Diamond",
+        "stock": "42",
+        "volume": "767657",
+        "price": "16600"
+    },
+    "4464": {
+        "name": "Resplendent Diamond",
+        "stock": "60830",
+        "volume": "410533",
+        "price": "57500"
+    },
+    "4465": {
+        "name": "Star Diamond",
+        "stock": "1079",
+        "volume": "114366",
+        "price": "635000"
+    },
+    "4466": {
+        "name": "Translucent Crystal",
+        "stock": "9743",
+        "volume": "6723067",
+        "price": "6700"
+    },
+    "4467": {
+        "name": "Mud Crystal",
+        "stock": "23779",
+        "volume": "8370749",
+        "price": "12300"
+    },
+    "4468": {
+        "name": "Red Crystal",
+        "stock": "21333",
+        "volume": "9447025",
+        "price": "6000"
+    },
+    "4469": {
+        "name": "Green Crystal",
+        "stock": "1154",
+        "volume": "3252000",
+        "price": "6100"
+    },
+    "4470": {
+        "name": "Black Crystal",
+        "stock": "27116",
+        "volume": "36814590",
+        "price": "11000"
+    },
+    "4476": {
+        "name": "Red Coral",
+        "stock": "357",
+        "volume": "553035",
+        "price": "44900"
+    },
+    "4477": {
+        "name": "Blue Coral",
+        "stock": "272678",
+        "volume": "919717",
+        "price": "28200"
+    },
+    "4478": {
+        "name": "Twilight Red Coral",
+        "stock": "0",
+        "volume": "361913",
+        "price": "211000"
+    },
+    "4479": {
+        "name": "Daybreak Blue Coral",
+        "stock": "188",
+        "volume": "374069",
+        "price": "234000"
+    },
+    "4481": {
+        "name": "Gem Polisher",
+        "stock": "2880",
+        "volume": "2757948",
+        "price": "158000"
+    },
+    "4483": {
+        "name": "Blue Crystal",
+        "stock": "27897",
+        "volume": "1766596",
+        "price": "5300"
+    },
+    "4485": {
+        "name": "Violet Crystal",
+        "stock": "10215",
+        "volume": "12056071",
+        "price": "12400"
+    },
+    "4490": {
+        "name": "Lapis Lazuli",
+        "stock": "0",
+        "volume": "209275",
+        "price": "110000"
+    },
+    "4491": {
+        "name": "Resplendent Lapis Lazuli",
+        "stock": "0",
+        "volume": "165924",
+        "price": "391000"
+    },
+    "4492": {
+        "name": "Indigo Lapis Lazuli",
+        "stock": "0",
+        "volume": "77540",
+        "price": "1990000"
+    },
+    "4601": {
+        "name": "Ash Timber",
+        "stock": "30243",
+        "volume": "1404042167",
+        "price": "555"
+    },
+    "4602": {
+        "name": "Maple Timber",
+        "stock": "27564",
+        "volume": "1676745380",
+        "price": "930"
+    },
+    "4603": {
+        "name": "Pine Timber",
+        "stock": "21164",
+        "volume": "915611356",
+        "price": "1020"
+    },
+    "4604": {
+        "name": "Birch Timber",
+        "stock": "101101",
+        "volume": "1576918108",
+        "price": "970"
+    },
+    "4605": {
+        "name": "Log",
+        "stock": "126442",
+        "volume": "543648447",
+        "price": "9150"
+    },
+    "4606": {
+        "name": "Fir Timber",
+        "stock": "73963",
+        "volume": "1458498450",
+        "price": "1550"
+    },
+    "4607": {
+        "name": "Cedar Timber",
+        "stock": "110579",
+        "volume": "1566359860",
+        "price": "1380"
+    },
+    "4608": {
+        "name": "White Cedar Timber",
+        "stock": "15065",
+        "volume": "551384569",
+        "price": "615"
+    },
+    "4609": {
+        "name": "Acacia Timber",
+        "stock": "166009",
+        "volume": "531333279",
+        "price": "2080"
+    },
+    "4610": {
+        "name": "Palm Timber",
+        "stock": "41063",
+        "volume": "675601070",
+        "price": "488"
+    },
+    "4611": {
+        "name": "Elder Tree Timber",
+        "stock": "105269",
+        "volume": "661006889",
+        "price": "468"
+    },
+    "4612": {
+        "name": "Cactus Rind",
+        "stock": "97781",
+        "volume": "98284245",
+        "price": "362"
+    },
+    "4613": {
+        "name": "Old Tree Branch",
+        "stock": "1679329",
+        "volume": "2848936",
+        "price": "446"
+    },
+    "4614": {
+        "name": "Moss Tree Timber",
+        "stock": "73628",
+        "volume": "201703885",
+        "price": "525"
+    },
+    "4615": {
+        "name": "Loopy Tree Timber",
+        "stock": "111827",
+        "volume": "131061435",
+        "price": "520"
+    },
+    "4616": {
+        "name": "Thuja Timber",
+        "stock": "49223",
+        "volume": "41131091",
+        "price": "459"
+    },
+    "4619": {
+        "name": "Thornwood Timber",
+        "stock": "10000",
+        "volume": "34065707",
+        "price": "469"
+    },
+    "4651": {
+        "name": "Ash Plank",
+        "stock": "1700",
+        "volume": "188236703",
+        "price": "1270"
+    },
+    "4652": {
+        "name": "Ash Plywood",
+        "stock": "84813",
+        "volume": "149981321",
+        "price": "9500"
+    },
+    "4653": {
+        "name": "Sturdy Ash Plywood",
+        "stock": "795",
+        "volume": "412127",
+        "price": "520000"
+    },
+    "4654": {
+        "name": "Maple Plank",
+        "stock": "9",
+        "volume": "195078639",
+        "price": "2840"
+    },
+    "4655": {
+        "name": "Maple Plywood",
+        "stock": "0",
+        "volume": "195601114",
+        "price": "11100"
+    },
+    "4656": {
+        "name": "Sturdy Maple Plywood",
+        "stock": "975",
+        "volume": "211138",
+        "price": "555000"
+    },
+    "4657": {
+        "name": "Pine Plank",
+        "stock": "30",
+        "volume": "104228443",
+        "price": "2450"
+    },
+    "4658": {
+        "name": "Pine Plywood",
+        "stock": "25180",
+        "volume": "125105086",
+        "price": "12200"
+    },
+    "4659": {
+        "name": "Sturdy Pine Plywood",
+        "stock": "826",
+        "volume": "536419",
+        "price": "499000"
+    },
+    "4660": {
+        "name": "Birch Plank",
+        "stock": "18118",
+        "volume": "163454965",
+        "price": "2280"
+    },
+    "4661": {
+        "name": "Birch Plywood",
+        "stock": "44265",
+        "volume": "163810463",
+        "price": "13500"
+    },
+    "4662": {
+        "name": "Sturdy Birch Plywood",
+        "stock": "3084",
+        "volume": "256538",
+        "price": "565000"
+    },
+    "4663": {
+        "name": "Fir Plank",
+        "stock": "3615",
+        "volume": "144858724",
+        "price": "3090"
+    },
+    "4664": {
+        "name": "Fir Plywood",
+        "stock": "25344",
+        "volume": "155860258",
+        "price": "14600"
+    },
+    "4665": {
+        "name": "Sturdy Fir Plywood",
+        "stock": "114",
+        "volume": "253376",
+        "price": "152000"
+    },
+    "4666": {
+        "name": "Cedar Plank",
+        "stock": "29429",
+        "volume": "173578943",
+        "price": "3970"
+    },
+    "4667": {
+        "name": "Cedar Plywood",
+        "stock": "39283",
+        "volume": "160699246",
+        "price": "14800"
+    },
+    "4668": {
+        "name": "Sturdy Cedar Plywood",
+        "stock": "127",
+        "volume": "85455",
+        "price": "125000"
+    },
+    "4669": {
+        "name": "Usable Scantling",
+        "stock": "0",
+        "volume": "38453537",
+        "price": "30600"
+    },
+    "4670": {
+        "name": "Palm Plank",
+        "stock": "1846624",
+        "volume": "53060418",
+        "price": "1710"
+    },
+    "4671": {
+        "name": "Palm Plywood",
+        "stock": "63799",
+        "volume": "19742206",
+        "price": "13700"
+    },
+    "4672": {
+        "name": "Sturdy Palm Plywood",
+        "stock": "1559",
+        "volume": "129407",
+        "price": "429000"
+    },
+    "4673": {
+        "name": "Elder Tree Plank",
+        "stock": "1357632",
+        "volume": "40356001",
+        "price": "1870"
+    },
+    "4674": {
+        "name": "Elder Tree Plywood",
+        "stock": "118887",
+        "volume": "13067185",
+        "price": "14900"
+    },
+    "4675": {
+        "name": "Sturdy Elder Tree Plywood",
+        "stock": "1288",
+        "volume": "85762",
+        "price": "535000"
+    },
+    "4676": {
+        "name": "White Cedar Plank",
+        "stock": "1969",
+        "volume": "51867419",
+        "price": "2110"
+    },
+    "4677": {
+        "name": "White Cedar Plywood",
+        "stock": "133015",
+        "volume": "48417652",
+        "price": "13600"
+    },
+    "4678": {
+        "name": "Sturdy White Cedar Plywood",
+        "stock": "297",
+        "volume": "82324",
+        "price": "492000"
+    },
+    "4680": {
+        "name": "Acacia Plank",
+        "stock": "5601",
+        "volume": "42124610",
+        "price": "5100"
+    },
+    "4681": {
+        "name": "Acacia Plywood",
+        "stock": "13837",
+        "volume": "48034554",
+        "price": "26000"
+    },
+    "4682": {
+        "name": "Sturdy Acacia Plywood",
+        "stock": "730",
+        "volume": "74837",
+        "price": "535000"
+    },
+    "4683": {
+        "name": "Cactus Thorn",
+        "stock": "21006",
+        "volume": "3797479",
+        "price": "4170"
+    },
+    "4684": {
+        "name": "Plywood Hardener",
+        "stock": "3679",
+        "volume": "8802917",
+        "price": "249000"
+    },
+    "4685": {
+        "name": "Standardized Timber Square",
+        "stock": "0",
+        "volume": "10427561",
+        "price": "99000"
+    },
+    "4686": {
+        "name": "Sturdy Timber Square",
+        "stock": "0",
+        "volume": "81387",
+        "price": "730000"
+    },
+    "4687": {
+        "name": "Hard Pillar",
+        "stock": "2160",
+        "volume": "981437",
+        "price": "3440000"
+    },
+    "4688": {
+        "name": "Ship Repair Material",
+        "stock": "228844",
+        "volume": "33996873",
+        "price": "8100"
+    },
+    "4689": {
+        "name": "Ship Repair Kit",
+        "stock": "0",
+        "volume": "43095",
+        "price": "373000"
+    },
+    "4691": {
+        "name": "Pine Coated Plywood",
+        "stock": "0",
+        "volume": "9364813",
+        "price": "59000"
+    },
+    "4694": {
+        "name": "Moss Tree Plank",
+        "stock": "183095",
+        "volume": "44218863",
+        "price": "1470"
+    },
+    "4695": {
+        "name": "Moss Tree Plywood",
+        "stock": "49738",
+        "volume": "9673065",
+        "price": "14700"
+    },
+    "4696": {
+        "name": "Sturdy Moss Tree Plywood",
+        "stock": "534",
+        "volume": "36198",
+        "price": "464000"
+    },
+    "4697": {
+        "name": "Loopy Tree Plank",
+        "stock": "22147",
+        "volume": "83516415",
+        "price": "2160"
+    },
+    "4698": {
+        "name": "Loopy Tree Plywood",
+        "stock": "561695",
+        "volume": "1650920",
+        "price": "15400"
+    },
+    "4699": {
+        "name": "Sturdy Loopy Tree Plywood",
+        "stock": "3591",
+        "volume": "86172",
+        "price": "595000"
+    },
+    "4700": {
+        "name": "Emergency Ship Repair Kit",
+        "stock": "1315",
+        "volume": "2536970",
+        "price": "74500"
+    },
+    "4701": {
+        "name": "Thuja Plank",
+        "stock": "310700",
+        "volume": "4824067",
+        "price": "1950"
+    },
+    "4702": {
+        "name": "Thuja Plywood",
+        "stock": "171657",
+        "volume": "1565702",
+        "price": "15800"
+    },
+    "4703": {
+        "name": "Sturdy Thuja Plywood",
+        "stock": "623",
+        "volume": "110277",
+        "price": "570000"
+    },
+    "4710": {
+        "name": "Thornwood Plank",
+        "stock": "26631",
+        "volume": "1247107",
+        "price": "1730"
+    },
+    "4711": {
+        "name": "Thornwood Plywood",
+        "stock": "27526",
+        "volume": "1158268",
+        "price": "13600"
+    },
+    "4712": {
+        "name": "Sturdy Thornwood Plywood",
+        "stock": "754",
+        "volume": "9631",
+        "price": "600000"
+    },
+    "4801": {
+        "name": "Powder of Darkness",
+        "stock": "140503",
+        "volume": "452173633",
+        "price": "3310"
+    },
+    "4802": {
+        "name": "Powder of Flame",
+        "stock": "3838693",
+        "volume": "302394579",
+        "price": "2020"
+    },
+    "4803": {
+        "name": "Powder of Crevice",
+        "stock": "3838355",
+        "volume": "212405807",
+        "price": "1620"
+    },
+    "4804": {
+        "name": "Powder of Earth",
+        "stock": "75745",
+        "volume": "171474258",
+        "price": "9650"
+    },
+    "4805": {
+        "name": "Powder of Time",
+        "stock": "3013941",
+        "volume": "248026277",
+        "price": "2040"
+    },
+    "4901": {
+        "name": "Black Stone Powder",
+        "stock": "64365",
+        "volume": "1422713007",
+        "price": "3050"
+    },
+    "4902": {
+        "name": "Alluvial Gold",
+        "stock": "1826",
+        "volume": "11417013",
+        "price": "4800"
+    },
+    "4903": {
+        "name": "Empty Crystal",
+        "stock": "22",
+        "volume": "47542",
+        "price": "970"
+    },
+    "4917": {
+        "name": "Forest Fury",
+        "stock": "0",
+        "volume": "1312376",
+        "price": "22400000"
+    },
+    "5001": {
+        "name": "Ash Sap",
+        "stock": "0",
+        "volume": "176859699",
+        "price": "6150"
+    },
+    "5002": {
+        "name": "Maple Sap",
+        "stock": "0",
+        "volume": "261942587",
+        "price": "6700"
+    },
+    "5003": {
+        "name": "Pine Sap",
+        "stock": "164",
+        "volume": "198331057",
+        "price": "8800"
+    },
+    "5004": {
+        "name": "Birch Sap",
+        "stock": "1942",
+        "volume": "183193371",
+        "price": "2050"
+    },
+    "5005": {
+        "name": "Bloody Tree Knot",
+        "stock": "79137",
+        "volume": "159192310",
+        "price": "4160"
+    },
+    "5006": {
+        "name": "Spirit's Leaf",
+        "stock": "182245",
+        "volume": "206754820",
+        "price": "2430"
+    },
+    "5007": {
+        "name": "Monk's Branch",
+        "stock": "6686",
+        "volume": "205899007",
+        "price": "2890"
+    },
+    "5008": {
+        "name": "Old Tree Bark",
+        "stock": "709",
+        "volume": "196949073",
+        "price": "15300"
+    },
+    "5009": {
+        "name": "Fir Sap",
+        "stock": "64012",
+        "volume": "355814300",
+        "price": "3310"
+    },
+    "5010": {
+        "name": "Cedar Sap",
+        "stock": "46252",
+        "volume": "206041519",
+        "price": "8100"
+    },
+    "5011": {
+        "name": "Red Tree Lump",
+        "stock": "24615",
+        "volume": "230131269",
+        "price": "2460"
+    },
+    "5012": {
+        "name": "White Cedar Sap",
+        "stock": "0",
+        "volume": "150609503",
+        "price": "7350"
+    },
+    "5013": {
+        "name": "Acacia Sap",
+        "stock": "0",
+        "volume": "122781986",
+        "price": "7350"
+    },
+    "5014": {
+        "name": "Elder Tree Sap",
+        "stock": "5213",
+        "volume": "157442920",
+        "price": "6450"
+    },
+    "5015": {
+        "name": "Palm Sap",
+        "stock": "12887",
+        "volume": "1936944",
+        "price": "4810"
+    },
+    "5016": {
+        "name": "Cactus Sap",
+        "stock": "0",
+        "volume": "7559153",
+        "price": "1150"
+    },
+    "5017": {
+        "name": "Moss Tree Sap",
+        "stock": "0",
+        "volume": "35040128",
+        "price": "1430"
+    },
+    "5018": {
+        "name": "Loopy Tree Sap",
+        "stock": "0",
+        "volume": "57801679",
+        "price": "13700"
+    },
+    "5019": {
+        "name": "Dead Tree Essence",
+        "stock": "0",
+        "volume": "3570075",
+        "price": "210000"
+    },
+    "5020": {
+        "name": "Thuja Sap",
+        "stock": "30703",
+        "volume": "27330623",
+        "price": "19600"
+    },
+    "5023": {
+        "name": "Thornwood Sap",
+        "stock": "0",
+        "volume": "6680099",
+        "price": "8050"
+    },
+    "5201": {
+        "name": "Fruit of Crimson Flame",
+        "stock": "819",
+        "volume": "11132126",
+        "price": "60000"
+    },
+    "5202": {
+        "name": "Essence of Crimson Flame",
+        "stock": "2328",
+        "volume": "677397",
+        "price": "204000"
+    },
+    "5203": {
+        "name": "Fruit of Abundance",
+        "stock": "236",
+        "volume": "19033416",
+        "price": "74500"
+    },
+    "5204": {
+        "name": "Essence of Abundance",
+        "stock": "2131",
+        "volume": "1216680",
+        "price": "181000"
+    },
+    "5205": {
+        "name": "Fruit of Nature",
+        "stock": "8646",
+        "volume": "29377956",
+        "price": "72000"
+    },
+    "5206": {
+        "name": "Essence of Nature",
+        "stock": "1384",
+        "volume": "71474",
+        "price": "42400"
+    },
+    "5207": {
+        "name": "Fruit of the Sun",
+        "stock": "491",
+        "volume": "13170790",
+        "price": "68500"
+    },
+    "5208": {
+        "name": "Essence of the Sun",
+        "stock": "1516",
+        "volume": "794763",
+        "price": "179000"
+    },
+    "5209": {
+        "name": "Fruit of Enchantment",
+        "stock": "3147",
+        "volume": "10283235",
+        "price": "61500"
+    },
+    "5210": {
+        "name": "Essence of Enchantment",
+        "stock": "940",
+        "volume": "1543469",
+        "price": "70500"
+    },
+    "5211": {
+        "name": "Fruit of Magic Power",
+        "stock": "127",
+        "volume": "8950749",
+        "price": "70000"
+    },
+    "5212": {
+        "name": "Essence of Magic Power",
+        "stock": "520",
+        "volume": "193635",
+        "price": "88000"
+    },
+    "5213": {
+        "name": "Fruit of Perfection",
+        "stock": "76358",
+        "volume": "2942068",
+        "price": "29800"
+    },
+    "5214": {
+        "name": "Essence of Perfection",
+        "stock": "1027",
+        "volume": "475611",
+        "price": "55500"
+    },
+    "5215": {
+        "name": "Fruit of Destruction",
+        "stock": "0",
+        "volume": "3661042",
+        "price": "25700"
+    },
+    "5216": {
+        "name": "Essence of Destruction",
+        "stock": "294",
+        "volume": "273849",
+        "price": "80000"
+    },
+    "5217": {
+        "name": "Deep Sea Fruit",
+        "stock": "0",
+        "volume": "87352",
+        "price": "391000"
+    },
+    "5301": {
+        "name": "Clear Liquid Reagent",
+        "stock": "65250",
+        "volume": "359045526",
+        "price": "2580"
+    },
+    "5302": {
+        "name": "Pure Powder Reagent",
+        "stock": "51037",
+        "volume": "203854974",
+        "price": "2410"
+    },
+    "5401": {
+        "name": "Sunrise Herb",
+        "stock": "95706",
+        "volume": "716135055",
+        "price": "204"
+    },
+    "5402": {
+        "name": "Silver Azalea",
+        "stock": "107765",
+        "volume": "940329144",
+        "price": "234"
+    },
+    "5403": {
+        "name": "Fire Flake Flower",
+        "stock": "0",
+        "volume": "187422229",
+        "price": "391"
+    },
+    "5404": {
+        "name": "Dry Mane Grass",
+        "stock": "7",
+        "volume": "179580399",
+        "price": "319"
+    },
+    "5405": {
+        "name": "Silk Honey Grass",
+        "stock": "2637",
+        "volume": "243044789",
+        "price": "209"
+    },
+    "5406": {
+        "name": "Everlasting Herb",
+        "stock": "18934",
+        "volume": "26818536",
+        "price": "9350"
+    },
+    "5407": {
+        "name": "Fortune Teller Mushroom",
+        "stock": "18233",
+        "volume": "218579410",
+        "price": "367"
+    },
+    "5408": {
+        "name": "Arrow Mushroom",
+        "stock": "0",
+        "volume": "219529972",
+        "price": "690"
+    },
+    "5409": {
+        "name": "Dwarf Mushroom",
+        "stock": "74071",
+        "volume": "132294249",
+        "price": "392"
+    },
+    "5410": {
+        "name": "Cloud Mushroom",
+        "stock": "1192446",
+        "volume": "307881054",
+        "price": "408"
+    },
+    "5411": {
+        "name": "Sky Mushroom",
+        "stock": "5258",
+        "volume": "33169838",
+        "price": "415"
+    },
+    "5412": {
+        "name": "Tiger Mushroom",
+        "stock": "58320",
+        "volume": "183671074",
+        "price": "389"
+    },
+    "5413": {
+        "name": "Emperor Mushroom",
+        "stock": "0",
+        "volume": "64371969",
+        "price": "700"
+    },
+    "5414": {
+        "name": "Ghost Mushroom",
+        "stock": "0",
+        "volume": "30574526",
+        "price": "775"
+    },
+    "5415": {
+        "name": "Fog Mushroom",
+        "stock": "625",
+        "volume": "2262433",
+        "price": "3350"
+    },
+    "5416": {
+        "name": "Hump Mushroom",
+        "stock": "15684",
+        "volume": "1882926",
+        "price": "3510"
+    },
+    "5417": {
+        "name": "Bluffer Mushroom",
+        "stock": "0",
+        "volume": "2665761",
+        "price": "3260"
+    },
+    "5418": {
+        "name": "Ancient Mushroom",
+        "stock": "0",
+        "volume": "1620013",
+        "price": "3510"
+    },
+    "5419": {
+        "name": "Amanita Mushroom",
+        "stock": "0",
+        "volume": "1761408",
+        "price": "2630"
+    },
+    "5420": {
+        "name": "Truffle Mushroom",
+        "stock": "0",
+        "volume": "303630",
+        "price": "93500"
+    },
+    "5421": {
+        "name": "Pile of Sunrise Herbs",
+        "stock": "202937",
+        "volume": "31344844",
+        "price": "610"
+    },
+    "5422": {
+        "name": "Bunch of Silver Azaleas",
+        "stock": "68976",
+        "volume": "12280338",
+        "price": "700"
+    },
+    "5423": {
+        "name": "Bunch of Fire Flake Flowers",
+        "stock": "0",
+        "volume": "53942",
+        "price": "1280"
+    },
+    "5424": {
+        "name": "Bunch of Dry Mane Grass",
+        "stock": "513",
+        "volume": "21428",
+        "price": "995"
+    },
+    "5425": {
+        "name": "Bunch of Silk Honey Grass",
+        "stock": "104614",
+        "volume": "5393344",
+        "price": "610"
+    },
+    "5426": {
+        "name": "Big Fortune Teller Mushroom",
+        "stock": "228848",
+        "volume": "8867342",
+        "price": "790"
+    },
+    "5427": {
+        "name": "Big Arrow Mushroom",
+        "stock": "132",
+        "volume": "17474612",
+        "price": "2010"
+    },
+    "5428": {
+        "name": "Big Dwarf Mushroom",
+        "stock": "151790",
+        "volume": "8098053",
+        "price": "1220"
+    },
+    "5429": {
+        "name": "Big Cloud Mushroom",
+        "stock": "10694",
+        "volume": "10520307",
+        "price": "2200"
+    },
+    "5430": {
+        "name": "Big Sky Mushroom",
+        "stock": "10742",
+        "volume": "2102583",
+        "price": "1270"
+    },
+    "5431": {
+        "name": "Big Tiger Mushroom",
+        "stock": "1593317",
+        "volume": "8496543",
+        "price": "1150"
+    },
+    "5432": {
+        "name": "Big Emperor Mushroom",
+        "stock": "1705126",
+        "volume": "364015",
+        "price": "1150"
+    },
+    "5433": {
+        "name": "Big Ghost Mushroom",
+        "stock": "198",
+        "volume": "1899754",
+        "price": "1820"
+    },
+    "5434": {
+        "name": "Big Fog Mushroom",
+        "stock": "38",
+        "volume": "17826",
+        "price": "3590"
+    },
+    "5435": {
+        "name": "Big Hump Mushroom",
+        "stock": "38",
+        "volume": "16288",
+        "price": "3710"
+    },
+    "5436": {
+        "name": "Big Bluffer Mushroom",
+        "stock": "569",
+        "volume": "16783",
+        "price": "6550"
+    },
+    "5437": {
+        "name": "Big Ancient Mushroom",
+        "stock": "0",
+        "volume": "16012",
+        "price": "3950"
+    },
+    "5438": {
+        "name": "Big Amanita Mushroom",
+        "stock": "0",
+        "volume": "9128",
+        "price": "3750"
+    },
+    "5439": {
+        "name": "Wild Grass",
+        "stock": "1689691",
+        "volume": "414159324",
+        "price": "1020"
+    },
+    "5440": {
+        "name": "Insectivore Plant Flower",
+        "stock": "0",
+        "volume": "30118",
+        "price": "11700"
+    },
+    "5441": {
+        "name": "Insectivore Plant Leaf",
+        "stock": "0",
+        "volume": "96200",
+        "price": "12100"
+    },
+    "5442": {
+        "name": "Insectivore Plant Stalk",
+        "stock": "0",
+        "volume": "16645",
+        "price": "5200"
+    },
+    "5443": {
+        "name": "Insectivore Plant Root",
+        "stock": "0",
+        "volume": "26895",
+        "price": "4490"
+    },
+    "5444": {
+        "name": "High-Quality Sunrise Herb",
+        "stock": "574",
+        "volume": "2677596",
+        "price": "1940"
+    },
+    "5445": {
+        "name": "High-Quality Silver Azalea",
+        "stock": "1110",
+        "volume": "1286339",
+        "price": "2150"
+    },
+    "5446": {
+        "name": "High-Quality Fire Flake Flower",
+        "stock": "8",
+        "volume": "2244731",
+        "price": "1980"
+    },
+    "5447": {
+        "name": "High-Quality Dry Mane Grass",
+        "stock": "219",
+        "volume": "3715845",
+        "price": "1910"
+    },
+    "5448": {
+        "name": "High-Quality Silk Honey Grass",
+        "stock": "1025",
+        "volume": "697451",
+        "price": "1940"
+    },
+    "5450": {
+        "name": "High-Quality Fortune Teller Mushroom",
+        "stock": "457",
+        "volume": "230360",
+        "price": "3480"
+    },
+    "5451": {
+        "name": "High-Quality Arrow Mushroom",
+        "stock": "5193",
+        "volume": "885966",
+        "price": "3650"
+    },
+    "5452": {
+        "name": "High-Quality Dwarf Mushroom",
+        "stock": "1743",
+        "volume": "456820",
+        "price": "3410"
+    },
+    "5453": {
+        "name": "High-Quality Cloud Mushroom",
+        "stock": "2966",
+        "volume": "468400",
+        "price": "3740"
+    },
+    "5454": {
+        "name": "High-Quality Sky Mushroom",
+        "stock": "816",
+        "volume": "534844",
+        "price": "3410"
+    },
+    "5455": {
+        "name": "High-Quality Tiger Mushroom",
+        "stock": "367",
+        "volume": "181153",
+        "price": "3680"
+    },
+    "5456": {
+        "name": "High-Quality Emperor Mushroom",
+        "stock": "3861",
+        "volume": "587599",
+        "price": "2760"
+    },
+    "5457": {
+        "name": "High-Quality Ghost Mushroom",
+        "stock": "146",
+        "volume": "438793",
+        "price": "7400"
+    },
+    "5458": {
+        "name": "High-Quality Fog Mushroom",
+        "stock": "13901",
+        "volume": "2001803",
+        "price": "15600"
+    },
+    "5459": {
+        "name": "High-Quality Hump Mushroom",
+        "stock": "0",
+        "volume": "2129703",
+        "price": "11200"
+    },
+    "5460": {
+        "name": "High-Quality Bluffer Mushroom",
+        "stock": "11459",
+        "volume": "1567495",
+        "price": "11300"
+    },
+    "5461": {
+        "name": "High-Quality Ancient Mushroom",
+        "stock": "12534",
+        "volume": "1030133",
+        "price": "9650"
+    },
+    "5462": {
+        "name": "High-Quality Amanita Mushroom",
+        "stock": "7897",
+        "volume": "1237466",
+        "price": "9700"
+    },
+    "5464": {
+        "name": "Special Sunrise Herb",
+        "stock": "1082",
+        "volume": "7232877",
+        "price": "9000"
+    },
+    "5465": {
+        "name": "Special Silver Azalea",
+        "stock": "10182",
+        "volume": "5137827",
+        "price": "10000"
+    },
+    "5466": {
+        "name": "Special Fire Flake Flower",
+        "stock": "0",
+        "volume": "20022288",
+        "price": "8450"
+    },
+    "5467": {
+        "name": "Special Dry Mane Grass",
+        "stock": "11837",
+        "volume": "21324205",
+        "price": "4060"
+    },
+    "5468": {
+        "name": "Special Silk Honey Grass",
+        "stock": "4300",
+        "volume": "2978900",
+        "price": "8450"
+    },
+    "5470": {
+        "name": "Special Fortune Teller Mushroom",
+        "stock": "1858",
+        "volume": "1649244",
+        "price": "7800"
+    },
+    "5471": {
+        "name": "Special Arrow Mushroom",
+        "stock": "6125",
+        "volume": "3450779",
+        "price": "10400"
+    },
+    "5472": {
+        "name": "Special Dwarf Mushroom",
+        "stock": "1295",
+        "volume": "2108142",
+        "price": "9450"
+    },
+    "5473": {
+        "name": "Special Cloud Mushroom",
+        "stock": "9773",
+        "volume": "1540179",
+        "price": "8250"
+    },
+    "5474": {
+        "name": "Special Sky Mushroom",
+        "stock": "5808",
+        "volume": "1774182",
+        "price": "10000"
+    },
+    "5475": {
+        "name": "Special Tiger Mushroom",
+        "stock": "703",
+        "volume": "2072609",
+        "price": "10900"
+    },
+    "5476": {
+        "name": "Special Emperor Mushroom",
+        "stock": "6207",
+        "volume": "5093691",
+        "price": "7700"
+    },
+    "5477": {
+        "name": "Special Ghost Mushroom",
+        "stock": "1305",
+        "volume": "4492376",
+        "price": "9400"
+    },
+    "5478": {
+        "name": "Special Fog Mushroom",
+        "stock": "14651",
+        "volume": "18527841",
+        "price": "12100"
+    },
+    "5479": {
+        "name": "Special Hump Mushroom",
+        "stock": "5000",
+        "volume": "23185999",
+        "price": "5250"
+    },
+    "5480": {
+        "name": "Special Bluffer Mushroom",
+        "stock": "8179",
+        "volume": "18049954",
+        "price": "9550"
+    },
+    "5481": {
+        "name": "Special Ancient Mushroom",
+        "stock": "6464",
+        "volume": "3626516",
+        "price": "9150"
+    },
+    "5482": {
+        "name": "Special Amanita Mushroom",
+        "stock": "2649",
+        "volume": "6592657",
+        "price": "6800"
+    },
+    "5484": {
+        "name": "Nolina",
+        "stock": "5312",
+        "volume": "257824",
+        "price": "275"
+    },
+    "5485": {
+        "name": "Penestraria",
+        "stock": "4599",
+        "volume": "172078",
+        "price": "255"
+    },
+    "5486": {
+        "name": "Dalvenia Alrea",
+        "stock": "0",
+        "volume": "364792",
+        "price": "2280"
+    },
+    "5487": {
+        "name": "Toxic Watermelon",
+        "stock": "548",
+        "volume": "39304",
+        "price": "1370"
+    },
+    "5488": {
+        "name": "Glossy Bone Piece",
+        "stock": "220",
+        "volume": "81366",
+        "price": "8800"
+    },
+    "5489": {
+        "name": "Bouquet Mushroom",
+        "stock": "4648",
+        "volume": "199361",
+        "price": "419"
+    },
+    "5490": {
+        "name": "Leccinum",
+        "stock": "9282",
+        "volume": "74480",
+        "price": "437"
+    },
+    "5491": {
+        "name": "Purple Mushroom",
+        "stock": "23195",
+        "volume": "1233887",
+        "price": "459"
+    },
+    "5492": {
+        "name": "Pie Mushroom",
+        "stock": "7922",
+        "volume": "111589",
+        "price": "448"
+    },
+    "5493": {
+        "name": "Eyelash Cup",
+        "stock": "311",
+        "volume": "20818",
+        "price": "550"
+    },
+    "5494": {
+        "name": "Star Anise Mushroom",
+        "stock": "457",
+        "volume": "36439",
+        "price": "500"
+    },
+    "5495": {
+        "name": "Desert Herb",
+        "stock": "1033",
+        "volume": "31037",
+        "price": "1520"
+    },
+    "5496": {
+        "name": "High-Quality Nolina",
+        "stock": "1920",
+        "volume": "137890",
+        "price": "2080"
+    },
+    "5497": {
+        "name": "High-Quality Penestraria",
+        "stock": "1535",
+        "volume": "240028",
+        "price": "2260"
+    },
+    "5498": {
+        "name": "High-Quality Dalvenia Alrea",
+        "stock": "2963",
+        "volume": "517326",
+        "price": "2930"
+    },
+    "5499": {
+        "name": "High-Quality Bouquet Mushroom",
+        "stock": "668",
+        "volume": "73185",
+        "price": "3250"
+    },
+    "5500": {
+        "name": "High-Quality Leccinum",
+        "stock": "6321",
+        "volume": "249629",
+        "price": "2190"
+    },
+    "5501": {
+        "name": "High-Quality Purple Mushroom",
+        "stock": "7010",
+        "volume": "1811869",
+        "price": "2290"
+    },
+    "5502": {
+        "name": "High-Quality Pie Mushroom",
+        "stock": "4150",
+        "volume": "241266",
+        "price": "2240"
+    },
+    "5503": {
+        "name": "Special Nolina",
+        "stock": "897",
+        "volume": "384517",
+        "price": "7750"
+    },
+    "5504": {
+        "name": "Special Penestraria",
+        "stock": "4100",
+        "volume": "1094188",
+        "price": "7000"
+    },
+    "5505": {
+        "name": "Special Dalvenia Alrea",
+        "stock": "0",
+        "volume": "10134513",
+        "price": "4500"
+    },
+    "5506": {
+        "name": "Special Bouquet Mushroom",
+        "stock": "6686",
+        "volume": "253170",
+        "price": "9450"
+    },
+    "5507": {
+        "name": "Special Leccinum",
+        "stock": "4942",
+        "volume": "188946",
+        "price": "9150"
+    },
+    "5508": {
+        "name": "Special Purple Mushroom",
+        "stock": "3870",
+        "volume": "40376597",
+        "price": "7800"
+    },
+    "5509": {
+        "name": "Special Pie Mushroom",
+        "stock": "3",
+        "volume": "1268522",
+        "price": "8700"
+    },
+    "5515": {
+        "name": "Rainbow Button Mushroom",
+        "stock": "0",
+        "volume": "1963007",
+        "price": "7700"
+    },
+    "5516": {
+        "name": "Blue Umbrella Mushroom",
+        "stock": "282",
+        "volume": "9943730",
+        "price": "1820"
+    },
+    "5517": {
+        "name": "Volcanic Umbrella Mushroom",
+        "stock": "0",
+        "volume": "6781469",
+        "price": "7700"
+    },
+    "5518": {
+        "name": "Pink Trumpet Mushroom",
+        "stock": "473",
+        "volume": "3847610",
+        "price": "1550"
+    },
+    "5519": {
+        "name": "White Umbrella Mushroom",
+        "stock": "50935",
+        "volume": "1698381",
+        "price": "470"
+    },
+    "5520": {
+        "name": "Green Pendulous Mushroom",
+        "stock": "1992617",
+        "volume": "103371",
+        "price": "489"
+    },
+    "5521": {
+        "name": "White Flower Mushroom",
+        "stock": "690336",
+        "volume": "570951",
+        "price": "470"
+    },
+    "5522": {
+        "name": "Vedelona",
+        "stock": "3811",
+        "volume": "710631",
+        "price": "635"
+    },
+    "5523": {
+        "name": "Purple Pink Flower",
+        "stock": "0",
+        "volume": "154462",
+        "price": "5450"
+    },
+    "5524": {
+        "name": "Yellow Flower",
+        "stock": "2690",
+        "volume": "1146865",
+        "price": "560"
+    },
+    "5525": {
+        "name": "Sky Blue Flower",
+        "stock": "0",
+        "volume": "3408654",
+        "price": "5550"
+    },
+    "5526": {
+        "name": "Violet Flower",
+        "stock": "0",
+        "volume": "5272026",
+        "price": "10300"
+    },
+    "5527": {
+        "name": "Blue Flower",
+        "stock": "5327",
+        "volume": "1327508",
+        "price": "570"
+    },
+    "5528": {
+        "name": "Audria",
+        "stock": "3981",
+        "volume": "217000",
+        "price": "560"
+    },
+    "5529": {
+        "name": "Saffron",
+        "stock": "2618",
+        "volume": "181825",
+        "price": "600"
+    },
+    "5530": {
+        "name": "Hazel Tree Fruit",
+        "stock": "1245",
+        "volume": "34680",
+        "price": "1070"
+    },
+    "5531": {
+        "name": "Mimosa Stalk",
+        "stock": "3336",
+        "volume": "65412",
+        "price": "489"
+    },
+    "5532": {
+        "name": "Bracken",
+        "stock": "0",
+        "volume": "27012674",
+        "price": "6150"
+    },
+    "5536": {
+        "name": "High Quality Delotia",
+        "stock": "7585",
+        "volume": "2357648",
+        "price": "8100"
+    },
+    "5537": {
+        "name": "Special Delotia",
+        "stock": "3229",
+        "volume": "18428215",
+        "price": "9600"
+    },
+    "5538": {
+        "name": "Delotia",
+        "stock": "0",
+        "volume": "5569995",
+        "price": "3790"
+    },
+    "5600": {
+        "name": "Weeds",
+        "stock": "660",
+        "volume": "377573275",
+        "price": "670"
+    },
+    "5601": {
+        "name": "Insectivore Plant Powder",
+        "stock": "1549",
+        "volume": "2435603",
+        "price": "46400"
+    },
+    "5602": {
+        "name": "Insectivore Plant Sap",
+        "stock": "0",
+        "volume": "199658",
+        "price": "44500"
+    },
+    "5603": {
+        "name": "Herbal Poison",
+        "stock": "0",
+        "volume": "140887",
+        "price": "40500"
+    },
+    "5604": {
+        "name": "Herbal Gunpowder",
+        "stock": "9916",
+        "volume": "4850211",
+        "price": "29100"
+    },
+    "5605": {
+        "name": "Delotia Powder",
+        "stock": "24283",
+        "volume": "1530235",
+        "price": "14000"
+    },
+    "5606": {
+        "name": "Refined Delotia Reagent",
+        "stock": "20563",
+        "volume": "2269943",
+        "price": "25200"
+    },
+    "5801": {
+        "name": "Cotton",
+        "stock": "79709",
+        "volume": "616041088",
+        "price": "1400"
+    },
+    "5802": {
+        "name": "Flax",
+        "stock": "145934",
+        "volume": "1301653442",
+        "price": "605"
+    },
+    "5803": {
+        "name": "Silkworm Cocoon",
+        "stock": "999496",
+        "volume": "89816062",
+        "price": "915"
+    },
+    "5804": {
+        "name": "Fleece",
+        "stock": "0",
+        "volume": "385708629",
+        "price": "1530"
+    },
+    "5851": {
+        "name": "Cotton Yarn",
+        "stock": "15140",
+        "volume": "66214203",
+        "price": "2880"
+    },
+    "5852": {
+        "name": "Flax Thread",
+        "stock": "1329092",
+        "volume": "127202157",
+        "price": "2430"
+    },
+    "5853": {
+        "name": "Silk Thread",
+        "stock": "300662",
+        "volume": "7861804",
+        "price": "2940"
+    },
+    "5854": {
+        "name": "Knitting Yarn",
+        "stock": "10603",
+        "volume": "99749463",
+        "price": "4940"
+    },
+    "5855": {
+        "name": "Cotton Fabric",
+        "stock": "43687",
+        "volume": "77707770",
+        "price": "21800"
+    },
+    "5856": {
+        "name": "Flax Fabric",
+        "stock": "2406937",
+        "volume": "67973096",
+        "price": "11000"
+    },
+    "5857": {
+        "name": "Silk",
+        "stock": "117498",
+        "volume": "7266883",
+        "price": "13200"
+    },
+    "5858": {
+        "name": "Wool",
+        "stock": "48000",
+        "volume": "49124661",
+        "price": "28800"
+    },
+    "5859": {
+        "name": "Tough Flax Fabric",
+        "stock": "0",
+        "volume": "2214240",
+        "price": "228000"
+    },
+    "5860": {
+        "name": "Enhanced Flax Fabric",
+        "stock": "5358",
+        "volume": "6247671",
+        "price": "48500"
+    },
+    "5861": {
+        "name": "Sunset Dyed Wool",
+        "stock": "0",
+        "volume": "91557",
+        "price": "131000"
+    },
+    "5862": {
+        "name": "Scorched Fragment",
+        "stock": "0",
+        "volume": "702829",
+        "price": "3260000"
+    },
+    "5863": {
+        "name": "Dusk Laden Cotton Fabric",
+        "stock": "250",
+        "volume": "315621",
+        "price": "1500000"
+    },
+    "5864": {
+        "name": "Tear of the Great Ocean",
+        "stock": "5107",
+        "volume": "155169",
+        "price": "14500"
+    },
+    "5865": {
+        "name": "Dawn Fallen Silk",
+        "stock": "513",
+        "volume": "122277",
+        "price": "1980000"
+    },
+    "5870": {
+        "name": "Enlightened One's Cotton Fabric",
+        "stock": "274",
+        "volume": "29037",
+        "price": "1850000"
+    },
+    "5951": {
+        "name": "Trace of Chaos",
+        "stock": "2047",
+        "volume": "18856397",
+        "price": "7100"
+    },
+    "5952": {
+        "name": "Trace of Despair",
+        "stock": "7037",
+        "volume": "11576557",
+        "price": "9300"
+    },
+    "5953": {
+        "name": "Trace of Wave",
+        "stock": "264",
+        "volume": "445706",
+        "price": "8200"
+    },
+    "5954": {
+        "name": "Trace of the Earth",
+        "stock": "0",
+        "volume": "58365482",
+        "price": "86500"
+    },
+    "5955": {
+        "name": "Trace of Ascension",
+        "stock": "0",
+        "volume": "51769032",
+        "price": "86500"
+    },
+    "5956": {
+        "name": "Trace of Savagery",
+        "stock": "5695",
+        "volume": "135315654",
+        "price": "42800"
+    },
+    "5957": {
+        "name": "Trace of Origin",
+        "stock": "176",
+        "volume": "58450983",
+        "price": "67500"
+    },
+    "5958": {
+        "name": "Trace of Battle",
+        "stock": "3216",
+        "volume": "59436636",
+        "price": "61500"
+    },
+    "5959": {
+        "name": "Trace of Hunting",
+        "stock": "1123",
+        "volume": "66123854",
+        "price": "15200"
+    },
+    "5960": {
+        "name": "Trace of Forest",
+        "stock": "107",
+        "volume": "71642050",
+        "price": "35000"
+    },
+    "5961": {
+        "name": "Trace of Violence",
+        "stock": "1363",
+        "volume": "36179405",
+        "price": "40400"
+    },
+    "5962": {
+        "name": "Trace of Death",
+        "stock": "323",
+        "volume": "34290198",
+        "price": "86500"
+    },
+    "5963": {
+        "name": "Trace of Memory",
+        "stock": "200",
+        "volume": "32873437",
+        "price": "62000"
+    },
+    "6001": {
+        "name": "Deer Hide",
+        "stock": "184",
+        "volume": "6174608",
+        "price": "5100"
+    },
+    "6002": {
+        "name": "Sheep Hide",
+        "stock": "9420",
+        "volume": "20153086",
+        "price": "7150"
+    },
+    "6003": {
+        "name": "Fox Hide",
+        "stock": "0",
+        "volume": "6849486",
+        "price": "5100"
+    },
+    "6004": {
+        "name": "Rhino Hide",
+        "stock": "1491",
+        "volume": "4245993",
+        "price": "6500"
+    },
+    "6005": {
+        "name": "Pig Hide",
+        "stock": "0",
+        "volume": "6291716",
+        "price": "6650"
+    },
+    "6006": {
+        "name": "Ox Hide",
+        "stock": "1422",
+        "volume": "18304949",
+        "price": "4770"
+    },
+    "6008": {
+        "name": "Lizard Hide",
+        "stock": "0",
+        "volume": "8554329",
+        "price": "8800"
+    },
+    "6009": {
+        "name": "Worm Hide",
+        "stock": "0",
+        "volume": "332792",
+        "price": "7950"
+    },
+    "6010": {
+        "name": "Raccoon Hide",
+        "stock": "0",
+        "volume": "2046582",
+        "price": "6950"
+    },
+    "6012": {
+        "name": "Weasel Hide",
+        "stock": "0",
+        "volume": "2709897",
+        "price": "4400"
+    },
+    "6013": {
+        "name": "Bear Hide",
+        "stock": "499",
+        "volume": "1057946",
+        "price": "915"
+    },
+    "6014": {
+        "name": "Wolf Hide",
+        "stock": "76678",
+        "volume": "51920675",
+        "price": "1160"
+    },
+    "6015": {
+        "name": "Waragon Hide",
+        "stock": "9583",
+        "volume": "4174085",
+        "price": "1440"
+    },
+    "6016": {
+        "name": "Cheetah Dragon Hide",
+        "stock": "297",
+        "volume": "334957",
+        "price": "4700"
+    },
+    "6017": {
+        "name": "Soft Kuku Bird Plume",
+        "stock": "4170",
+        "volume": "2508685",
+        "price": "915"
+    },
+    "6018": {
+        "name": "Flamingo Plume",
+        "stock": "525",
+        "volume": "604502",
+        "price": "2340"
+    },
+    "6019": {
+        "name": "Snake Skin",
+        "stock": "914",
+        "volume": "833267",
+        "price": "1430"
+    },
+    "6020": {
+        "name": "Lion Hide",
+        "stock": "1523",
+        "volume": "3073074",
+        "price": "7000"
+    },
+    "6021": {
+        "name": "Feather Wolf Hide",
+        "stock": "5902",
+        "volume": "126024673",
+        "price": "1980"
+    },
+    "6022": {
+        "name": "Black Leopard Hide",
+        "stock": "0",
+        "volume": "2659050",
+        "price": "4380"
+    },
+    "6023": {
+        "name": "Gazelle Hide",
+        "stock": "0",
+        "volume": "950655",
+        "price": "5350"
+    },
+    "6024": {
+        "name": "Griffon Feather",
+        "stock": "88",
+        "volume": "5047455",
+        "price": "1510"
+    },
+    "6025": {
+        "name": "Soft Ferri Feather",
+        "stock": "1956058",
+        "volume": "36176256",
+        "price": "915"
+    },
+    "6026": {
+        "name": "Belladonna Elephant Hide",
+        "stock": "569",
+        "volume": "24583279",
+        "price": "6900"
+    },
+    "6027": {
+        "name": "Yak Hide",
+        "stock": "0",
+        "volume": "4147073",
+        "price": "8350"
+    },
+    "6028": {
+        "name": "Marmot Hide",
+        "stock": "509",
+        "volume": "77955",
+        "price": "6550"
+    },
+    "6029": {
+        "name": "Llama Hide",
+        "stock": "113",
+        "volume": "1488324",
+        "price": "5200"
+    },
+    "6030": {
+        "name": "Goat Hide",
+        "stock": "4036",
+        "volume": "2564581",
+        "price": "7050"
+    },
+    "6031": {
+        "name": "Griffon Leather",
+        "stock": "0",
+        "volume": "5161",
+        "price": "3340000"
+    },
+    "6151": {
+        "name": "Soft Hide",
+        "stock": "116",
+        "volume": "12731302",
+        "price": "28100"
+    },
+    "6152": {
+        "name": "Tough Hide",
+        "stock": "0",
+        "volume": "13163261",
+        "price": "13400"
+    },
+    "6153": {
+        "name": "Hard Hide",
+        "stock": "0",
+        "volume": "11359313",
+        "price": "37400"
+    },
+    "6154": {
+        "name": "Thin Hide",
+        "stock": "6301",
+        "volume": "1081767",
+        "price": "20700"
+    },
+    "6155": {
+        "name": "Thick Fur",
+        "stock": "904690",
+        "volume": "878158",
+        "price": "2610"
+    },
+    "6156": {
+        "name": "Fancy Reptile Skin",
+        "stock": "6530",
+        "volume": "773715",
+        "price": "23400"
+    },
+    "6157": {
+        "name": "Lightweight Plume",
+        "stock": "780759",
+        "volume": "3360286",
+        "price": "3670"
+    },
+    "6158": {
+        "name": "Fancy Feather",
+        "stock": "760",
+        "volume": "721025",
+        "price": "5900"
+    },
+    "6159": {
+        "name": "Fine Soft Hide",
+        "stock": "3860",
+        "volume": "4285057",
+        "price": "94000"
+    },
+    "6160": {
+        "name": "Fine Tough Hide",
+        "stock": "3388",
+        "volume": "11511231",
+        "price": "94500"
+    },
+    "6161": {
+        "name": "Fine Hard Hide",
+        "stock": "0",
+        "volume": "5004085",
+        "price": "125000"
+    },
+    "6162": {
+        "name": "Fine Thin Hide",
+        "stock": "712",
+        "volume": "560219",
+        "price": "87500"
+    },
+    "6163": {
+        "name": "Fine Thick Fur",
+        "stock": "137472",
+        "volume": "786692",
+        "price": "8750"
+    },
+    "6164": {
+        "name": "Fine Fancy Reptile Skin",
+        "stock": "2418",
+        "volume": "573009",
+        "price": "65500"
+    },
+    "6165": {
+        "name": "Fine Lightweight Plume",
+        "stock": "18060",
+        "volume": "3515940",
+        "price": "12200"
+    },
+    "6166": {
+        "name": "Fine Fancy Feather",
+        "stock": "2591",
+        "volume": "630203",
+        "price": "69000"
+    },
+    "6167": {
+        "name": "Supreme Soft Hide",
+        "stock": "0",
+        "volume": "749209",
+        "price": "570000"
+    },
+    "6168": {
+        "name": "Supreme Tough Hide",
+        "stock": "0",
+        "volume": "349725",
+        "price": "600000"
+    },
+    "6169": {
+        "name": "Supreme Hard Hide",
+        "stock": "0",
+        "volume": "950265",
+        "price": "645000"
+    },
+    "6170": {
+        "name": "Supreme Thin Hide",
+        "stock": "0",
+        "volume": "148735",
+        "price": "565000"
+    },
+    "6171": {
+        "name": "Supreme Thick Fur",
+        "stock": "3164",
+        "volume": "4342",
+        "price": "65500"
+    },
+    "6172": {
+        "name": "Supreme Fancy Reptile Skin",
+        "stock": "16",
+        "volume": "2829",
+        "price": "55500"
+    },
+    "6173": {
+        "name": "Supreme Lightweight Plume",
+        "stock": "0",
+        "volume": "148990",
+        "price": "348000"
+    },
+    "6174": {
+        "name": "Supreme Fancy Feather",
+        "stock": "0",
+        "volume": "124146",
+        "price": "655000"
+    },
+    "6183": {
+        "name": "Leather Glaze",
+        "stock": "0",
+        "volume": "3593051",
+        "price": "210000"
+    },
+    "6185": {
+        "name": "Fire Horn",
+        "stock": "144076",
+        "volume": "8373665",
+        "price": "19500"
+    },
+    "6201": {
+        "name": "Deer Blood",
+        "stock": "4900",
+        "volume": "185813800",
+        "price": "10100"
+    },
+    "6202": {
+        "name": "Sheep Blood",
+        "stock": "0",
+        "volume": "297480967",
+        "price": "9250"
+    },
+    "6203": {
+        "name": "Fox Blood",
+        "stock": "0",
+        "volume": "50587870",
+        "price": "7050"
+    },
+    "6204": {
+        "name": "Rhino Blood",
+        "stock": "248",
+        "volume": "5991519",
+        "price": "10400"
+    },
+    "6205": {
+        "name": "Pig Blood",
+        "stock": "0",
+        "volume": "25519826",
+        "price": "8350"
+    },
+    "6206": {
+        "name": "Ox Blood",
+        "stock": "0",
+        "volume": "10923755",
+        "price": "7950"
+    },
+    "6208": {
+        "name": "Lizard Blood",
+        "stock": "0",
+        "volume": "23501720",
+        "price": "10600"
+    },
+    "6209": {
+        "name": "Worm Blood",
+        "stock": "0",
+        "volume": "1072530",
+        "price": "9700"
+    },
+    "6210": {
+        "name": "Raccoon Blood",
+        "stock": "0",
+        "volume": "2924726",
+        "price": "8800"
+    },
+    "6212": {
+        "name": "Weasel Blood",
+        "stock": "5488",
+        "volume": "19353648",
+        "price": "11700"
+    },
+    "6213": {
+        "name": "Bear Blood",
+        "stock": "0",
+        "volume": "3716897",
+        "price": "9700"
+    },
+    "6214": {
+        "name": "Wolf Blood",
+        "stock": "0",
+        "volume": "251416600",
+        "price": "7950"
+    },
+    "6215": {
+        "name": "Waragon Blood",
+        "stock": "23",
+        "volume": "9902433",
+        "price": "10300"
+    },
+    "6216": {
+        "name": "Cheetah Dragon Blood",
+        "stock": "505",
+        "volume": "872112",
+        "price": "9750"
+    },
+    "6217": {
+        "name": "Kuku Bird Blood",
+        "stock": "0",
+        "volume": "4534066",
+        "price": "9700"
+    },
+    "6218": {
+        "name": "Flamingo Blood",
+        "stock": "378",
+        "volume": "1596145",
+        "price": "11400"
+    },
+    "6219": {
+        "name": "Bat Blood",
+        "stock": "0",
+        "volume": "1461529",
+        "price": "10600"
+    },
+    "6220": {
+        "name": "Troll Blood",
+        "stock": "0",
+        "volume": "161112668",
+        "price": "12300"
+    },
+    "6221": {
+        "name": "Ogre Blood",
+        "stock": "1001",
+        "volume": "15986808",
+        "price": "12300"
+    },
+    "6222": {
+        "name": "Cobra Blood",
+        "stock": "0",
+        "volume": "915601",
+        "price": "11500"
+    },
+    "6223": {
+        "name": "Lion Blood",
+        "stock": "1069",
+        "volume": "5187518",
+        "price": "5600"
+    },
+    "6224": {
+        "name": "Scorpion Blood",
+        "stock": "272",
+        "volume": "692476",
+        "price": "11900"
+    },
+    "6225": {
+        "name": "Yak Blood",
+        "stock": "10060",
+        "volume": "5618098",
+        "price": "11000"
+    },
+    "6226": {
+        "name": "Marmot Blood",
+        "stock": "0",
+        "volume": "275100",
+        "price": "7500"
+    },
+    "6227": {
+        "name": "Llama Blood",
+        "stock": "0",
+        "volume": "5916500",
+        "price": "9700"
+    },
+    "6228": {
+        "name": "Goat Blood",
+        "stock": "0",
+        "volume": "5008919",
+        "price": "8800"
+    },
+    "6351": {
+        "name": "Legendary Beast's Blood",
+        "stock": "10279",
+        "volume": "14135522",
+        "price": "67000"
+    },
+    "6352": {
+        "name": "Tyrant's Blood",
+        "stock": "32576",
+        "volume": "23285114",
+        "price": "37400"
+    },
+    "6353": {
+        "name": "Clown's Blood",
+        "stock": "378433",
+        "volume": "104527479",
+        "price": "14100"
+    },
+    "6354": {
+        "name": "Sinner's Blood",
+        "stock": "43966",
+        "volume": "59960518",
+        "price": "12600"
+    },
+    "6355": {
+        "name": "Wise Man's Blood",
+        "stock": "25599",
+        "volume": "17277968",
+        "price": "68000"
+    },
+    "6501": {
+        "name": "Coral Piece",
+        "stock": "12649357",
+        "volume": "83747806",
+        "price": "4150"
+    },
+    "6504": {
+        "name": "Green Coral",
+        "stock": "304",
+        "volume": "1111211",
+        "price": "60500"
+    },
+    "6505": {
+        "name": "Golden Coral",
+        "stock": "1830",
+        "volume": "268096",
+        "price": "81000"
+    },
+    "6506": {
+        "name": "White Coral",
+        "stock": "2565",
+        "volume": "77605",
+        "price": "60500"
+    },
+    "6515": {
+        "name": "Oyster",
+        "stock": "0",
+        "volume": "2743132",
+        "price": "19600"
+    },
+    "6516": {
+        "name": "Shrimp",
+        "stock": "12085",
+        "volume": "6066216",
+        "price": "3450"
+    },
+    "6520": {
+        "name": "Dried Pearl Oyster Flesh",
+        "stock": "0",
+        "volume": "573738",
+        "price": "60500"
+    },
+    "6521": {
+        "name": "Dried Lobster",
+        "stock": "0",
+        "volume": "1181528",
+        "price": "117000"
+    },
+    "6524": {
+        "name": "Prairie Green Coral",
+        "stock": "531",
+        "volume": "696842",
+        "price": "455000"
+    },
+    "6525": {
+        "name": "Golden Sun Coral",
+        "stock": "1075",
+        "volume": "183338",
+        "price": "358000"
+    },
+    "6526": {
+        "name": "Breezy White Coral",
+        "stock": "832",
+        "volume": "21852",
+        "price": "259000"
+    },
+    "6527": {
+        "name": "Golden Pearl",
+        "stock": "0",
+        "volume": "564380",
+        "price": "975000"
+    },
+    "6528": {
+        "name": "Glue",
+        "stock": "0",
+        "volume": "3151731",
+        "price": "196000"
+    },
+    "6533": {
+        "name": "Coral Crystal",
+        "stock": "0",
+        "volume": "9962",
+        "price": "3260000"
+    },
+    "6535": {
+        "name": "Tridana Giant Clam Shellfish",
+        "stock": "0",
+        "volume": "154454",
+        "price": "127000"
+    },
+    "6601": {
+        "name": "Oil of Regeneration",
+        "stock": "784",
+        "volume": "5269592",
+        "price": "69500"
+    },
+    "6602": {
+        "name": "Oil of Storms",
+        "stock": "2685",
+        "volume": "7152857",
+        "price": "68000"
+    },
+    "6603": {
+        "name": "Oil of Fortitude",
+        "stock": "6577",
+        "volume": "10395781",
+        "price": "38900"
+    },
+    "6604": {
+        "name": "Oil of Corruption",
+        "stock": "20755",
+        "volume": "5464676",
+        "price": "40600"
+    },
+    "6605": {
+        "name": "Oil of Tranquility",
+        "stock": "2066",
+        "volume": "2948755",
+        "price": "62000"
+    },
+    "6606": {
+        "name": "Oil of the Abyss",
+        "stock": "2332",
+        "volume": "84790",
+        "price": "246000"
+    },
+    "6651": {
+        "name": "Distilled Water",
+        "stock": "8228",
+        "volume": "18051690",
+        "price": "3320"
+    },
+    "6652": {
+        "name": "Bottle of Sea Water",
+        "stock": "2827",
+        "volume": "15600901",
+        "price": "5550"
+    },
+    "6653": {
+        "name": "Bottle of River Water",
+        "stock": "0",
+        "volume": "97037910",
+        "price": "5850"
+    },
+    "6656": {
+        "name": "Purified Water",
+        "stock": "149895",
+        "volume": "745068976",
+        "price": "4270"
+    },
+    "6657": {
+        "name": "Bag of Muddy Water",
+        "stock": "107799",
+        "volume": "375711906",
+        "price": "1200"
+    },
+    "6701": {
+        "name": "Pepper Seed",
+        "stock": "0",
+        "volume": "645678",
+        "price": "3560"
+    },
+    "6702": {
+        "name": "Garlic Seed",
+        "stock": "0",
+        "volume": "319659",
+        "price": "3140"
+    },
+    "6703": {
+        "name": "Onion Seed",
+        "stock": "0",
+        "volume": "691156",
+        "price": "2950"
+    },
+    "6704": {
+        "name": "Strawberry Seed",
+        "stock": "0",
+        "volume": "284083",
+        "price": "2580"
+    },
+    "6705": {
+        "name": "Hot Pepper Seed",
+        "stock": "0",
+        "volume": "541370",
+        "price": "2670"
+    },
+    "6706": {
+        "name": "Pumpkin Seed",
+        "stock": "0",
+        "volume": "108075",
+        "price": "2770"
+    },
+    "6707": {
+        "name": "Carrot Seed",
+        "stock": "2087",
+        "volume": "378095",
+        "price": "1450"
+    },
+    "6708": {
+        "name": "High-Quality Strawberry Seed",
+        "stock": "438",
+        "volume": "421734",
+        "price": "47700"
+    },
+    "6709": {
+        "name": "Special Strawberry Seed",
+        "stock": "119",
+        "volume": "3506028",
+        "price": "93500"
+    },
+    "6710": {
+        "name": "High-Quality Pepper Seed",
+        "stock": "0",
+        "volume": "624096",
+        "price": "79000"
+    },
+    "6711": {
+        "name": "High-Quality Garlic Seed",
+        "stock": "0",
+        "volume": "181966",
+        "price": "90500"
+    },
+    "6712": {
+        "name": "High-Quality Onion Seed",
+        "stock": "0",
+        "volume": "409240",
+        "price": "87000"
+    },
+    "6714": {
+        "name": "High-Quality Hot Pepper Seed",
+        "stock": "0",
+        "volume": "134409",
+        "price": "82000"
+    },
+    "6715": {
+        "name": "High-Quality Pumpkin Seed",
+        "stock": "663",
+        "volume": "58114",
+        "price": "84000"
+    },
+    "6716": {
+        "name": "High-Quality Carrot Seed",
+        "stock": "7409",
+        "volume": "305578",
+        "price": "12100"
+    },
+    "6717": {
+        "name": "Special Pepper Seed",
+        "stock": "133",
+        "volume": "1313123",
+        "price": "175000"
+    },
+    "6718": {
+        "name": "Special Garlic Seed",
+        "stock": "232",
+        "volume": "705205",
+        "price": "71500"
+    },
+    "6719": {
+        "name": "Special Onion Seed",
+        "stock": "1396",
+        "volume": "1205224",
+        "price": "171000"
+    },
+    "6721": {
+        "name": "Special Hot Pepper Seed",
+        "stock": "397",
+        "volume": "876854",
+        "price": "272000"
+    },
+    "6722": {
+        "name": "Special Pumpkin Seed",
+        "stock": "21",
+        "volume": "815626",
+        "price": "72000"
+    },
+    "6723": {
+        "name": "Special Carrot Seed",
+        "stock": "225",
+        "volume": "1765581",
+        "price": "53500"
+    },
+    "6724": {
+        "name": "Flax Seed",
+        "stock": "684",
+        "volume": "45502",
+        "price": "10100"
+    },
+    "6728": {
+        "name": "Delotia Seed",
+        "stock": "0",
+        "volume": "89649",
+        "price": "3610"
+    },
+    "6729": {
+        "name": "High-Quality Delotia Seed",
+        "stock": "177",
+        "volume": "69224",
+        "price": "71000"
+    },
+    "6730": {
+        "name": "Special Delotia Seeds",
+        "stock": "107",
+        "volume": "183233",
+        "price": "61500"
+    },
+    "6801": {
+        "name": "Grape Seed",
+        "stock": "0",
+        "volume": "295815",
+        "price": "3320"
+    },
+    "6802": {
+        "name": "Sunflower Seed",
+        "stock": "0",
+        "volume": "545439",
+        "price": "3500"
+    },
+    "6803": {
+        "name": "Olive Seed",
+        "stock": "15",
+        "volume": "358753",
+        "price": "3360"
+    },
+    "6804": {
+        "name": "Tomato Seed",
+        "stock": "22",
+        "volume": "114091",
+        "price": "9550"
+    },
+    "6805": {
+        "name": "Paprika Seed",
+        "stock": "0",
+        "volume": "82202",
+        "price": "3140"
+    },
+    "6806": {
+        "name": "Seed Potato",
+        "stock": "0",
+        "volume": "145948",
+        "price": "3350"
+    },
+    "6807": {
+        "name": "Barley Seed",
+        "stock": "0",
+        "volume": "132150",
+        "price": "3350"
+    },
+    "6808": {
+        "name": "Wheat Seed",
+        "stock": "0",
+        "volume": "519581",
+        "price": "3070"
+    },
+    "6809": {
+        "name": "Corn Seed",
+        "stock": "0",
+        "volume": "96104",
+        "price": "3070"
+    },
+    "6810": {
+        "name": "Seed Sweet Potato",
+        "stock": "0",
+        "volume": "286259",
+        "price": "3630"
+    },
+    "6811": {
+        "name": "High-Quality Grape Seed",
+        "stock": "165",
+        "volume": "75978",
+        "price": "65500"
+    },
+    "6812": {
+        "name": "High-Quality Sunflower Seed",
+        "stock": "0",
+        "volume": "923774",
+        "price": "97000"
+    },
+    "6813": {
+        "name": "High-Quality Olive Seed",
+        "stock": "5",
+        "volume": "320082",
+        "price": "97000"
+    },
+    "6814": {
+        "name": "High-Quality Tomato Seed",
+        "stock": "0",
+        "volume": "34909",
+        "price": "87000"
+    },
+    "6815": {
+        "name": "High-Quality Paprika Seed",
+        "stock": "116",
+        "volume": "40201",
+        "price": "90500"
+    },
+    "6816": {
+        "name": "High-Quality Seed Potato",
+        "stock": "94",
+        "volume": "52986",
+        "price": "16100"
+    },
+    "6817": {
+        "name": "High-Quality Barley Seed",
+        "stock": "0",
+        "volume": "54537",
+        "price": "16100"
+    },
+    "6818": {
+        "name": "High-Quality Wheat Seed",
+        "stock": "137",
+        "volume": "448274",
+        "price": "14400"
+    },
+    "6819": {
+        "name": "High-Quality Corn Seed",
+        "stock": "0",
+        "volume": "16537",
+        "price": "14400"
+    },
+    "6820": {
+        "name": "High-Quality Seed Sweet Potato",
+        "stock": "42",
+        "volume": "63308",
+        "price": "17000"
+    },
+    "6821": {
+        "name": "Special Grape Seed",
+        "stock": "0",
+        "volume": "199323",
+        "price": "135000"
+    },
+    "6822": {
+        "name": "Special Sunflower Seed",
+        "stock": "757",
+        "volume": "5502618",
+        "price": "87000"
+    },
+    "6823": {
+        "name": "Special Olive Seed",
+        "stock": "173",
+        "volume": "924740",
+        "price": "69500"
+    },
+    "6824": {
+        "name": "Special Tomato Seed",
+        "stock": "604",
+        "volume": "134435",
+        "price": "221000"
+    },
+    "6825": {
+        "name": "Special Paprika Seed",
+        "stock": "482",
+        "volume": "195269",
+        "price": "224000"
+    },
+    "6826": {
+        "name": "Special Seed Potato",
+        "stock": "672",
+        "volume": "293566",
+        "price": "122000"
+    },
+    "6827": {
+        "name": "Special Barley Seed",
+        "stock": "334",
+        "volume": "209092",
+        "price": "76000"
+    },
+    "6828": {
+        "name": "Special Wheat Seed",
+        "stock": "577",
+        "volume": "2636292",
+        "price": "89500"
+    },
+    "6829": {
+        "name": "Special Corn Seed",
+        "stock": "391",
+        "volume": "79026",
+        "price": "194000"
+    },
+    "6830": {
+        "name": "Special Seed Sweet Potato",
+        "stock": "249",
+        "volume": "130133",
+        "price": "80500"
+    },
+    "6901": {
+        "name": "Sunrise Herb Seed",
+        "stock": "69386",
+        "volume": "160781",
+        "price": "1940"
+    },
+    "6902": {
+        "name": "Silver Azalea Seed",
+        "stock": "159",
+        "volume": "62059",
+        "price": "2790"
+    },
+    "6903": {
+        "name": "Fire Flake Flower Seed",
+        "stock": "1464",
+        "volume": "248261",
+        "price": "2460"
+    },
+    "6904": {
+        "name": "Dry Mane Grass Seed",
+        "stock": "39966",
+        "volume": "301197",
+        "price": "2040"
+    },
+    "6905": {
+        "name": "Silk Honey Grass Seed",
+        "stock": "72",
+        "volume": "29679",
+        "price": "13300"
+    },
+    "6907": {
+        "name": "Fortune Teller Mushroom Hypha",
+        "stock": "0",
+        "volume": "11216",
+        "price": "20100"
+    },
+    "6908": {
+        "name": "Arrow Mushroom Hypha",
+        "stock": "0",
+        "volume": "15284",
+        "price": "22400"
+    },
+    "6909": {
+        "name": "Dwarf Mushroom Hypha",
+        "stock": "41",
+        "volume": "12346",
+        "price": "21300"
+    },
+    "6910": {
+        "name": "Cloud Mushroom Hypha",
+        "stock": "54",
+        "volume": "17912",
+        "price": "22400"
+    },
+    "6911": {
+        "name": "Sky Mushroom Hypha",
+        "stock": "74",
+        "volume": "18026",
+        "price": "15800"
+    },
+    "6912": {
+        "name": "Tiger Mushroom Hypha",
+        "stock": "0",
+        "volume": "5071",
+        "price": "21300"
+    },
+    "6913": {
+        "name": "Emperor Mushroom Hypha",
+        "stock": "61",
+        "volume": "21842",
+        "price": "7350"
+    },
+    "6914": {
+        "name": "Ghost Mushroom Hypha",
+        "stock": "21",
+        "volume": "8845",
+        "price": "22400"
+    },
+    "6915": {
+        "name": "Fog Mushroom Hypha",
+        "stock": "113",
+        "volume": "18878",
+        "price": "21300"
+    },
+    "6916": {
+        "name": "Hump Mushroom Hypha",
+        "stock": "1597",
+        "volume": "24334",
+        "price": "19300"
+    },
+    "6917": {
+        "name": "Bluffer Mushroom Hypha",
+        "stock": "86",
+        "volume": "21822",
+        "price": "26100"
+    },
+    "6918": {
+        "name": "Ancient Mushroom Hypha",
+        "stock": "1",
+        "volume": "14024",
+        "price": "22400"
+    },
+    "6919": {
+        "name": "Amanita Mushroom Hypha",
+        "stock": "60",
+        "volume": "19928",
+        "price": "16800"
+    },
+    "6921": {
+        "name": "Withered Wheat Seed",
+        "stock": "165",
+        "volume": "113324",
+        "price": "164"
+    },
+    "6922": {
+        "name": "Withered Grape Seed",
+        "stock": "0",
+        "volume": "14338",
+        "price": "515"
+    },
+    "6923": {
+        "name": "Withered Sunrise Herb Seed",
+        "stock": "7",
+        "volume": "6063",
+        "price": "475"
+    },
+    "6924": {
+        "name": "Nolina Seed",
+        "stock": "0",
+        "volume": "2264",
+        "price": "18000"
+    },
+    "6925": {
+        "name": "Penestraria Seed",
+        "stock": "0",
+        "volume": "4217",
+        "price": "18500"
+    },
+    "6926": {
+        "name": "Dalvenia Alrea Seed",
+        "stock": "0",
+        "volume": "11027",
+        "price": "25000"
+    },
+    "6927": {
+        "name": "Bouquet Mushroom Hypha",
+        "stock": "8",
+        "volume": "3909",
+        "price": "9100"
+    },
+    "6928": {
+        "name": "Leccinum Hypha",
+        "stock": "1",
+        "volume": "2198",
+        "price": "19900"
+    },
+    "6929": {
+        "name": "Purple Mushroom Hypha",
+        "stock": "370",
+        "volume": "92376",
+        "price": "30400"
+    },
+    "6930": {
+        "name": "Pie Mushroom Hypha",
+        "stock": "0",
+        "volume": "3498",
+        "price": "15800"
+    },
+    "6931": {
+        "name": "High-Quality Nolina Seed",
+        "stock": "36",
+        "volume": "3612",
+        "price": "35500"
+    },
+    "6932": {
+        "name": "High-Quality Penestraria Seed",
+        "stock": "259",
+        "volume": "8684",
+        "price": "13800"
+    },
+    "6933": {
+        "name": "High-Quality Dalvenia Alrea Seed",
+        "stock": "2044",
+        "volume": "30230",
+        "price": "18000"
+    },
+    "6934": {
+        "name": "High-Quality Bouquet Mushroom Hypha",
+        "stock": "169",
+        "volume": "2170",
+        "price": "20900"
+    },
+    "6935": {
+        "name": "High-Quality Leccinum Mushroom Hypha",
+        "stock": "232",
+        "volume": "2104",
+        "price": "35200"
+    },
+    "6936": {
+        "name": "High-Quality Purple Mushroom Hypha",
+        "stock": "11397",
+        "volume": "99547",
+        "price": "21900"
+    },
+    "6937": {
+        "name": "High-Quality Pie Mushroom Hypha",
+        "stock": "924",
+        "volume": "7321",
+        "price": "23100"
+    },
+    "6938": {
+        "name": "Withered Acacia Seed",
+        "stock": "221",
+        "volume": "6390",
+        "price": "419"
+    },
+    "6939": {
+        "name": "Acacia Seed",
+        "stock": "4",
+        "volume": "15260",
+        "price": "5050"
+    },
+    "6940": {
+        "name": "Warm Seed",
+        "stock": "0",
+        "volume": "1649",
+        "price": "650000"
+    },
+    "6941": {
+        "name": "Glossy Seed",
+        "stock": "20",
+        "volume": "5735",
+        "price": "56000"
+    },
+    "6942": {
+        "name": "Dried-Up Seed",
+        "stock": "0",
+        "volume": "843",
+        "price": "16200"
+    },
+    "6943": {
+        "name": "Shelled Seed",
+        "stock": "0",
+        "volume": "1370",
+        "price": "52000"
+    },
+    "6944": {
+        "name": "Shiny Seed",
+        "stock": "24",
+        "volume": "16559",
+        "price": "53500"
+    },
+    "6945": {
+        "name": "Gigantic Seed",
+        "stock": "0",
+        "volume": "1442",
+        "price": "133000"
+    },
+    "6946": {
+        "name": "Small White Seed",
+        "stock": "0",
+        "volume": "954",
+        "price": "32400"
+    },
+    "6947": {
+        "name": "Half-Moon Seed",
+        "stock": "0",
+        "volume": "1343",
+        "price": "62000"
+    },
+    "6948": {
+        "name": "Bumpy Seed",
+        "stock": "0",
+        "volume": "1336",
+        "price": "67000"
+    },
+    "6949": {
+        "name": "Contorted Seed",
+        "stock": "5",
+        "volume": "2191",
+        "price": "56500"
+    },
+    "6950": {
+        "name": "Black Seed",
+        "stock": "0",
+        "volume": "999",
+        "price": "19900"
+    },
+    "6952": {
+        "name": "High-Quality Sunrise Herb Seed",
+        "stock": "3896",
+        "volume": "51018",
+        "price": "9700"
+    },
+    "6953": {
+        "name": "High-Quality Silver Azalea Seed",
+        "stock": "1961",
+        "volume": "28011",
+        "price": "11100"
+    },
+    "6954": {
+        "name": "High-Quality Fire Flake Flower Seed",
+        "stock": "1187",
+        "volume": "48028",
+        "price": "28100"
+    },
+    "6955": {
+        "name": "High-Quality Dry Mane Grass Seed",
+        "stock": "8963",
+        "volume": "80091",
+        "price": "10200"
+    },
+    "6956": {
+        "name": "High-Quality Silk Honey Grass Seed",
+        "stock": "190",
+        "volume": "22555",
+        "price": "55500"
+    },
+    "6958": {
+        "name": "High-Quality Fortune Teller Mushroom Hypha",
+        "stock": "89",
+        "volume": "14135",
+        "price": "97500"
+    },
+    "6959": {
+        "name": "High-Quality Arrow Mushroom Hypha",
+        "stock": "80",
+        "volume": "20965",
+        "price": "100000"
+    },
+    "6960": {
+        "name": "High-Quality Dwarf Mushroom Hypha",
+        "stock": "379",
+        "volume": "12250",
+        "price": "25000"
+    },
+    "6961": {
+        "name": "High-Quality Cloud Mushroom Hypha",
+        "stock": "360",
+        "volume": "12390",
+        "price": "16200"
+    },
+    "6962": {
+        "name": "High-Quality Sky Mushroom Hypha",
+        "stock": "43",
+        "volume": "11745",
+        "price": "39000"
+    },
+    "6963": {
+        "name": "High-Quality Tiger Mushroom Hypha",
+        "stock": "128",
+        "volume": "5988",
+        "price": "56500"
+    },
+    "6964": {
+        "name": "High-Quality Emperor Mushroom Hypha",
+        "stock": "1601",
+        "volume": "22047",
+        "price": "14500"
+    },
+    "6965": {
+        "name": "High-Quality Ghost Mushroom Hypha",
+        "stock": "773",
+        "volume": "10500",
+        "price": "112000"
+    },
+    "6966": {
+        "name": "High-Quality Fog Mushroom Hypha",
+        "stock": "0",
+        "volume": "31153",
+        "price": "107000"
+    },
+    "6967": {
+        "name": "High-Quality Hump Mushroom Hypha",
+        "stock": "0",
+        "volume": "41921",
+        "price": "25300"
+    },
+    "6968": {
+        "name": "High-Quality Bluffer Mushroom Hypha",
+        "stock": "198",
+        "volume": "29374",
+        "price": "97500"
+    },
+    "6969": {
+        "name": "High-Quality Ancient Mushroom Hypha",
+        "stock": "133",
+        "volume": "14565",
+        "price": "112000"
+    },
+    "6970": {
+        "name": "High-Quality Amanita Mushroom Hypha",
+        "stock": "193",
+        "volume": "34187",
+        "price": "96000"
+    },
+    "6972": {
+        "name": "Special Sunrise Herb Seed",
+        "stock": "3070",
+        "volume": "105516",
+        "price": "32900"
+    },
+    "6973": {
+        "name": "Special Silver Azalea Seed",
+        "stock": "3039",
+        "volume": "64549",
+        "price": "38000"
+    },
+    "6974": {
+        "name": "Special Fire Flake Flower Seed",
+        "stock": "7104",
+        "volume": "196065",
+        "price": "36400"
+    },
+    "6975": {
+        "name": "Special Dry Mane Grass Seed",
+        "stock": "7360",
+        "volume": "561917",
+        "price": "34500"
+    },
+    "6976": {
+        "name": "Special Silk Honey Grass Seed",
+        "stock": "1822",
+        "volume": "48498",
+        "price": "32900"
+    },
+    "6978": {
+        "name": "Special Fortune Teller Mushroom Hypha",
+        "stock": "283",
+        "volume": "62924",
+        "price": "49700"
+    },
+    "6979": {
+        "name": "Special Arrow Mushroom Hypha",
+        "stock": "309",
+        "volume": "77294",
+        "price": "145000"
+    },
+    "6980": {
+        "name": "Special Dwarf Mushroom Hypha",
+        "stock": "338",
+        "volume": "40380",
+        "price": "145000"
+    },
+    "6981": {
+        "name": "Special Cloud Mushroom Hypha",
+        "stock": "184",
+        "volume": "50011",
+        "price": "60500"
+    },
+    "6982": {
+        "name": "Special Sky Mushroom Hypha",
+        "stock": "227",
+        "volume": "35544",
+        "price": "73000"
+    },
+    "6983": {
+        "name": "Special Tiger Mushroom Hypha",
+        "stock": "182",
+        "volume": "45764",
+        "price": "116000"
+    },
+    "6984": {
+        "name": "Special Emperor Mushroom Hypha",
+        "stock": "2200",
+        "volume": "157187",
+        "price": "49700"
+    },
+    "6985": {
+        "name": "Special Ghost Mushroom Hypha",
+        "stock": "242",
+        "volume": "169501",
+        "price": "79500"
+    },
+    "6986": {
+        "name": "Special Fog Mushroom Hypha",
+        "stock": "756",
+        "volume": "185556",
+        "price": "98000"
+    },
+    "6987": {
+        "name": "Special Hump Mushroom Hypha",
+        "stock": "9954",
+        "volume": "658684",
+        "price": "44100"
+    },
+    "6988": {
+        "name": "Special Bluffer Mushroom Hypha",
+        "stock": "809",
+        "volume": "139633",
+        "price": "86000"
+    },
+    "6989": {
+        "name": "Special Ancient Mushroom Hypha",
+        "stock": "491",
+        "volume": "78548",
+        "price": "55000"
+    },
+    "6990": {
+        "name": "Special Amanita Mushroom Hypha",
+        "stock": "2071",
+        "volume": "104693",
+        "price": "52000"
+    },
+    "6992": {
+        "name": "Special Nolina Seed",
+        "stock": "26",
+        "volume": "15587",
+        "price": "68500"
+    },
+    "6993": {
+        "name": "Special Penestraria Seed",
+        "stock": "151",
+        "volume": "33755",
+        "price": "68500"
+    },
+    "6994": {
+        "name": "Special Dalvenia Alrea Seed",
+        "stock": "8885",
+        "volume": "1112901",
+        "price": "49200"
+    },
+    "6995": {
+        "name": "Special Bouquet Mushroom Hypha",
+        "stock": "364",
+        "volume": "12005",
+        "price": "86500"
+    },
+    "6996": {
+        "name": "Special Leccinum Hypha",
+        "stock": "216",
+        "volume": "10119",
+        "price": "78500"
+    },
+    "6997": {
+        "name": "Special Purple Mushroom Hypha",
+        "stock": "20606",
+        "volume": "2219106",
+        "price": "74500"
+    },
+    "6998": {
+        "name": "Special Pie Mushroom Hypha",
+        "stock": "233",
+        "volume": "40117",
+        "price": "78500"
+    },
+    "6999": {
+        "name": "High-Quality Acacia Seed",
+        "stock": "498",
+        "volume": "16597",
+        "price": "24600"
+    },
+    "7000": {
+        "name": "Special Acacia Seed",
+        "stock": "226",
+        "volume": "52825",
+        "price": "53500"
+    },
+    "7001": {
+        "name": "Wheat",
+        "stock": "138272",
+        "volume": "1928226803",
+        "price": "1590"
+    },
+    "7002": {
+        "name": "Barley",
+        "stock": "465",
+        "volume": "593834345",
+        "price": "1420"
+    },
+    "7003": {
+        "name": "Potato",
+        "stock": "7440",
+        "volume": "2041857484",
+        "price": "1410"
+    },
+    "7004": {
+        "name": "Sweet Potato",
+        "stock": "43684",
+        "volume": "215971678",
+        "price": "1410"
+    },
+    "7005": {
+        "name": "Corn",
+        "stock": "35299",
+        "volume": "995088301",
+        "price": "1470"
+    },
+    "7006": {
+        "name": "High-Quality Wheat",
+        "stock": "1675",
+        "volume": "12378061",
+        "price": "7800"
+    },
+    "7007": {
+        "name": "High-Quality Barley",
+        "stock": "7322",
+        "volume": "2233093",
+        "price": "7950"
+    },
+    "7008": {
+        "name": "High-Quality Potato",
+        "stock": "2276",
+        "volume": "2304630",
+        "price": "4730"
+    },
+    "7009": {
+        "name": "High-Quality Sweet Potato",
+        "stock": "8130",
+        "volume": "43271932",
+        "price": "3500"
+    },
+    "7010": {
+        "name": "High-Quality Corn",
+        "stock": "5633",
+        "volume": "1273791",
+        "price": "8350"
+    },
+    "7011": {
+        "name": "Special Wheat",
+        "stock": "4704",
+        "volume": "89596036",
+        "price": "9800"
+    },
+    "7012": {
+        "name": "Special Barley",
+        "stock": "11846",
+        "volume": "13284688",
+        "price": "11400"
+    },
+    "7013": {
+        "name": "Special Potato",
+        "stock": "2612",
+        "volume": "18056970",
+        "price": "11400"
+    },
+    "7014": {
+        "name": "Special Sweet Potato",
+        "stock": "2443",
+        "volume": "29648307",
+        "price": "7950"
+    },
+    "7015": {
+        "name": "Special Corn",
+        "stock": "8968",
+        "volume": "6877864",
+        "price": "13500"
+    },
+    "7016": {
+        "name": "Date Palm",
+        "stock": "32245",
+        "volume": "1539570652",
+        "price": "2440"
+    },
+    "7017": {
+        "name": "Pistachio",
+        "stock": "1029763",
+        "volume": "386730867",
+        "price": "378"
+    },
+    "7018": {
+        "name": "Fig",
+        "stock": "140769",
+        "volume": "1363189322",
+        "price": "2590"
+    },
+    "7019": {
+        "name": "Star Anise",
+        "stock": "343249",
+        "volume": "381771328",
+        "price": "560"
+    },
+    "7020": {
+        "name": "Nutmeg",
+        "stock": "65108",
+        "volume": "1182312019",
+        "price": "3520"
+    },
+    "7021": {
+        "name": "Freekeh",
+        "stock": "72469",
+        "volume": "621476777",
+        "price": "800"
+    },
+    "7022": {
+        "name": "Teff",
+        "stock": "196192",
+        "volume": "800822990",
+        "price": "620"
+    },
+    "7023": {
+        "name": "Haystack",
+        "stock": "85",
+        "volume": "426154",
+        "price": "21200"
+    },
+    "7024": {
+        "name": "High-Quality Haystack",
+        "stock": "215",
+        "volume": "166840",
+        "price": "432000"
+    },
+    "7025": {
+        "name": "Special Haystack",
+        "stock": "209",
+        "volume": "928785",
+        "price": "675000"
+    },
+    "7026": {
+        "name": "Coconut",
+        "stock": "0",
+        "volume": "311823490",
+        "price": "3510"
+    },
+    "7028": {
+        "name": "Chicken Feed",
+        "stock": "59",
+        "volume": "25909",
+        "price": "56000"
+    },
+    "7029": {
+        "name": "Good Chicken Feed",
+        "stock": "157",
+        "volume": "18293",
+        "price": "209000"
+    },
+    "7030": {
+        "name": "Special Chicken Feed",
+        "stock": "122",
+        "volume": "133174",
+        "price": "184000"
+    },
+    "7101": {
+        "name": "Wheat Flour",
+        "stock": "40551",
+        "volume": "683370165",
+        "price": "1770"
+    },
+    "7102": {
+        "name": "Barley Flour",
+        "stock": "10953",
+        "volume": "187153275",
+        "price": "1560"
+    },
+    "7103": {
+        "name": "Potato Flour",
+        "stock": "80940",
+        "volume": "579758993",
+        "price": "1700"
+    },
+    "7104": {
+        "name": "Sweet Potato Flour",
+        "stock": "21540",
+        "volume": "70445977",
+        "price": "1680"
+    },
+    "7105": {
+        "name": "Corn Flour",
+        "stock": "24029",
+        "volume": "314425051",
+        "price": "1600"
+    },
+    "7106": {
+        "name": "Teff Flour",
+        "stock": "108924",
+        "volume": "531929584",
+        "price": "1500"
+    },
+    "7107": {
+        "name": "Freekeh Flour",
+        "stock": "69178",
+        "volume": "8741085",
+        "price": "308"
+    },
+    "7201": {
+        "name": "Wheat Dough",
+        "stock": "65581",
+        "volume": "433591842",
+        "price": "1550"
+    },
+    "7202": {
+        "name": "Barley Dough",
+        "stock": "8629",
+        "volume": "139870063",
+        "price": "1470"
+    },
+    "7203": {
+        "name": "Potato Dough",
+        "stock": "91587",
+        "volume": "419970358",
+        "price": "1650"
+    },
+    "7204": {
+        "name": "Sweet Potato Dough",
+        "stock": "27786",
+        "volume": "64446277",
+        "price": "1500"
+    },
+    "7205": {
+        "name": "Corn Dough",
+        "stock": "67408",
+        "volume": "235859223",
+        "price": "1500"
+    },
+    "7206": {
+        "name": "Teff Flour Dough",
+        "stock": "122174",
+        "volume": "580622786",
+        "price": "1800"
+    },
+    "7207": {
+        "name": "Freekeh Flour Dough",
+        "stock": "37508",
+        "volume": "4246304",
+        "price": "291"
+    },
+    "7301": {
+        "name": "Pepper",
+        "stock": "0",
+        "volume": "74568423",
+        "price": "2380"
+    },
+    "7302": {
+        "name": "Garlic",
+        "stock": "0",
+        "volume": "66591156",
+        "price": "4190"
+    },
+    "7303": {
+        "name": "Onion",
+        "stock": "15941",
+        "volume": "327545971",
+        "price": "4190"
+    },
+    "7304": {
+        "name": "Strawberry",
+        "stock": "0",
+        "volume": "311297384",
+        "price": "545"
+    },
+    "7305": {
+        "name": "Hot Pepper",
+        "stock": "0",
+        "volume": "95860245",
+        "price": "2560"
+    },
+    "7306": {
+        "name": "Pumpkin",
+        "stock": "211360",
+        "volume": "1143639220",
+        "price": "880"
+    },
+    "7307": {
+        "name": "Grape",
+        "stock": "95873",
+        "volume": "410305910",
+        "price": "1400"
+    },
+    "7308": {
+        "name": "Sunflower",
+        "stock": "0",
+        "volume": "66539771",
+        "price": "3350"
+    },
+    "7309": {
+        "name": "Olive",
+        "stock": "20632",
+        "volume": "95893241",
+        "price": "750"
+    },
+    "7311": {
+        "name": "Tomato",
+        "stock": "13893",
+        "volume": "14346569",
+        "price": "2810"
+    },
+    "7312": {
+        "name": "Paprika",
+        "stock": "0",
+        "volume": "467508728",
+        "price": "660"
+    },
+    "7313": {
+        "name": "Apple",
+        "stock": "0",
+        "volume": "34277552",
+        "price": "775"
+    },
+    "7314": {
+        "name": "Cherry",
+        "stock": "0",
+        "volume": "736948",
+        "price": "775"
+    },
+    "7315": {
+        "name": "Pear",
+        "stock": "0",
+        "volume": "562867",
+        "price": "775"
+    },
+    "7316": {
+        "name": "Banana",
+        "stock": "0",
+        "volume": "1319963",
+        "price": "775"
+    },
+    "7317": {
+        "name": "Pineapple",
+        "stock": "0",
+        "volume": "290265",
+        "price": "775"
+    },
+    "7318": {
+        "name": "Cabbage",
+        "stock": "0",
+        "volume": "6741605",
+        "price": "3510"
+    },
+    "7319": {
+        "name": "Rose",
+        "stock": "0",
+        "volume": "9278257",
+        "price": "3510"
+    },
+    "7320": {
+        "name": "Tulip",
+        "stock": "0",
+        "volume": "22782030",
+        "price": "3510"
+    },
+    "7321": {
+        "name": "High-Quality Strawberry",
+        "stock": "39",
+        "volume": "29347576",
+        "price": "5400"
+    },
+    "7322": {
+        "name": "Special Strawberry",
+        "stock": "49998",
+        "volume": "331391790",
+        "price": "12200"
+    },
+    "7323": {
+        "name": "High-Quality Pepper",
+        "stock": "18373",
+        "volume": "60719288",
+        "price": "11600"
+    },
+    "7324": {
+        "name": "High-Quality Garlic",
+        "stock": "4492",
+        "volume": "15659182",
+        "price": "9700"
+    },
+    "7325": {
+        "name": "High-Quality Onion",
+        "stock": "6161",
+        "volume": "44032328",
+        "price": "10400"
+    },
+    "7327": {
+        "name": "High-Quality Hot Pepper",
+        "stock": "31891",
+        "volume": "54592501",
+        "price": "12100"
+    },
+    "7328": {
+        "name": "High-Quality Pumpkin",
+        "stock": "6",
+        "volume": "2005086",
+        "price": "7550"
+    },
+    "7329": {
+        "name": "High-Quality Grape",
+        "stock": "9419",
+        "volume": "7938931",
+        "price": "8000"
+    },
+    "7330": {
+        "name": "High-Quality Sunflower",
+        "stock": "20509",
+        "volume": "72287848",
+        "price": "10800"
+    },
+    "7331": {
+        "name": "High-Quality Olive",
+        "stock": "3935",
+        "volume": "4120794",
+        "price": "7150"
+    },
+    "7333": {
+        "name": "High-Quality Tomato",
+        "stock": "8065",
+        "volume": "2465205",
+        "price": "10800"
+    },
+    "7334": {
+        "name": "High-Quality Paprika",
+        "stock": "6307",
+        "volume": "2942055",
+        "price": "10200"
+    },
+    "7335": {
+        "name": "Special Pepper",
+        "stock": "13201",
+        "volume": "101951217",
+        "price": "12000"
+    },
+    "7336": {
+        "name": "Special Garlic",
+        "stock": "12630",
+        "volume": "39323416",
+        "price": "10500"
+    },
+    "7337": {
+        "name": "Special Onion",
+        "stock": "51762",
+        "volume": "87929742",
+        "price": "11100"
+    },
+    "7339": {
+        "name": "Special Hot Pepper",
+        "stock": "18585",
+        "volume": "121416555",
+        "price": "13400"
+    },
+    "7340": {
+        "name": "Special Pumpkin",
+        "stock": "5157",
+        "volume": "41684949",
+        "price": "10600"
+    },
+    "7341": {
+        "name": "Special Grape",
+        "stock": "1727",
+        "volume": "13836660",
+        "price": "10100"
+    },
+    "7342": {
+        "name": "Special Sunflower",
+        "stock": "18028",
+        "volume": "146564975",
+        "price": "9600"
+    },
+    "7343": {
+        "name": "Special Olive",
+        "stock": "9052",
+        "volume": "18561732",
+        "price": "10900"
+    },
+    "7345": {
+        "name": "Special Tomato",
+        "stock": "11291",
+        "volume": "8174956",
+        "price": "12300"
+    },
+    "7346": {
+        "name": "Special Paprika",
+        "stock": "11306",
+        "volume": "11734083",
+        "price": "15400"
+    },
+    "7347": {
+        "name": "Aloe",
+        "stock": "49735",
+        "volume": "173986202",
+        "price": "465"
+    },
+    "7348": {
+        "name": "Cinnamon",
+        "stock": "506893",
+        "volume": "110248130",
+        "price": "408"
+    },
+    "7701": {
+        "name": "Wild Beehive",
+        "stock": "0",
+        "volume": "4852699",
+        "price": "23300"
+    },
+    "7702": {
+        "name": "Cooking Honey",
+        "stock": "28061",
+        "volume": "2064976160",
+        "price": "2760"
+    },
+    "7703": {
+        "name": "High-Quality Cooking Honey",
+        "stock": "70",
+        "volume": "1572446",
+        "price": "10600"
+    },
+    "7704": {
+        "name": "Top-Quality Cooking Honey",
+        "stock": "0",
+        "volume": "208807",
+        "price": "238000"
+    },
+    "7901": {
+        "name": "Deer Meat",
+        "stock": "0",
+        "volume": "472002477",
+        "price": "9250"
+    },
+    "7902": {
+        "name": "Lamb Meat",
+        "stock": "0",
+        "volume": "477423418",
+        "price": "8350"
+    },
+    "7903": {
+        "name": "Fox Meat",
+        "stock": "0",
+        "volume": "91635562",
+        "price": "6150"
+    },
+    "7904": {
+        "name": "Rhino Meat",
+        "stock": "0",
+        "volume": "25004135",
+        "price": "11900"
+    },
+    "7905": {
+        "name": "Pork",
+        "stock": "0",
+        "volume": "58144349",
+        "price": "7500"
+    },
+    "7906": {
+        "name": "Beef",
+        "stock": "0",
+        "volume": "39613910",
+        "price": "7050"
+    },
+    "7908": {
+        "name": "Lizard Meat",
+        "stock": "4689",
+        "volume": "7329205",
+        "price": "8250"
+    },
+    "7909": {
+        "name": "Worm Meat",
+        "stock": "446",
+        "volume": "718612",
+        "price": "6350"
+    },
+    "7910": {
+        "name": "Raccoon Meat",
+        "stock": "0",
+        "volume": "2994084",
+        "price": "7950"
+    },
+    "7911": {
+        "name": "Weasel Meat",
+        "stock": "0",
+        "volume": "10914879",
+        "price": "5300"
+    },
+    "7912": {
+        "name": "Bear Meat",
+        "stock": "0",
+        "volume": "7376321",
+        "price": "10100"
+    },
+    "7913": {
+        "name": "Wolf Meat",
+        "stock": "0",
+        "volume": "1030684274",
+        "price": "8800"
+    },
+    "7914": {
+        "name": "Waragon Meat",
+        "stock": "0",
+        "volume": "7613979",
+        "price": "3060"
+    },
+    "7915": {
+        "name": "Cheetah Dragon Meat",
+        "stock": "1292",
+        "volume": "572284",
+        "price": "7100"
+    },
+    "7916": {
+        "name": "Kuku Bird Meat",
+        "stock": "266",
+        "volume": "1900032",
+        "price": "5800"
+    },
+    "7917": {
+        "name": "Flamingo Meat",
+        "stock": "914",
+        "volume": "339165",
+        "price": "7700"
+    },
+    "7921": {
+        "name": "Chicken Meat",
+        "stock": "53105",
+        "volume": "1701865689",
+        "price": "1030"
+    },
+    "7922": {
+        "name": "Snake Meat",
+        "stock": "0",
+        "volume": "59414812",
+        "price": "11500"
+    },
+    "7923": {
+        "name": "Lion Meat",
+        "stock": "0",
+        "volume": "176784040",
+        "price": "13600"
+    },
+    "7924": {
+        "name": "Scorpion Meat",
+        "stock": "0",
+        "volume": "15574829",
+        "price": "9250"
+    },
+    "7925": {
+        "name": "Gazelle Meat",
+        "stock": "0",
+        "volume": "674865",
+        "price": "26700"
+    },
+    "7953": {
+        "name": "Bird Meat",
+        "stock": "0",
+        "volume": "2668269",
+        "price": "8800"
+    },
+    "7954": {
+        "name": "Yak Meat",
+        "stock": "0",
+        "volume": "12594554",
+        "price": "8850"
+    },
+    "7955": {
+        "name": "Marmot Meat",
+        "stock": "0",
+        "volume": "5104948",
+        "price": "9350"
+    },
+    "7956": {
+        "name": "Llama Meat",
+        "stock": "11",
+        "volume": "14811733",
+        "price": "9700"
+    },
+    "7957": {
+        "name": "Goat Meat",
+        "stock": "0",
+        "volume": "10219302",
+        "price": "8350"
+    },
+    "7958": {
+        "name": "Ground Bird Meat",
+        "stock": "60119",
+        "volume": "124422675",
+        "price": "2450"
+    },
+    "8501": {
+        "name": "Dried Mudskipper",
+        "stock": "0",
+        "volume": "1293637",
+        "price": "3190"
+    },
+    "8502": {
+        "name": "Dried Tuna",
+        "stock": "376",
+        "volume": "190147",
+        "price": "15200"
+    },
+    "8503": {
+        "name": "Dried Beltfish",
+        "stock": "213",
+        "volume": "1003523",
+        "price": "6750"
+    },
+    "8504": {
+        "name": "Dried Flounder",
+        "stock": "0",
+        "volume": "58274",
+        "price": "5850"
+    },
+    "8505": {
+        "name": "Dried Salmon",
+        "stock": "0",
+        "volume": "298126",
+        "price": "4800"
+    },
+    "8506": {
+        "name": "Dried Amberjack",
+        "stock": "0",
+        "volume": "160677",
+        "price": "5150"
+    },
+    "8507": {
+        "name": "Dried Porgy",
+        "stock": "3702",
+        "volume": "927124",
+        "price": "14500"
+    },
+    "8508": {
+        "name": "Dried Swellfish",
+        "stock": "3561",
+        "volume": "2196993",
+        "price": "12200"
+    },
+    "8509": {
+        "name": "Dried Saurel",
+        "stock": "0",
+        "volume": "42505774",
+        "price": "2540"
+    },
+    "8510": {
+        "name": "Dried Rockfish",
+        "stock": "0",
+        "volume": "2058227",
+        "price": "5800"
+    },
+    "8511": {
+        "name": "Dried Squid",
+        "stock": "0",
+        "volume": "604329",
+        "price": "5800"
+    },
+    "8512": {
+        "name": "Dried Octopus",
+        "stock": "5961",
+        "volume": "13595468",
+        "price": "12300"
+    },
+    "8513": {
+        "name": "Dried Crab",
+        "stock": "0",
+        "volume": "38457",
+        "price": "2100"
+    },
+    "8514": {
+        "name": "Dried Jellyfish",
+        "stock": "0",
+        "volume": "240109",
+        "price": "2880"
+    },
+    "8515": {
+        "name": "Dried Shellfish",
+        "stock": "0",
+        "volume": "99136",
+        "price": "2780"
+    },
+    "8516": {
+        "name": "Dried Carp",
+        "stock": "90",
+        "volume": "132613",
+        "price": "7950"
+    },
+    "8517": {
+        "name": "Dried Crucian Carp",
+        "stock": "0",
+        "volume": "455549",
+        "price": "4440"
+    },
+    "8518": {
+        "name": "Dried Trout",
+        "stock": "0",
+        "volume": "731109",
+        "price": "6350"
+    },
+    "8519": {
+        "name": "Dried Catfish",
+        "stock": "0",
+        "volume": "88133",
+        "price": "6400"
+    },
+    "8520": {
+        "name": "Dried Freshwater Eel",
+        "stock": "106",
+        "volume": "210797",
+        "price": "6050"
+    },
+    "8521": {
+        "name": "Dried Snakehead",
+        "stock": "512",
+        "volume": "209011",
+        "price": "14100"
+    },
+    "8522": {
+        "name": "Dried Cherry Salmon",
+        "stock": "238",
+        "volume": "128073",
+        "price": "7550"
+    },
+    "8523": {
+        "name": "Dried Cuvier",
+        "stock": "311",
+        "volume": "6451",
+        "price": "24900"
+    },
+    "8524": {
+        "name": "Dried Sunfish",
+        "stock": "5",
+        "volume": "30215",
+        "price": "32100"
+    },
+    "8525": {
+        "name": "Dried Sea Bass",
+        "stock": "630",
+        "volume": "59073",
+        "price": "14100"
+    },
+    "8526": {
+        "name": "Dried Angler",
+        "stock": "753",
+        "volume": "197844",
+        "price": "9100"
+    },
+    "8527": {
+        "name": "Dried Swordfish",
+        "stock": "3063",
+        "volume": "1540121",
+        "price": "15600"
+    },
+    "8528": {
+        "name": "Dried Mackerel",
+        "stock": "0",
+        "volume": "1089713",
+        "price": "5600"
+    },
+    "8529": {
+        "name": "Dried Flying Fish",
+        "stock": "0",
+        "volume": "22621115",
+        "price": "6050"
+    },
+    "8530": {
+        "name": "Dried Skipjack",
+        "stock": "2472",
+        "volume": "16376608",
+        "price": "6850"
+    },
+    "8531": {
+        "name": "Dried Ray",
+        "stock": "7751",
+        "volume": "8475580",
+        "price": "6750"
+    },
+    "8532": {
+        "name": "Dried Seahorse",
+        "stock": "0",
+        "volume": "41603",
+        "price": "3300"
+    },
+    "8533": {
+        "name": "Dried Starfish",
+        "stock": "0",
+        "volume": "303817",
+        "price": "2070"
+    },
+    "8534": {
+        "name": "Dried Filefish",
+        "stock": "0",
+        "volume": "18724674",
+        "price": "3160"
+    },
+    "8535": {
+        "name": "Dried Scorpion Fish",
+        "stock": "0",
+        "volume": "46431944",
+        "price": "2780"
+    },
+    "8536": {
+        "name": "Dried Mullet",
+        "stock": "0",
+        "volume": "60161063",
+        "price": "3160"
+    },
+    "8537": {
+        "name": "Dried Swiri",
+        "stock": "553",
+        "volume": "25995",
+        "price": "53000"
+    },
+    "8538": {
+        "name": "Dried Sturgeon",
+        "stock": "0",
+        "volume": "238",
+        "price": "52500"
+    },
+    "8539": {
+        "name": "Dried Piranha",
+        "stock": "337",
+        "volume": "29907",
+        "price": "15900"
+    },
+    "8540": {
+        "name": "Dried Mandarin Fish",
+        "stock": "1130",
+        "volume": "262329",
+        "price": "14600"
+    },
+    "8541": {
+        "name": "Dried Lenok",
+        "stock": "0",
+        "volume": "406965",
+        "price": "6800"
+    },
+    "8542": {
+        "name": "Dried Arowana",
+        "stock": "132",
+        "volume": "341848",
+        "price": "6750"
+    },
+    "8543": {
+        "name": "Dried Sweetfish",
+        "stock": "65",
+        "volume": "415283",
+        "price": "6400"
+    },
+    "8544": {
+        "name": "Dried Terrapin",
+        "stock": "83",
+        "volume": "1420312",
+        "price": "6250"
+    },
+    "8545": {
+        "name": "Dried Bass",
+        "stock": "0",
+        "volume": "331662",
+        "price": "5450"
+    },
+    "8546": {
+        "name": "Dried Crawfish",
+        "stock": "0",
+        "volume": "598657",
+        "price": "5600"
+    },
+    "8547": {
+        "name": "Dried Dace",
+        "stock": "0",
+        "volume": "325125",
+        "price": "2390"
+    },
+    "8548": {
+        "name": "Dried Bluegill",
+        "stock": "0",
+        "volume": "82598",
+        "price": "2690"
+    },
+    "8549": {
+        "name": "Dried Perch",
+        "stock": "0",
+        "volume": "172993",
+        "price": "3270"
+    },
+    "8550": {
+        "name": "Dried Notch Jaw",
+        "stock": "0",
+        "volume": "245024",
+        "price": "2690"
+    },
+    "8551": {
+        "name": "Dried Mudfish",
+        "stock": "0",
+        "volume": "255891",
+        "price": "2780"
+    },
+    "8552": {
+        "name": "Dried Goby Minnow",
+        "stock": "0",
+        "volume": "454729",
+        "price": "2570"
+    },
+    "8553": {
+        "name": "Dried Bitterling",
+        "stock": "0",
+        "volume": "607228",
+        "price": "2880"
+    },
+    "8554": {
+        "name": "Dried Bleeker",
+        "stock": "0",
+        "volume": "173556",
+        "price": "2720"
+    },
+    "8555": {
+        "name": "Dried Yellowfin Sculpin",
+        "stock": "482",
+        "volume": "980308",
+        "price": "8250"
+    },
+    "8556": {
+        "name": "Dried Cero",
+        "stock": "656",
+        "volume": "1838231",
+        "price": "9250"
+    },
+    "8557": {
+        "name": "Dried Sea Eel",
+        "stock": "791",
+        "volume": "1359519",
+        "price": "10800"
+    },
+    "8558": {
+        "name": "Dried Croaker",
+        "stock": "60",
+        "volume": "28868",
+        "price": "5950"
+    },
+    "8559": {
+        "name": "Dried Greenling",
+        "stock": "0",
+        "volume": "27345",
+        "price": "3490"
+    },
+    "8560": {
+        "name": "Dried Flatfish",
+        "stock": "0",
+        "volume": "4397866",
+        "price": "3270"
+    },
+    "8561": {
+        "name": "Dried Grunt",
+        "stock": "477",
+        "volume": "553772",
+        "price": "13800"
+    },
+    "8562": {
+        "name": "Dried Herring",
+        "stock": "267",
+        "volume": "738362",
+        "price": "10500"
+    },
+    "8563": {
+        "name": "Dried Sardine",
+        "stock": "0",
+        "volume": "132678",
+        "price": "6650"
+    },
+    "8564": {
+        "name": "Dried Round Herring",
+        "stock": "0",
+        "volume": "2408981",
+        "price": "2690"
+    },
+    "8565": {
+        "name": "Dried Silver Stripe Round Herring",
+        "stock": "0",
+        "volume": "29327",
+        "price": "2820"
+    },
+    "8566": {
+        "name": "Dried Whiting",
+        "stock": "0",
+        "volume": "4885776",
+        "price": "2540"
+    },
+    "8567": {
+        "name": "Dried Dolphinfish",
+        "stock": "0",
+        "volume": "28273586",
+        "price": "3440"
+    },
+    "8568": {
+        "name": "Dried Striped Catfish",
+        "stock": "0",
+        "volume": "42029545",
+        "price": "3050"
+    },
+    "8569": {
+        "name": "Dried Gunnel",
+        "stock": "8",
+        "volume": "26655",
+        "price": "5550"
+    },
+    "8570": {
+        "name": "Dried Golden-Thread",
+        "stock": "2071",
+        "volume": "549849",
+        "price": "13800"
+    },
+    "8571": {
+        "name": "Dried Nibbler",
+        "stock": "267",
+        "volume": "560658",
+        "price": "15200"
+    },
+    "8572": {
+        "name": "Dried Siganid",
+        "stock": "6710",
+        "volume": "3069999",
+        "price": "9050"
+    },
+    "8573": {
+        "name": "Dried Bluefish",
+        "stock": "0",
+        "volume": "6853702",
+        "price": "6100"
+    },
+    "8574": {
+        "name": "Dried Surfperch",
+        "stock": "0",
+        "volume": "36292977",
+        "price": "2300"
+    },
+    "8575": {
+        "name": "Dried Blackfin Sweeper",
+        "stock": "0",
+        "volume": "40923",
+        "price": "3100"
+    },
+    "8576": {
+        "name": "Dried Smokey Chromis",
+        "stock": "582",
+        "volume": "77951",
+        "price": "15200"
+    },
+    "8577": {
+        "name": "Dried Maomao",
+        "stock": "10206",
+        "volume": "7289421",
+        "price": "11100"
+    },
+    "8578": {
+        "name": "Dried Pintado",
+        "stock": "0",
+        "volume": "15878655",
+        "price": "5650"
+    },
+    "8579": {
+        "name": "Dried Gurnard",
+        "stock": "0",
+        "volume": "1153080",
+        "price": "3270"
+    },
+    "8581": {
+        "name": "Dried John Dory",
+        "stock": "5748",
+        "volume": "5038591",
+        "price": "11500"
+    },
+    "8582": {
+        "name": "Dried Sandfish",
+        "stock": "0",
+        "volume": "849195",
+        "price": "2960"
+    },
+    "8583": {
+        "name": "Dried Rosefish",
+        "stock": "0",
+        "volume": "454622",
+        "price": "2630"
+    },
+    "8584": {
+        "name": "Dried Grouper",
+        "stock": "669",
+        "volume": "199073",
+        "price": "10500"
+    },
+    "8585": {
+        "name": "Dried Bigeye",
+        "stock": "14794",
+        "volume": "23097606",
+        "price": "6500"
+    },
+    "8586": {
+        "name": "Dried Fourfinger Threadfin",
+        "stock": "0",
+        "volume": "217489",
+        "price": "2000"
+    },
+    "8587": {
+        "name": "Dried Leather Carp",
+        "stock": "902",
+        "volume": "70997",
+        "price": "14300"
+    },
+    "8588": {
+        "name": "Dried Striped Shiner",
+        "stock": "59",
+        "volume": "399582",
+        "price": "7400"
+    },
+    "8589": {
+        "name": "Dried Barbel Steed",
+        "stock": "0",
+        "volume": "697960",
+        "price": "4550"
+    },
+    "8590": {
+        "name": "Dried Soho Bitterling",
+        "stock": "0",
+        "volume": "119309",
+        "price": "2210"
+    },
+    "8591": {
+        "name": "Dried Bubble Eye",
+        "stock": "0",
+        "volume": "726806",
+        "price": "2300"
+    },
+    "8592": {
+        "name": "Dried Pacu",
+        "stock": "453",
+        "volume": "32746",
+        "price": "13700"
+    },
+    "8593": {
+        "name": "Dried Yellow-Head Catfish",
+        "stock": "160",
+        "volume": "134496",
+        "price": "13600"
+    },
+    "8594": {
+        "name": "Dried Smelt",
+        "stock": "0",
+        "volume": "190709",
+        "price": "5200"
+    },
+    "8595": {
+        "name": "Dried Rosy Bitterling",
+        "stock": "0",
+        "volume": "105199",
+        "price": "3160"
+    },
+    "8596": {
+        "name": "Dried Roundtail Paradisefish",
+        "stock": "0",
+        "volume": "248460",
+        "price": "3300"
+    },
+    "8597": {
+        "name": "Dried Grayling",
+        "stock": "227",
+        "volume": "1440995",
+        "price": "5850"
+    },
+    "8598": {
+        "name": "Dried Tapertail Anchovy",
+        "stock": "1267",
+        "volume": "615853",
+        "price": "9000"
+    },
+    "8599": {
+        "name": "Dried Kuhlia Marginata",
+        "stock": "0",
+        "volume": "157789",
+        "price": "4840"
+    },
+    "8600": {
+        "name": "Dried Rock Hind",
+        "stock": "0",
+        "volume": "769788",
+        "price": "2570"
+    },
+    "8601": {
+        "name": "Dried Butterflyfish",
+        "stock": "0",
+        "volume": "196280",
+        "price": "3020"
+    },
+    "8602": {
+        "name": "Dried Clownfish",
+        "stock": "0",
+        "volume": "6238297",
+        "price": "4700"
+    },
+    "8603": {
+        "name": "Dried Blue Tang",
+        "stock": "1009",
+        "volume": "3460318",
+        "price": "6850"
+    },
+    "8604": {
+        "name": "Dried Checkerboard Wrasse",
+        "stock": "1370",
+        "volume": "1554048",
+        "price": "10300"
+    },
+    "8605": {
+        "name": "Dried Pomfret",
+        "stock": "408",
+        "volume": "165017",
+        "price": "7650"
+    },
+    "8629": {
+        "name": "Dried Moray",
+        "stock": "2241",
+        "volume": "411712",
+        "price": "18900"
+    },
+    "8630": {
+        "name": "Dried Tilefish",
+        "stock": "74",
+        "volume": "93819",
+        "price": "26600"
+    },
+    "8631": {
+        "name": "Dried Porcupine Fish",
+        "stock": "50",
+        "volume": "254484",
+        "price": "8200"
+    },
+    "8632": {
+        "name": "Dried Tongue Sole",
+        "stock": "0",
+        "volume": "36956",
+        "price": "2990"
+    },
+    "8633": {
+        "name": "Dried Atka Mackerel",
+        "stock": "0",
+        "volume": "59146",
+        "price": "5600"
+    },
+    "8634": {
+        "name": "Dried Cuttlefish",
+        "stock": "0",
+        "volume": "649062",
+        "price": "5400"
+    },
+    "8635": {
+        "name": "Dried Mackerel Pike",
+        "stock": "0",
+        "volume": "145821",
+        "price": "2150"
+    },
+    "8636": {
+        "name": "Dried Horn Fish",
+        "stock": "0",
+        "volume": "39849",
+        "price": "4800"
+    },
+    "8637": {
+        "name": "Dried Dollarfish",
+        "stock": "0",
+        "volume": "28243",
+        "price": "5550"
+    },
+    "8638": {
+        "name": "Dried Sandeel",
+        "stock": "0",
+        "volume": "1370820",
+        "price": "3130"
+    },
+    "8639": {
+        "name": "Dried Spotted Barbel",
+        "stock": "179",
+        "volume": "27147",
+        "price": "15500"
+    },
+    "8640": {
+        "name": "Dried Miho Spine Loach",
+        "stock": "81",
+        "volume": "11169",
+        "price": "19500"
+    },
+    "8641": {
+        "name": "Dried Diamond Minnow",
+        "stock": "57",
+        "volume": "46352",
+        "price": "13700"
+    },
+    "8642": {
+        "name": "Dried Amur Minnow",
+        "stock": "500",
+        "volume": "210287",
+        "price": "22700"
+    },
+    "8643": {
+        "name": "Dried Common Minnow",
+        "stock": "0",
+        "volume": "21297",
+        "price": "6100"
+    },
+    "8644": {
+        "name": "Dried Stumpy Bullhead",
+        "stock": "0",
+        "volume": "367940",
+        "price": "7050"
+    },
+    "8645": {
+        "name": "Dried Shuttles Hoppfish",
+        "stock": "0",
+        "volume": "1493",
+        "price": "6900"
+    },
+    "8646": {
+        "name": "Dried Oily Shiner",
+        "stock": "0",
+        "volume": "3156",
+        "price": "6050"
+    },
+    "8647": {
+        "name": "Dried Korean Loach",
+        "stock": "27",
+        "volume": "72465",
+        "price": "6900"
+    },
+    "8648": {
+        "name": "Dried Minnow",
+        "stock": "0",
+        "volume": "10280",
+        "price": "6300"
+    },
+    "8649": {
+        "name": "Dried Cherry Icefish",
+        "stock": "0",
+        "volume": "1515",
+        "price": "5500"
+    },
+    "8650": {
+        "name": "Dried Spined Loach",
+        "stock": "0",
+        "volume": "4526",
+        "price": "5300"
+    },
+    "8651": {
+        "name": "Dried Amur Ide",
+        "stock": "0",
+        "volume": "9741",
+        "price": "6100"
+    },
+    "8652": {
+        "name": "Dried Stone Moroko",
+        "stock": "1909",
+        "volume": "93125",
+        "price": "15100"
+    },
+    "8653": {
+        "name": "Dried Amur Goby",
+        "stock": "0",
+        "volume": "7086",
+        "price": "7600"
+    },
+    "8654": {
+        "name": "Dried Stickleback",
+        "stock": "44",
+        "volume": "6777",
+        "price": "8700"
+    },
+    "8655": {
+        "name": "Dried Mori",
+        "stock": "98",
+        "volume": "7742",
+        "price": "8150"
+    },
+    "8656": {
+        "name": "Dried Grass Carp",
+        "stock": "159",
+        "volume": "6817",
+        "price": "8000"
+    },
+    "8657": {
+        "name": "Dried Black Shiner",
+        "stock": "264",
+        "volume": "1548",
+        "price": "16900"
+    },
+    "8658": {
+        "name": "Dried Burbot",
+        "stock": "238",
+        "volume": "11761",
+        "price": "16900"
+    },
+    "8659": {
+        "name": "Dried Dark Chub",
+        "stock": "98",
+        "volume": "130099",
+        "price": "15500"
+    },
+    "8660": {
+        "name": "Dried Flower Icefish",
+        "stock": "100",
+        "volume": "33980",
+        "price": "17900"
+    },
+    "8661": {
+        "name": "Dried Charr",
+        "stock": "216",
+        "volume": "2448",
+        "price": "26600"
+    },
+    "8662": {
+        "name": "Dried Yellowfin Sole",
+        "stock": "3224",
+        "volume": "422701",
+        "price": "8950"
+    },
+    "8663": {
+        "name": "Dried Stippled Gunnel",
+        "stock": "1649",
+        "volume": "384491",
+        "price": "8450"
+    },
+    "8664": {
+        "name": "Dried Red Snow Crab",
+        "stock": "24",
+        "volume": "8966",
+        "price": "12000"
+    },
+    "8665": {
+        "name": "Dried Redbreasted Wrasse",
+        "stock": "3424",
+        "volume": "146691",
+        "price": "17300"
+    },
+    "8666": {
+        "name": "Dried Green Sturgeon",
+        "stock": "284",
+        "volume": "3185",
+        "price": "16500"
+    },
+    "8668": {
+        "name": "Dried Tiger Shark",
+        "stock": "1",
+        "volume": "151",
+        "price": "30900"
+    },
+    "8669": {
+        "name": "Dried Basking Shark",
+        "stock": "0",
+        "volume": "252",
+        "price": "34000"
+    },
+    "9003": {
+        "name": "White Sauce",
+        "stock": "20199",
+        "volume": "35378315",
+        "price": "2380"
+    },
+    "9004": {
+        "name": "Red Sauce",
+        "stock": "71815",
+        "volume": "457750810",
+        "price": "4760"
+    },
+    "9006": {
+        "name": "Dressing",
+        "stock": "0",
+        "volume": "115467428",
+        "price": "1150"
+    },
+    "9057": {
+        "name": "Essence of Liquor",
+        "stock": "0",
+        "volume": "1520348318",
+        "price": "565"
+    },
+    "9061": {
+        "name": "Cream",
+        "stock": "13664",
+        "volume": "54943689",
+        "price": "5200"
+    },
+    "9062": {
+        "name": "Cheese",
+        "stock": "9994",
+        "volume": "404318246",
+        "price": "5850"
+    },
+    "9063": {
+        "name": "Butter",
+        "stock": "25344",
+        "volume": "236259927",
+        "price": "2860"
+    },
+    "9064": {
+        "name": "Egg",
+        "stock": "7435",
+        "volume": "925903958",
+        "price": "4500"
+    },
+    "9065": {
+        "name": "Milk",
+        "stock": "0",
+        "volume": "557538791",
+        "price": "10100"
+    },
+    "9066": {
+        "name": "Vinegar",
+        "stock": "19000",
+        "volume": "2502385519",
+        "price": "620"
+    },
+    "9726": {
+        "name": "Blue Whale Meat",
+        "stock": "1434",
+        "volume": "724043",
+        "price": "402000"
+    },
+    "9727": {
+        "name": "Blue Whale Oil",
+        "stock": "0",
+        "volume": "48727",
+        "price": "5550000"
+    },
+    "9728": {
+        "name": "Blue Whale Molar",
+        "stock": "281",
+        "volume": "5494",
+        "price": "8100000"
+    },
+    "9729": {
+        "name": "Blue Whale Tendon",
+        "stock": "2086",
+        "volume": "348327",
+        "price": "7300000"
+    },
+    "9731": {
+        "name": "Soft Whale Meat",
+        "stock": "0",
+        "volume": "416668",
+        "price": "20200"
+    },
+    "9732": {
+        "name": "Crocodile Meat",
+        "stock": "0",
+        "volume": "1116713",
+        "price": "20200"
+    },
+    "9733": {
+        "name": "Shining Powder",
+        "stock": "2595",
+        "volume": "20347024",
+        "price": "24300"
+    },
+    "9735": {
+        "name": "Fugitive Khalk's Horn",
+        "stock": "0",
+        "volume": "175047",
+        "price": "277000"
+    },
+    "9736": {
+        "name": "Fugitive Khalk's Skin",
+        "stock": "0",
+        "volume": "27107",
+        "price": "5550000"
+    },
+    "9737": {
+        "name": "Fugitive Khalk's Shiny Claw",
+        "stock": "36",
+        "volume": "3520",
+        "price": "15900000"
+    },
+    "9741": {
+        "name": "Griffon Claw",
+        "stock": "0",
+        "volume": "377390",
+        "price": "54500"
+    },
+    "9746": {
+        "name": "Abyssal Brass Ingot",
+        "stock": "211",
+        "volume": "386577",
+        "price": "490000"
+    },
+    "9747": {
+        "name": "Ferocious Leather",
+        "stock": "347",
+        "volume": "395318",
+        "price": "361000"
+    },
+    "9748": {
+        "name": "Mystical Cleaning Oil",
+        "stock": "167",
+        "volume": "337386",
+        "price": "190000"
+    },
+    "9768": {
+        "name": "Garmoth's Scale",
+        "stock": "994",
+        "volume": "3707055",
+        "price": "915000"
+    },
+    "9773": {
+        "name": "Intact Griffon's Beak",
+        "stock": "0",
+        "volume": "769",
+        "price": "19000000"
+    },
+    "9779": {
+        "name": "Oil of Enchantment",
+        "stock": "0",
+        "volume": "61731",
+        "price": "1840000"
+    },
+    "16901": {
+        "name": "Inorganic Fertilizer",
+        "stock": "1004",
+        "volume": "5528161",
+        "price": "1310"
+    },
+    "16902": {
+        "name": "Byproduct Fertilizer",
+        "stock": "69",
+        "volume": "4990963",
+        "price": "3660"
+    },
+    "16903": {
+        "name": "Organic Fertilizer",
+        "stock": "20489",
+        "volume": "25479542",
+        "price": "7250"
+    },
+    "44084": {
+        "name": "Sticky Liquid",
+        "stock": "0",
+        "volume": "280071",
+        "price": "5600"
+    },
+    "44332": {
+        "name": "Vell's Fine Powder",
+        "stock": "0",
+        "volume": "3875228",
+        "price": "1460000"
+    },
+    "44335": {
+        "name": "Vell's Concentrated Magic",
+        "stock": "38",
+        "volume": "10751",
+        "price": "7950000000"
+    },
+    "44336": {
+        "name": "Alchemy Stone Shard",
+        "stock": "3947",
+        "volume": "21096410",
+        "price": "555000"
+    },
+    "44362": {
+        "name": "Garmoth's Heart",
+        "stock": "19",
+        "volume": "6884",
+        "price": "8400000000"
+    },
+    "44364": {
+        "name": "Dragon Scale Fossil",
+        "stock": "3389",
+        "volume": "27281016",
+        "price": "430000"
+    },
+    "44462": {
+        "name": "Flame of Despair",
+        "stock": "0",
+        "volume": "3663",
+        "price": "560000000"
+    },
+    "56221": {
+        "name": "Breath of Narcion",
+        "stock": "0",
+        "volume": "3327",
+        "price": "25200000"
+    }
+}

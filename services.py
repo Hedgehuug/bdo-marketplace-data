@@ -54,7 +54,7 @@ def fetch_and_store_data(url):
             file.write(to_save_json)
 
         # Progress bar
-        progress_percent = (group_list.index(i)+1 / (len(group_list))) * 100
+        progress_percent = ((group_list.index(i)+1) / (len(group_list))) * 100
         print(f"Completion: {progress_percent}% - {i[1]}", end='\r')
 
 
