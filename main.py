@@ -43,15 +43,16 @@ def option_two():
 
 
         version_input = int(input("Input Version: "))
-        try:
-            if version_input != 4:
-                data_object = services.Data_Access_Version(all_data.make_indicators(),version=version_input,reference = reference_json)
-            elif version_input == 4:
-                break
+        # try:
+        if version_input != 4:
+            data_object = services.Data_Access_Version(all_data.make_indicators(),version=version_input,reference = reference_json)
 
-        
+        elif version_input == 4:
+            break
+
+        """
         except TypeError as err:
-            print(f"TypeError: {err}")
+            print(f"TypeError: {err}")"""
 
 
 

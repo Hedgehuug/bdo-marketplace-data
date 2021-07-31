@@ -1,0 +1,992 @@
+{
+    "15001": {
+        "name": "Magic Crystal of Crimson Flame - Precision",
+        "stock": "56",
+        "volume": "1145439",
+        "price": "6500"
+    },
+    "15002": {
+        "name": "Magic Crystal of Crimson Flame - Power",
+        "stock": "54",
+        "volume": "790862",
+        "price": "31400"
+    },
+    "15003": {
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "stock": "4",
+        "volume": "266879",
+        "price": "32200"
+    },
+    "15004": {
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "stock": "0",
+        "volume": "494871",
+        "price": "32200"
+    },
+    "15005": {
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "stock": "6",
+        "volume": "350910",
+        "price": "32200"
+    },
+    "15006": {
+        "name": "Magic Crystal of Abundance - Armor",
+        "stock": "37",
+        "volume": "1455547",
+        "price": "17700"
+    },
+    "15007": {
+        "name": "Magic Crystal of Abundance - Vigor",
+        "stock": "3",
+        "volume": "342472",
+        "price": "32200"
+    },
+    "15008": {
+        "name": "Magic Crystal of Abundance - Patience",
+        "stock": "11",
+        "volume": "181737",
+        "price": "32200"
+    },
+    "15009": {
+        "name": "Magic Crystal of Abundance - Healing",
+        "stock": "14",
+        "volume": "208232",
+        "price": "32200"
+    },
+    "15010": {
+        "name": "Magic Crystal of Abundance - Resonance",
+        "stock": "12",
+        "volume": "389316",
+        "price": "32000"
+    },
+    "15011": {
+        "name": "Magic Crystal of Nature - Swiftness",
+        "stock": "20",
+        "volume": "752245",
+        "price": "32600"
+    },
+    "15012": {
+        "name": "Magic Crystal of Nature - Adamantine",
+        "stock": "16",
+        "volume": "430499",
+        "price": "29600"
+    },
+    "15013": {
+        "name": "Magic Crystal of Nature - Ascension",
+        "stock": "5",
+        "volume": "271941",
+        "price": "26400"
+    },
+    "15014": {
+        "name": "Magic Crystal of the Sun - Assault",
+        "stock": "36",
+        "volume": "320762",
+        "price": "32900"
+    },
+    "15015": {
+        "name": "Magic Crystal of the Sun - Sturdiness",
+        "stock": "4",
+        "volume": "116356",
+        "price": "32200"
+    },
+    "15016": {
+        "name": "Magic Crystal of the Sun - Valor",
+        "stock": "11",
+        "volume": "619572",
+        "price": "32200"
+    },
+    "15017": {
+        "name": "Magic Crystal of Enchantment - Memory",
+        "stock": "10",
+        "volume": "109105",
+        "price": "34000"
+    },
+    "15018": {
+        "name": "Magic Crystal of Enchantment - Intimidation",
+        "stock": "19",
+        "volume": "324674",
+        "price": "32200"
+    },
+    "15019": {
+        "name": "Magic Crystal of Enchantment - Vision",
+        "stock": "0",
+        "volume": "128460",
+        "price": "32200"
+    },
+    "15020": {
+        "name": "Magic Crystal of Enchantment - Agility",
+        "stock": "1",
+        "volume": "294202",
+        "price": "32200"
+    },
+    "15021": {
+        "name": "Magic Crystal of Perfection",
+        "stock": "50",
+        "volume": "922468",
+        "price": "31600"
+    },
+    "15022": {
+        "name": "Magic Crystal - Crimson Flame",
+        "stock": "6",
+        "volume": "431970",
+        "price": "1030000"
+    },
+    "15023": {
+        "name": "Magic Crystal - Enchantment",
+        "stock": "0",
+        "volume": "490184",
+        "price": "1030000"
+    },
+    "15024": {
+        "name": "Magic Crystal - Destruction",
+        "stock": "3",
+        "volume": "553471",
+        "price": "955000"
+    },
+    "15025": {
+        "name": "Magic Crystal - Temptation",
+        "stock": "1",
+        "volume": "291013",
+        "price": "1030000"
+    },
+    "15026": {
+        "name": "Magic Crystal - Agony",
+        "stock": "0",
+        "volume": "181076",
+        "price": "1030000"
+    },
+    "15028": {
+        "name": "Magic Crystal of Nature - Endurance",
+        "stock": "0",
+        "volume": "216560",
+        "price": "107000"
+    },
+    "15029": {
+        "name": "Magic Crystal of the Sun - Precision",
+        "stock": "0",
+        "volume": "4371",
+        "price": "107000"
+    },
+    "15030": {
+        "name": "Magic Crystal of the Sun - Boulder",
+        "stock": "0",
+        "volume": "23543",
+        "price": "107000"
+    },
+    "15032": {
+        "name": "Magic Crystal - Meditation",
+        "stock": "0",
+        "volume": "126329",
+        "price": "1030000"
+    },
+    "15034": {
+        "name": "Dim Magical Crystal: Karma",
+        "stock": "3",
+        "volume": "242770",
+        "price": "955"
+    },
+    "15035": {
+        "name": "Dim Magical Crystal: Combat",
+        "stock": "2",
+        "volume": "211205",
+        "price": "945"
+    },
+    "15036": {
+        "name": "Dim Magical Crystal: Gathering",
+        "stock": "1",
+        "volume": "174087",
+        "price": "945"
+    },
+    "15037": {
+        "name": "Dim Magical Crystal: Fishing",
+        "stock": "1",
+        "volume": "141166",
+        "price": "945"
+    },
+    "15038": {
+        "name": "Dim Magical Crystal: Hunting",
+        "stock": "0",
+        "volume": "87859",
+        "price": "945"
+    },
+    "15039": {
+        "name": "Dim Magical Crystal: Cooking",
+        "stock": "3",
+        "volume": "126838",
+        "price": "945"
+    },
+    "15040": {
+        "name": "Dim Magical Crystal: Alchemy",
+        "stock": "1",
+        "volume": "80604",
+        "price": "960"
+    },
+    "15041": {
+        "name": "Dim Magical Crystal: Processing",
+        "stock": "0",
+        "volume": "126339",
+        "price": "955"
+    },
+    "15042": {
+        "name": "Dim Magical Crystal: Training",
+        "stock": "5",
+        "volume": "159891",
+        "price": "955"
+    },
+    "15043": {
+        "name": "Dim Magical Crystal: Trade",
+        "stock": "1",
+        "volume": "82739",
+        "price": "950"
+    },
+    "15044": {
+        "name": "Dim Magical Crystal: Farming",
+        "stock": "1",
+        "volume": "77049",
+        "price": "945"
+    },
+    "15101": {
+        "name": "Magic Crystal of Infinity - Precision",
+        "stock": "39",
+        "volume": "465799",
+        "price": "80500"
+    },
+    "15102": {
+        "name": "Magic Crystal of Infinity - Power",
+        "stock": "94",
+        "volume": "316449",
+        "price": "515000"
+    },
+    "15103": {
+        "name": "Magic Crystal of Infinity - Carnage",
+        "stock": "13",
+        "volume": "110865",
+        "price": "51000"
+    },
+    "15104": {
+        "name": "Magic Crystal of Infinity - Carnage",
+        "stock": "27",
+        "volume": "119090",
+        "price": "352000"
+    },
+    "15105": {
+        "name": "Magic Crystal of Infinity - Carnage",
+        "stock": "34",
+        "volume": "267337",
+        "price": "46000"
+    },
+    "15106": {
+        "name": "Magic Crystal of Infinity - Armor",
+        "stock": "0",
+        "volume": "58224",
+        "price": "515000"
+    },
+    "15107": {
+        "name": "Magic Crystal of Infinity - Vigor",
+        "stock": "15",
+        "volume": "183300",
+        "price": "120000"
+    },
+    "15108": {
+        "name": "Magic Crystal of Infinity - Patience",
+        "stock": "16",
+        "volume": "189224",
+        "price": "46000"
+    },
+    "15109": {
+        "name": "Magic Crystal of Infinity - Heal",
+        "stock": "38",
+        "volume": "116011",
+        "price": "460000"
+    },
+    "15110": {
+        "name": "Magic Crystal of Infinity - Resonance",
+        "stock": "9",
+        "volume": "149171",
+        "price": "50500"
+    },
+    "15111": {
+        "name": "Magic Crystal of Infinity - Swiftness",
+        "stock": "1",
+        "volume": "1316260",
+        "price": "16300"
+    },
+    "15112": {
+        "name": "Magic Crystal of Infinity - Adamantine",
+        "stock": "41",
+        "volume": "82568",
+        "price": "93000"
+    },
+    "15113": {
+        "name": "Magic Crystal of Infinity - Ascension",
+        "stock": "194",
+        "volume": "24922",
+        "price": "515000"
+    },
+    "15114": {
+        "name": "Magic Crystal of Infinity - Descent",
+        "stock": "0",
+        "volume": "4914",
+        "price": "427000"
+    },
+    "15115": {
+        "name": "Magic Crystal of Infinity - Endurance",
+        "stock": "1",
+        "volume": "93946",
+        "price": "515000"
+    },
+    "15116": {
+        "name": "Magic Crystal of Infinity - Assault",
+        "stock": "74",
+        "volume": "1081732",
+        "price": "17700"
+    },
+    "15117": {
+        "name": "Magic Crystal of Infinity - Sturdiness",
+        "stock": "7",
+        "volume": "88992",
+        "price": "49300"
+    },
+    "15118": {
+        "name": "Magic Crystal of Infinity - Valor",
+        "stock": "39",
+        "volume": "1214267",
+        "price": "23100"
+    },
+    "15119": {
+        "name": "Magic Crystal of Infinity - Precision",
+        "stock": "0",
+        "volume": "11321",
+        "price": "720000"
+    },
+    "15120": {
+        "name": "Magic Crystal of Infinity - Strength",
+        "stock": "15",
+        "volume": "106167",
+        "price": "50000"
+    },
+    "15121": {
+        "name": "Magic Crystal of Infinity - Memory",
+        "stock": "8",
+        "volume": "877735",
+        "price": "19000"
+    },
+    "15122": {
+        "name": "Magic Crystal of Infinity - Intimidation",
+        "stock": "1",
+        "volume": "92386",
+        "price": "515000"
+    },
+    "15123": {
+        "name": "Magic Crystal of Infinity - Vision",
+        "stock": "0",
+        "volume": "26118",
+        "price": "515000"
+    },
+    "15124": {
+        "name": "Magic Crystal of Infinity - Agility",
+        "stock": "112",
+        "volume": "128842",
+        "price": "515000"
+    },
+    "15125": {
+        "name": "Magic Crystal of Infinity - Experience",
+        "stock": "0",
+        "volume": "107805",
+        "price": "9500000"
+    },
+    "15126": {
+        "name": "Magic Crystal of Infinity - Durability",
+        "stock": "140",
+        "volume": "120281",
+        "price": "975000"
+    },
+    "15127": {
+        "name": "Magic Crystal of Infinity - Absorption",
+        "stock": "105",
+        "volume": "1448389",
+        "price": "28200"
+    },
+    "15128": {
+        "name": "Magic Crystal of Infinity - MP Recovery",
+        "stock": "3",
+        "volume": "223879",
+        "price": "49800"
+    },
+    "15129": {
+        "name": "Magic Crystal of Infinity - Back Attack",
+        "stock": "17",
+        "volume": "569482",
+        "price": "30500"
+    },
+    "15130": {
+        "name": "Magic Crystal of Infinity - Down Attack",
+        "stock": "28",
+        "volume": "1644604",
+        "price": "17700"
+    },
+    "15131": {
+        "name": "Magic Crystal of Infinity - Air Attack",
+        "stock": "32",
+        "volume": "459107",
+        "price": "27600"
+    },
+    "15132": {
+        "name": "Magic Crystal of Infinity - Critical Hit",
+        "stock": "563",
+        "volume": "1100769",
+        "price": "740000"
+    },
+    "15133": {
+        "name": "Magic Crystal of Infinity - Speed Attack",
+        "stock": "10",
+        "volume": "343187",
+        "price": "33400"
+    },
+    "15134": {
+        "name": "Magic Crystal of Infinity - Counter Attack",
+        "stock": "47",
+        "volume": "494225",
+        "price": "28200"
+    },
+    "15135": {
+        "name": "Magic Crystal of Infinity - Siege",
+        "stock": "26",
+        "volume": "2610431",
+        "price": "16700"
+    },
+    "15136": {
+        "name": "Magic Crystal of Infinity - Special Evasion",
+        "stock": "101",
+        "volume": "2631125",
+        "price": "70000"
+    },
+    "15137": {
+        "name": "Magic Crystal of Infinity - Melee Defense",
+        "stock": "26",
+        "volume": "1879552",
+        "price": "21800"
+    },
+    "15138": {
+        "name": "Magic Crystal of Infinity - Ranged Defense",
+        "stock": "37",
+        "volume": "1819603",
+        "price": "20200"
+    },
+    "15139": {
+        "name": "Magic Crystal of Infinity - Magic Defense",
+        "stock": "34",
+        "volume": "1825947",
+        "price": "20800"
+    },
+    "15146": {
+        "name": "Magic Crystal of Infinity - Energy",
+        "stock": "55",
+        "volume": "22294",
+        "price": "880000"
+    },
+    "15147": {
+        "name": "Magic Crystal of Infinity - Submergence",
+        "stock": "35",
+        "volume": "52783",
+        "price": "1030000"
+    },
+    "15148": {
+        "name": "Magic Crystal of Infinity - Melee Attack",
+        "stock": "9",
+        "volume": "473407",
+        "price": "24100"
+    },
+    "15149": {
+        "name": "Magic Crystal of Infinity - Ranged Attack",
+        "stock": "0",
+        "volume": "4105",
+        "price": "515000"
+    },
+    "15150": {
+        "name": "Magic Crystal of Infinity - Magic Attack",
+        "stock": "2",
+        "volume": "517086",
+        "price": "26700"
+    },
+    "15151": {
+        "name": "Magic Crystal of Infinity - Ignore Knockback Resistance",
+        "stock": "12",
+        "volume": "248793",
+        "price": "46600"
+    },
+    "15152": {
+        "name": "Magic Crystal of Infinity - Ignore Knockdown Resistance",
+        "stock": "11",
+        "volume": "216895",
+        "price": "45900"
+    },
+    "15153": {
+        "name": "Magic Crystal of Infinity - Ignore Grapple Resistance",
+        "stock": "13",
+        "volume": "1809272",
+        "price": "18200"
+    },
+    "15154": {
+        "name": "Magic Crystal of Infinity - Ignore Stun Resistance",
+        "stock": "6",
+        "volume": "570428",
+        "price": "23600"
+    },
+    "15156": {
+        "name": "Magic Crystal of Infinity - Skill",
+        "stock": "0",
+        "volume": "121",
+        "price": "9500000"
+    },
+    "15201": {
+        "name": "Black Magic Crystal - Precision",
+        "stock": "259",
+        "volume": "786221",
+        "price": "5250000"
+    },
+    "15206": {
+        "name": "Black Magic Crystal - Armor",
+        "stock": "1023",
+        "volume": "989478",
+        "price": "4840000"
+    },
+    "15207": {
+        "name": "Black Magic Crystal - Vigor",
+        "stock": "377",
+        "volume": "1898517",
+        "price": "4900000"
+    },
+    "15211": {
+        "name": "Black Magic Crystal - Swiftness",
+        "stock": "6",
+        "volume": "1882493",
+        "price": "4750000"
+    },
+    "15212": {
+        "name": "Black Magic Crystal - Adamantine",
+        "stock": "246",
+        "volume": "565084",
+        "price": "4950000"
+    },
+    "15213": {
+        "name": "Black Magic Crystal - Ascension",
+        "stock": "4",
+        "volume": "158402",
+        "price": "5100000"
+    },
+    "15214": {
+        "name": "Black Magic Crystal - Descent",
+        "stock": "91",
+        "volume": "190030",
+        "price": "4980000"
+    },
+    "15216": {
+        "name": "Black Magic Crystal - Assault",
+        "stock": "110",
+        "volume": "1632261",
+        "price": "4820000"
+    },
+    "15217": {
+        "name": "Black Magic Crystal - Sturdiness",
+        "stock": "138",
+        "volume": "775183",
+        "price": "4900000"
+    },
+    "15218": {
+        "name": "Black Magic Crystal - Valor",
+        "stock": "306",
+        "volume": "1153318",
+        "price": "4970000"
+    },
+    "15219": {
+        "name": "Black Magic Crystal - Precision",
+        "stock": "155",
+        "volume": "2057663",
+        "price": "4750000"
+    },
+    "15221": {
+        "name": "Black Magic Crystal - Memory",
+        "stock": "7",
+        "volume": "1439261",
+        "price": "4770000"
+    },
+    "15222": {
+        "name": "Black Magic Crystal - Intimidation",
+        "stock": "54",
+        "volume": "1002612",
+        "price": "4910000"
+    },
+    "15224": {
+        "name": "Black Magic Crystal - Agility",
+        "stock": "164",
+        "volume": "943210",
+        "price": "4900000"
+    },
+    "15601": {
+        "name": "Ancient Magic Crystal - Harphia",
+        "stock": "77",
+        "volume": "2521308",
+        "price": "105000"
+    },
+    "15602": {
+        "name": "Ancient Magic Crystal - Cobelinus",
+        "stock": "0",
+        "volume": "489564",
+        "price": "9250000"
+    },
+    "15603": {
+        "name": "Ancient Magic Crystal - Viper",
+        "stock": "16",
+        "volume": "2093254",
+        "price": "100000"
+    },
+    "15604": {
+        "name": "Ancient Magic Crystal - Hystria",
+        "stock": "6",
+        "volume": "464601",
+        "price": "3560000"
+    },
+    "15605": {
+        "name": "Ancient Magic Crystal - Carmae",
+        "stock": "9",
+        "volume": "662044",
+        "price": "105000"
+    },
+    "15606": {
+        "name": "Ancient Magic Crystal of Crimson Flame - Power",
+        "stock": "42",
+        "volume": "449859",
+        "price": "825000"
+    },
+    "15610": {
+        "name": "Ancient Magic Crystal of Abundance - Armor",
+        "stock": "2",
+        "volume": "329702",
+        "price": "2520000"
+    },
+    "15613": {
+        "name": "Ancient Magic Crystal of Abundance- Healing",
+        "stock": "0",
+        "volume": "166073",
+        "price": "2520000"
+    },
+    "15614": {
+        "name": "Ancient Magic Crystal of Abundance - Resonance",
+        "stock": "64",
+        "volume": "182194",
+        "price": "2440000"
+    },
+    "15616": {
+        "name": "Ancient Magic Crystal of Nature - Adamantine",
+        "stock": "50",
+        "volume": "546349",
+        "price": "4910000"
+    },
+    "15624": {
+        "name": "Ancient Magic Crystal of Enchantment - Agility",
+        "stock": "0",
+        "volume": "222697",
+        "price": "2520000"
+    },
+    "15626": {
+        "name": "Black Spirit Crystal",
+        "stock": "10",
+        "volume": "425693",
+        "price": "10400000"
+    },
+    "15627": {
+        "name": "Awakened Spirit's Crystal",
+        "stock": "5",
+        "volume": "183863",
+        "price": "30700000"
+    },
+    "15628": {
+        "name": "Black Magic Crystal - Harphia",
+        "stock": "32",
+        "volume": "165185",
+        "price": "14800000"
+    },
+    "15629": {
+        "name": "Black Magic Crystal - Cobelinus",
+        "stock": "37",
+        "volume": "228550",
+        "price": "14700000"
+    },
+    "15630": {
+        "name": "Black Magic Crystal - Viper",
+        "stock": "27",
+        "volume": "355293",
+        "price": "17400000"
+    },
+    "15631": {
+        "name": "Black Magic Crystal - Hystria",
+        "stock": "19",
+        "volume": "154633",
+        "price": "7800000"
+    },
+    "15632": {
+        "name": "Black Magic Crystal - Carmae",
+        "stock": "23",
+        "volume": "159324",
+        "price": "5100000"
+    },
+    "15633": {
+        "name": "Red Spirit Crystal",
+        "stock": "0",
+        "volume": "11210",
+        "price": "118000000"
+    },
+    "15634": {
+        "name": "Red Battlefield Crystal: Harphia",
+        "stock": "0",
+        "volume": "15816",
+        "price": "118000000"
+    },
+    "15635": {
+        "name": "Red Battlefield Crystal: Cobelinus",
+        "stock": "0",
+        "volume": "10368",
+        "price": "118000000"
+    },
+    "15636": {
+        "name": "Red Battlefield Crystal: Viper",
+        "stock": "6",
+        "volume": "7220",
+        "price": "118000000"
+    },
+    "15637": {
+        "name": "Red Battlefield Crystal: Hystria",
+        "stock": "0",
+        "volume": "13165",
+        "price": "118000000"
+    },
+    "15638": {
+        "name": "Red Battlefield Crystal: Carmae",
+        "stock": "0",
+        "volume": "3277",
+        "price": "118000000"
+    },
+    "15639": {
+        "name": "Red Battlefield Crystal: Power",
+        "stock": "32",
+        "volume": "47020",
+        "price": "118000000"
+    },
+    "15640": {
+        "name": "Red Battlefield Crystal: Adamantine",
+        "stock": "0",
+        "volume": "82601",
+        "price": "118000000"
+    },
+    "15649": {
+        "name": "Ancient Magic Crystal - Addis",
+        "stock": "4",
+        "volume": "453452",
+        "price": "102000"
+    },
+    "15650": {
+        "name": "Black Magic Crystal - Addis",
+        "stock": "64",
+        "volume": "121159",
+        "price": "4670000"
+    },
+    "15651": {
+        "name": "Red Battlefield Crystal: Addis",
+        "stock": "0",
+        "volume": "566",
+        "price": "84500000"
+    },
+    "15654": {
+        "name": "Valtarra Spirit's Crystal",
+        "stock": "29",
+        "volume": "191736",
+        "price": "17700000"
+    },
+    "15662": {
+        "name": "Combined Magic Crystal - Gervish",
+        "stock": "14232",
+        "volume": "192271",
+        "price": "5900000"
+    },
+    "15663": {
+        "name": "Combined Magic Crystal - Macalod",
+        "stock": "47",
+        "volume": "200253",
+        "price": "8950000"
+    },
+    "15664": {
+        "name": "Combined Magic Crystal - Hoom",
+        "stock": "0",
+        "volume": "372875",
+        "price": "42800000"
+    },
+    "15665": {
+        "name": "HAN Magic Crystal - Gervish",
+        "stock": "169",
+        "volume": "18367",
+        "price": "80000000"
+    },
+    "15666": {
+        "name": "HAN Magic Crystal - Macalod",
+        "stock": "278",
+        "volume": "34212",
+        "price": "88000000"
+    },
+    "15667": {
+        "name": "HAN Magic Crystal - Hoom",
+        "stock": "0",
+        "volume": "195967",
+        "price": "101000000"
+    },
+    "15669": {
+        "name": "Dark Red Fang Crystal - Valor",
+        "stock": "53",
+        "volume": "101972",
+        "price": "31500000"
+    },
+    "15670": {
+        "name": "Dark Red Fang Crystal - Armor",
+        "stock": "33",
+        "volume": "43336",
+        "price": "30500000"
+    },
+    "15672": {
+        "name": "Corrupted Magic Crystal",
+        "stock": "153",
+        "volume": "240502",
+        "price": "119000000"
+    },
+    "15674": {
+        "name": "Crystal of Elkarr",
+        "stock": "0",
+        "volume": "60833",
+        "price": "307000000"
+    },
+    "15675": {
+        "name": "Ah'krad Crystal",
+        "stock": "40",
+        "volume": "15020",
+        "price": "92500000"
+    },
+    "15676": {
+        "name": "Olucas Crystal",
+        "stock": "6",
+        "volume": "9609",
+        "price": "54500000"
+    },
+    "15677": {
+        "name": "Rebellious Spirit Crystal",
+        "stock": "0",
+        "volume": "36932",
+        "price": "65500000"
+    },
+    "15801": {
+        "name": "JIN Magic Crystal - Harphia",
+        "stock": "202",
+        "volume": "29096",
+        "price": "307000000"
+    },
+    "15802": {
+        "name": "BON Magic Crystal - Harphia",
+        "stock": "6",
+        "volume": "17384",
+        "price": "62000000"
+    },
+    "15803": {
+        "name": "WON Magic Crystal - Harphia",
+        "stock": "20",
+        "volume": "35305",
+        "price": "60500000"
+    },
+    "15804": {
+        "name": "JIN Magic Crystal - Cobelinus",
+        "stock": "3",
+        "volume": "29868",
+        "price": "221000000"
+    },
+    "15805": {
+        "name": "BON Magic Crystal - Cobelinus",
+        "stock": "12",
+        "volume": "28516",
+        "price": "149000000"
+    },
+    "15806": {
+        "name": "WON Magic Crystal - Cobelinus",
+        "stock": "3",
+        "volume": "41415",
+        "price": "63500000"
+    },
+    "15807": {
+        "name": "JIN Magic Crystal - Viper",
+        "stock": "164",
+        "volume": "78211",
+        "price": "307000000"
+    },
+    "15808": {
+        "name": "BON Magic Crystal - Viper",
+        "stock": "14",
+        "volume": "68617",
+        "price": "57500000"
+    },
+    "15809": {
+        "name": "WON Magic Crystal - Viper",
+        "stock": "4",
+        "volume": "151156",
+        "price": "55500000"
+    },
+    "15810": {
+        "name": "JIN Magic Crystal - Hystria",
+        "stock": "5",
+        "volume": "13725",
+        "price": "152000000"
+    },
+    "15811": {
+        "name": "BON Magic Crystal - Hystria",
+        "stock": "1",
+        "volume": "11482",
+        "price": "97500000"
+    },
+    "15812": {
+        "name": "WON Magic Crystal - Hystria",
+        "stock": "24",
+        "volume": "23703",
+        "price": "79000000"
+    },
+    "15813": {
+        "name": "JIN Magic Crystal - Carmae",
+        "stock": "6",
+        "volume": "14831",
+        "price": "139000000"
+    },
+    "15814": {
+        "name": "BON Magic Crystal - Carmae",
+        "stock": "31",
+        "volume": "13906",
+        "price": "136000000"
+    },
+    "15815": {
+        "name": "WON Magic Crystal - Carmae",
+        "stock": "5",
+        "volume": "25091",
+        "price": "59500000"
+    },
+    "15816": {
+        "name": "JIN Magic Crystal - Addis",
+        "stock": "6",
+        "volume": "9812",
+        "price": "214000000"
+    },
+    "15817": {
+        "name": "BON Magic Crystal - Addis",
+        "stock": "0",
+        "volume": "8130",
+        "price": "104000000"
+    },
+    "15818": {
+        "name": "WON Magic Crystal - Addis",
+        "stock": "0",
+        "volume": "13501",
+        "price": "58000000"
+    }
+}

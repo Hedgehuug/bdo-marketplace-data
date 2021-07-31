@@ -1,0 +1,734 @@
+{
+    "3702": {
+        "name": "Intermediate Alchemy Tool",
+        "stock": "0",
+        "volume": "372016",
+        "price": "670000"
+    },
+    "3703": {
+        "name": "Advanced Alchemy Tool",
+        "stock": "0",
+        "volume": "527110",
+        "price": "1090000"
+    },
+    "3718": {
+        "name": "Intermediate Cooking Utensil",
+        "stock": "17",
+        "volume": "387413",
+        "price": "196000"
+    },
+    "3719": {
+        "name": "Advanced Cooking Utensil",
+        "stock": "11398",
+        "volume": "4444842",
+        "price": "950000"
+    },
+    "3731": {
+        "name": "Serendia Traditional Alchemy Tool",
+        "stock": "0",
+        "volume": "43500",
+        "price": "373000"
+    },
+    "3732": {
+        "name": "Calpheon Traditional Alchemy Tool",
+        "stock": "29",
+        "volume": "48929",
+        "price": "1070000"
+    },
+    "3741": {
+        "name": "Serendia Traditional Cooking Utensil",
+        "stock": "4",
+        "volume": "51489",
+        "price": "373000"
+    },
+    "3742": {
+        "name": "Calpheon Traditional Cooking Utensil",
+        "stock": "28",
+        "volume": "158134",
+        "price": "680000"
+    },
+    "12831": {
+        "name": "Crio's Fishing Chair",
+        "stock": "3808",
+        "volume": "671367",
+        "price": "246000"
+    },
+    "16102": {
+        "name": "Transparent Empty Bottle",
+        "stock": "25437",
+        "volume": "18388429",
+        "price": "3630"
+    },
+    "16103": {
+        "name": "Hardened Empty Bottle",
+        "stock": "250",
+        "volume": "10806557",
+        "price": "10100"
+    },
+    "16104": {
+        "name": "Shining Empty Bottle",
+        "stock": "34141",
+        "volume": "11070119",
+        "price": "15400"
+    },
+    "16106": {
+        "name": "Sharp Lumbering Axe",
+        "stock": "3",
+        "volume": "153203",
+        "price": "74500"
+    },
+    "16107": {
+        "name": "Steel Lumbering Axe",
+        "stock": "27",
+        "volume": "1175692",
+        "price": "12600"
+    },
+    "16108": {
+        "name": "Shining Steel Lumbering Axe",
+        "stock": "351",
+        "volume": "754549",
+        "price": "34500"
+    },
+    "16110": {
+        "name": "Sharp Fluid Collector",
+        "stock": "0",
+        "volume": "109624",
+        "price": "68000"
+    },
+    "16111": {
+        "name": "Sturdy Fluid Collector",
+        "stock": "61",
+        "volume": "378630",
+        "price": "11900"
+    },
+    "16112": {
+        "name": "Shining Fluid Collector",
+        "stock": "140",
+        "volume": "235870",
+        "price": "220000"
+    },
+    "16114": {
+        "name": "Bronze Hoe",
+        "stock": "1",
+        "volume": "130916",
+        "price": "74500"
+    },
+    "16115": {
+        "name": "Steel Hoe",
+        "stock": "22",
+        "volume": "286636",
+        "price": "43200"
+    },
+    "16116": {
+        "name": "Shining Steel Hoe",
+        "stock": "12",
+        "volume": "229567",
+        "price": "200000"
+    },
+    "16118": {
+        "name": "Sharp Butcher Knife",
+        "stock": "23",
+        "volume": "264903",
+        "price": "74500"
+    },
+    "16119": {
+        "name": "Steel Butcher Knife",
+        "stock": "54",
+        "volume": "839273",
+        "price": "124000"
+    },
+    "16120": {
+        "name": "Shining Steel Butcher Knife",
+        "stock": "90",
+        "volume": "663946",
+        "price": "152000"
+    },
+    "16122": {
+        "name": "Sharp Tanning Knife",
+        "stock": "8",
+        "volume": "109531",
+        "price": "8400"
+    },
+    "16123": {
+        "name": "Steel Tanning Knife",
+        "stock": "29",
+        "volume": "337708",
+        "price": "134000"
+    },
+    "16124": {
+        "name": "Shining Steel Tanning Knife",
+        "stock": "174",
+        "volume": "233580",
+        "price": "86500"
+    },
+    "16126": {
+        "name": "Sharp Pickaxe",
+        "stock": "38",
+        "volume": "249106",
+        "price": "74500"
+    },
+    "16127": {
+        "name": "Steel Pickaxe",
+        "stock": "80",
+        "volume": "572902",
+        "price": "48600"
+    },
+    "16128": {
+        "name": "Shining Steel Pickaxe",
+        "stock": "1260",
+        "volume": "827224",
+        "price": "9700"
+    },
+    "16147": {
+        "name": "Thick Fishing Rod",
+        "stock": "6758",
+        "volume": "444397",
+        "price": "1620"
+    },
+    "16150": {
+        "name": "Old Fishing Rod",
+        "stock": "0",
+        "volume": "71709",
+        "price": "2460"
+    },
+    "16151": {
+        "name": "Steel Fishing Rod",
+        "stock": "73",
+        "volume": "1543281",
+        "price": "40900"
+    },
+    "16152": {
+        "name": "Golden Fishing Rod",
+        "stock": "116",
+        "volume": "482991",
+        "price": "400000"
+    },
+    "16153": {
+        "name": "Triple-Float Fishing Rod",
+        "stock": "0",
+        "volume": "504984",
+        "price": "8700000"
+    },
+    "16154": {
+        "name": "Thin Harpoon",
+        "stock": "2474",
+        "volume": "41892",
+        "price": "9700"
+    },
+    "16155": {
+        "name": "Thick Harpoon",
+        "stock": "183",
+        "volume": "103703",
+        "price": "317000"
+    },
+    "16157": {
+        "name": "[Hunting] Beginner Matchlock",
+        "stock": "22",
+        "volume": "729131",
+        "price": "116000"
+    },
+    "16158": {
+        "name": "[Hunting] Apprentice Matchlock",
+        "stock": "30",
+        "volume": "541589",
+        "price": "78500"
+    },
+    "16159": {
+        "name": "[Hunting] Skilled Matchlock",
+        "stock": "24",
+        "volume": "186397",
+        "price": "90500"
+    },
+    "16160": {
+        "name": "[Hunting] Professional Matchlock",
+        "stock": "142",
+        "volume": "146710",
+        "price": "286000"
+    },
+    "16161": {
+        "name": "[Hunting] Artisan Matchlock",
+        "stock": "379",
+        "volume": "351250",
+        "price": "269000"
+    },
+    "16162": {
+        "name": "Balenos Fishing Rod",
+        "stock": "1003",
+        "volume": "3025472",
+        "price": "1180000"
+    },
+    "16163": {
+        "name": "Epheria Fishing Rod",
+        "stock": "144",
+        "volume": "814411",
+        "price": "1220000"
+    },
+    "16164": {
+        "name": "Calpheon Fishing Rod",
+        "stock": "36",
+        "volume": "107502",
+        "price": "960000"
+    },
+    "16165": {
+        "name": "Mediah Fishing Rod",
+        "stock": "258",
+        "volume": "197147",
+        "price": "890000"
+    },
+    "16167": {
+        "name": "Ash Tree Float",
+        "stock": "286",
+        "volume": "144015",
+        "price": "645000"
+    },
+    "16168": {
+        "name": "Maple Float",
+        "stock": "407",
+        "volume": "346383",
+        "price": "725000"
+    },
+    "16479": {
+        "name": "Manos Hoe",
+        "stock": "16",
+        "volume": "15262",
+        "price": "241000000"
+    },
+    "16481": {
+        "name": "Manos Lumbering Axe",
+        "stock": "19",
+        "volume": "8183",
+        "price": "241000000"
+    },
+    "16482": {
+        "name": "Manos Fluid Collector",
+        "stock": "2",
+        "volume": "6887",
+        "price": "214000000"
+    },
+    "16486": {
+        "name": "Manos Tanning Knife",
+        "stock": "0",
+        "volume": "1015",
+        "price": "134000000"
+    },
+    "16487": {
+        "name": "Manos Butcher Knife",
+        "stock": "42",
+        "volume": "28339",
+        "price": "156000000"
+    },
+    "16540": {
+        "name": "Dostter Steel Hoe",
+        "stock": "0",
+        "volume": "5029",
+        "price": "8200000"
+    },
+    "16805": {
+        "name": "Lucky Lumbering Axe",
+        "stock": "0",
+        "volume": "1823",
+        "price": "10500"
+    },
+    "16806": {
+        "name": "Lucky Sharp Lumbering Axe",
+        "stock": "0",
+        "volume": "4845",
+        "price": "174000"
+    },
+    "16807": {
+        "name": "Lucky Steel Lumbering Axe",
+        "stock": "4",
+        "volume": "79605",
+        "price": "525000"
+    },
+    "16808": {
+        "name": "Lucky Shining Steel Lumbering Axe",
+        "stock": "0",
+        "volume": "38959",
+        "price": "1050000"
+    },
+    "16809": {
+        "name": "Lucky Fluid Collector",
+        "stock": "0",
+        "volume": "529",
+        "price": "6950"
+    },
+    "16810": {
+        "name": "Lucky Sharp Fluid Collector",
+        "stock": "0",
+        "volume": "5187",
+        "price": "174000"
+    },
+    "16811": {
+        "name": "Lucky Sturdy Fluid Collector",
+        "stock": "0",
+        "volume": "29311",
+        "price": "525000"
+    },
+    "16812": {
+        "name": "Lucky Shining Fluid Collector",
+        "stock": "10",
+        "volume": "9183",
+        "price": "1050000"
+    },
+    "16813": {
+        "name": "Lucky Hoe",
+        "stock": "0",
+        "volume": "241",
+        "price": "9250"
+    },
+    "16814": {
+        "name": "Lucky Bronze Hoe",
+        "stock": "0",
+        "volume": "6506",
+        "price": "174000"
+    },
+    "16815": {
+        "name": "Lucky Steel Hoe",
+        "stock": "0",
+        "volume": "21838",
+        "price": "525000"
+    },
+    "16816": {
+        "name": "Lucky Shining Steel Hoe",
+        "stock": "0",
+        "volume": "15377",
+        "price": "1050000"
+    },
+    "16817": {
+        "name": "Lucky Butcher Knife",
+        "stock": "0",
+        "volume": "246",
+        "price": "8100"
+    },
+    "16818": {
+        "name": "Lucky Sharp Butcher Knife",
+        "stock": "0",
+        "volume": "4887",
+        "price": "174000"
+    },
+    "16819": {
+        "name": "Lucky Steel Butcher Knife",
+        "stock": "2",
+        "volume": "36555",
+        "price": "525000"
+    },
+    "16820": {
+        "name": "Lucky Shining Steel Butcher Knife",
+        "stock": "0",
+        "volume": "24917",
+        "price": "1050000"
+    },
+    "16821": {
+        "name": "Lucky Tanning Knife",
+        "stock": "0",
+        "volume": "2646",
+        "price": "7500"
+    },
+    "16822": {
+        "name": "Lucky Sharp Tanning Knife",
+        "stock": "0",
+        "volume": "16991",
+        "price": "174000"
+    },
+    "16823": {
+        "name": "Lucky Steel Tanning Knife",
+        "stock": "0",
+        "volume": "15430",
+        "price": "525000"
+    },
+    "16824": {
+        "name": "Lucky Shining Steel Tanning Knife",
+        "stock": "0",
+        "volume": "7257",
+        "price": "1050000"
+    },
+    "16825": {
+        "name": "Lucky Pickaxe",
+        "stock": "0",
+        "volume": "241",
+        "price": "12100"
+    },
+    "16826": {
+        "name": "Lucky Sharp Pickaxe",
+        "stock": "0",
+        "volume": "2580",
+        "price": "174000"
+    },
+    "16827": {
+        "name": "Lucky Steel Pickaxe",
+        "stock": "0",
+        "volume": "33198",
+        "price": "525000"
+    },
+    "16828": {
+        "name": "Lucky Shining Steel Pickaxe",
+        "stock": "0",
+        "volume": "32038",
+        "price": "1050000"
+    },
+    "16829": {
+        "name": "Magic Lumbering Axe",
+        "stock": "35301",
+        "volume": "884283",
+        "price": "21600"
+    },
+    "16830": {
+        "name": "Magic Fluid Collector",
+        "stock": "48078",
+        "volume": "1223842",
+        "price": "21600"
+    },
+    "16831": {
+        "name": "Magic Butcher Knife",
+        "stock": "676",
+        "volume": "903211",
+        "price": "21600"
+    },
+    "16832": {
+        "name": "Magic Pickaxe",
+        "stock": "21661",
+        "volume": "435233",
+        "price": "21600"
+    },
+    "16833": {
+        "name": "Magic Hoe",
+        "stock": "29",
+        "volume": "640792",
+        "price": "21800"
+    },
+    "16834": {
+        "name": "Magic Tanning Knife",
+        "stock": "6904",
+        "volume": "498059",
+        "price": "21600"
+    },
+    "16847": {
+        "name": "Manos Pickaxe",
+        "stock": "6",
+        "volume": "5157",
+        "price": "204000000"
+    },
+    "49804": {
+        "name": "Sealed Old Moon Camping Anvil",
+        "stock": "334",
+        "volume": "94446",
+        "price": "5600000"
+    },
+    "49805": {
+        "name": "Old Moon Camping Shop Contract",
+        "stock": "0",
+        "volume": "1349",
+        "price": "13100000"
+    },
+    "49808": {
+        "name": "Packaged Old Moon Camping Anvil",
+        "stock": "0",
+        "volume": "197",
+        "price": "3730000"
+    },
+    "56133": {
+        "name": "[Hunting] Sniper Rifle",
+        "stock": "1",
+        "volume": "49439",
+        "price": "1020000"
+    },
+    "56220": {
+        "name": "[Hunting] Master Matchlock",
+        "stock": "0",
+        "volume": "295",
+        "price": "284000000"
+    },
+    "705154": {
+        "name": "Loggia Riding Crop",
+        "stock": "8",
+        "volume": "61586",
+        "price": "820000"
+    },
+    "705155": {
+        "name": "Izaro Riding Crop",
+        "stock": "0",
+        "volume": "24304",
+        "price": "8200000"
+    },
+    "705156": {
+        "name": "Manos Riding Crop",
+        "stock": "23",
+        "volume": "38160",
+        "price": "241000000"
+    },
+    "720501": {
+        "name": "Manos Processing Stone - Lake",
+        "stock": "0",
+        "volume": "456",
+        "price": "146000000"
+    },
+    "720502": {
+        "name": "Manos Processing Stone - Vitality",
+        "stock": "1",
+        "volume": "866",
+        "price": "157000000"
+    },
+    "720503": {
+        "name": "Manos Processing Stone - Energy",
+        "stock": "0",
+        "volume": "1998",
+        "price": "140000000"
+    },
+    "720504": {
+        "name": "Manos Processing Stone - Sun",
+        "stock": "0",
+        "volume": "243",
+        "price": "138000000"
+    },
+    "720505": {
+        "name": "Manos Processing Stone - Wind",
+        "stock": "0",
+        "volume": "183",
+        "price": "117000000"
+    },
+    "720506": {
+        "name": "Manos Processing Stone - Lava",
+        "stock": "0",
+        "volume": "1629",
+        "price": "159000000"
+    },
+    "720508": {
+        "name": "Dostter Steel Lumbering Axe",
+        "stock": "0",
+        "volume": "4097",
+        "price": "8200000"
+    },
+    "720509": {
+        "name": "Dostter Steel Fluid Collector",
+        "stock": "0",
+        "volume": "3140",
+        "price": "8200000"
+    },
+    "720510": {
+        "name": "Dostter Steel Tanning Knife",
+        "stock": "0",
+        "volume": "1872",
+        "price": "8200000"
+    },
+    "720511": {
+        "name": "Dostter Steel Butcher Knife",
+        "stock": "1",
+        "volume": "7946",
+        "price": "8200000"
+    },
+    "720512": {
+        "name": "Dostter Steel Pickaxe",
+        "stock": "0",
+        "volume": "2590",
+        "price": "8200000"
+    },
+    "720513": {
+        "name": "Techthon Processing Stone - Lake",
+        "stock": "0",
+        "volume": "3150",
+        "price": "8200000"
+    },
+    "720514": {
+        "name": "Techthon Processing Stone - Vitality",
+        "stock": "0",
+        "volume": "5056",
+        "price": "8200000"
+    },
+    "720515": {
+        "name": "Techthon Processing Stone - Energy",
+        "stock": "0",
+        "volume": "5757",
+        "price": "8200000"
+    },
+    "720516": {
+        "name": "Techthon Processing Stone - Sun",
+        "stock": "1",
+        "volume": "2262",
+        "price": "8200000"
+    },
+    "720517": {
+        "name": "Techthon Processing Stone - Wind",
+        "stock": "1584",
+        "volume": "11972",
+        "price": "4320000"
+    },
+    "720518": {
+        "name": "Techthon Processing Stone - Lava",
+        "stock": "0",
+        "volume": "5819",
+        "price": "8200000"
+    },
+    "720519": {
+        "name": "Loggia Hoe",
+        "stock": "1",
+        "volume": "23846",
+        "price": "560000"
+    },
+    "720520": {
+        "name": "Loggia Lumbering Axe",
+        "stock": "7",
+        "volume": "38436",
+        "price": "560000"
+    },
+    "720521": {
+        "name": "Loggia Fluid Collector",
+        "stock": "1",
+        "volume": "27242",
+        "price": "560000"
+    },
+    "720522": {
+        "name": "Loggia Tanning Knife",
+        "stock": "0",
+        "volume": "11126",
+        "price": "560000"
+    },
+    "720523": {
+        "name": "Loggia Butcher Knife",
+        "stock": "9",
+        "volume": "57468",
+        "price": "560000"
+    },
+    "720524": {
+        "name": "Loggia Pickaxe",
+        "stock": "1",
+        "volume": "18954",
+        "price": "560000"
+    },
+    "720525": {
+        "name": "Loggia Processing Stone - Lake",
+        "stock": "1",
+        "volume": "18017",
+        "price": "560000"
+    },
+    "720526": {
+        "name": "Loggia Processing Stone - Vitality",
+        "stock": "1",
+        "volume": "29235",
+        "price": "560000"
+    },
+    "720527": {
+        "name": "Loggia Processing Stone - Energy",
+        "stock": "1",
+        "volume": "33434",
+        "price": "560000"
+    },
+    "720528": {
+        "name": "Loggia Processing Stone - Sun",
+        "stock": "1",
+        "volume": "13346",
+        "price": "560000"
+    },
+    "720529": {
+        "name": "Loggia Processing Stone - Wind",
+        "stock": "0",
+        "volume": "9122",
+        "price": "560000"
+    },
+    "720530": {
+        "name": "Loggia Processing Stone - Lava",
+        "stock": "0",
+        "volume": "31776",
+        "price": "560000"
+    }
+}

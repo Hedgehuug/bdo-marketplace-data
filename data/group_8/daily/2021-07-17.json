@@ -1,0 +1,2900 @@
+{
+    "206": {
+        "name": "Flashbang",
+        "stock": "0",
+        "volume": "26439",
+        "price": "84000"
+    },
+    "207": {
+        "name": "Fire Shot",
+        "stock": "3688",
+        "volume": "24205",
+        "price": "42000"
+    },
+    "208": {
+        "name": "Poison Shot",
+        "stock": "0",
+        "volume": "478",
+        "price": "57000"
+    },
+    "215": {
+        "name": "Flare",
+        "stock": "0",
+        "volume": "659364",
+        "price": "48900"
+    },
+    "504": {
+        "name": "Melee AP Enhancer",
+        "stock": "0",
+        "volume": "1771005",
+        "price": "93500"
+    },
+    "505": {
+        "name": "Ranged AP Enhancer",
+        "stock": "0",
+        "volume": "179711",
+        "price": "93500"
+    },
+    "506": {
+        "name": "Magic AP Enhancer",
+        "stock": "0",
+        "volume": "1009178",
+        "price": "93500"
+    },
+    "507": {
+        "name": "Melee Damage Reducer",
+        "stock": "95",
+        "volume": "1103499",
+        "price": "44600"
+    },
+    "508": {
+        "name": "Ranged Damage Reducer",
+        "stock": "0",
+        "volume": "119546",
+        "price": "93500"
+    },
+    "509": {
+        "name": "Magic Damage Reducer",
+        "stock": "0",
+        "volume": "223367",
+        "price": "93500"
+    },
+    "512": {
+        "name": "Grapple Resistance Enhancer",
+        "stock": "0",
+        "volume": "79419",
+        "price": "93500"
+    },
+    "513": {
+        "name": "Instant HP Potion (Small)",
+        "stock": "0",
+        "volume": "63210",
+        "price": "118"
+    },
+    "514": {
+        "name": "Instant HP Potion (Medium)",
+        "stock": "0",
+        "volume": "151438",
+        "price": "314"
+    },
+    "515": {
+        "name": "Instant MP Potion (Small)",
+        "stock": "390",
+        "volume": "13480",
+        "price": "125"
+    },
+    "516": {
+        "name": "Instant MP Potion (Medium)",
+        "stock": "0",
+        "volume": "47917",
+        "price": "314"
+    },
+    "517": {
+        "name": "HP Potion (Small)",
+        "stock": "13498",
+        "volume": "15199416",
+        "price": "51"
+    },
+    "518": {
+        "name": "HP Potion (Medium)",
+        "stock": "34500",
+        "volume": "24316513",
+        "price": "129"
+    },
+    "519": {
+        "name": "HP Potion (Large)",
+        "stock": "7716",
+        "volume": "80143351",
+        "price": "525"
+    },
+    "520": {
+        "name": "MP Potion (Small)",
+        "stock": "35",
+        "volume": "1982513",
+        "price": "61"
+    },
+    "521": {
+        "name": "MP Potion (Medium)",
+        "stock": "1200",
+        "volume": "1029277",
+        "price": "129"
+    },
+    "522": {
+        "name": "MP Potion (Large)",
+        "stock": "45287",
+        "volume": "12076219",
+        "price": "324"
+    },
+    "523": {
+        "name": "Accuracy Enhancer",
+        "stock": "0",
+        "volume": "26908",
+        "price": "83000"
+    },
+    "524": {
+        "name": "HP Potion (Extra Large)",
+        "stock": "10",
+        "volume": "12168503",
+        "price": "1320"
+    },
+    "526": {
+        "name": "MP Potion (Extra Large)",
+        "stock": "0",
+        "volume": "2721299",
+        "price": "1320"
+    },
+    "528": {
+        "name": "Instant HP Potion (Large)",
+        "stock": "0",
+        "volume": "1509453",
+        "price": "790"
+    },
+    "529": {
+        "name": "Instant HP Potion (Extra Large)",
+        "stock": "0",
+        "volume": "15594435",
+        "price": "2100"
+    },
+    "531": {
+        "name": "Instant MP Potion (Large)",
+        "stock": "0",
+        "volume": "811176",
+        "price": "790"
+    },
+    "532": {
+        "name": "Instant MP Potion (Extra Large)",
+        "stock": "276",
+        "volume": "2878348",
+        "price": "2100"
+    },
+    "566": {
+        "name": "Grain Juice",
+        "stock": "1355",
+        "volume": "3097768",
+        "price": "34"
+    },
+    "567": {
+        "name": "Concentrated Grain Juice",
+        "stock": "2867",
+        "volume": "8961359",
+        "price": "85"
+    },
+    "568": {
+        "name": "Highly Concentrated Grain Juice",
+        "stock": "11",
+        "volume": "2382233",
+        "price": "1150"
+    },
+    "569": {
+        "name": "Herbal Juice",
+        "stock": "576",
+        "volume": "23005256",
+        "price": "37"
+    },
+    "570": {
+        "name": "Concentrated Herbal Juice",
+        "stock": "17",
+        "volume": "18575008",
+        "price": "464"
+    },
+    "571": {
+        "name": "Highly Concentrated Herbal Juice",
+        "stock": "0",
+        "volume": "7266058",
+        "price": "1960"
+    },
+    "575": {
+        "name": "Whale Tendon Potion",
+        "stock": "0",
+        "volume": "3968301",
+        "price": "615000"
+    },
+    "576": {
+        "name": "Superior Whale Tendon Potion",
+        "stock": "0",
+        "volume": "6473560",
+        "price": "1640000"
+    },
+    "578": {
+        "name": "Refined Grain Juice",
+        "stock": "0",
+        "volume": "2469296",
+        "price": "3130"
+    },
+    "579": {
+        "name": "Refined Herbal Juice",
+        "stock": "0",
+        "volume": "4285537",
+        "price": "5600"
+    },
+    "586": {
+        "name": "Energy Potion (Small)",
+        "stock": "191",
+        "volume": "527783",
+        "price": "480000"
+    },
+    "587": {
+        "name": "Energy Potion (Medium)",
+        "stock": "421",
+        "volume": "374842",
+        "price": "1070000"
+    },
+    "588": {
+        "name": "Energy Potion (Large)",
+        "stock": "300",
+        "volume": "387275",
+        "price": "2390000"
+    },
+    "589": {
+        "name": "Energy Potion (Extra Large)",
+        "stock": "4497",
+        "volume": "6187267",
+        "price": "4390000"
+    },
+    "591": {
+        "name": "WP Potion (Small)",
+        "stock": "0",
+        "volume": "140136",
+        "price": "126"
+    },
+    "592": {
+        "name": "WP Potion (Medium)",
+        "stock": "0",
+        "volume": "439411",
+        "price": "314"
+    },
+    "593": {
+        "name": "WP Potion (Large)",
+        "stock": "0",
+        "volume": "4398186",
+        "price": "790"
+    },
+    "594": {
+        "name": "WP Potion (Extra Large)",
+        "stock": "0",
+        "volume": "3577171",
+        "price": "2100"
+    },
+    "595": {
+        "name": "SP Potion (Small)",
+        "stock": "3",
+        "volume": "26286",
+        "price": "119"
+    },
+    "596": {
+        "name": "SP Potion (Medium)",
+        "stock": "496",
+        "volume": "54766",
+        "price": "314"
+    },
+    "597": {
+        "name": "SP Potion (Large)",
+        "stock": "1283",
+        "volume": "855878",
+        "price": "670"
+    },
+    "598": {
+        "name": "SP Potion (Extra Large)",
+        "stock": "1211",
+        "volume": "936515",
+        "price": "2100"
+    },
+    "601": {
+        "name": "[Party] Elixir of Amity",
+        "stock": "2332",
+        "volume": "29552",
+        "price": "54500"
+    },
+    "602": {
+        "name": "[Party] Improved Elixir of Amity",
+        "stock": "25",
+        "volume": "56310",
+        "price": "151000"
+    },
+    "605": {
+        "name": "[Party] Resurrection Elixir",
+        "stock": "550",
+        "volume": "139171",
+        "price": "32500"
+    },
+    "606": {
+        "name": "[Party] Strong Resurrection Elixir",
+        "stock": "1111",
+        "volume": "107688",
+        "price": "48900"
+    },
+    "607": {
+        "name": "[Party] Elixir of Human Hunt",
+        "stock": "82",
+        "volume": "848797",
+        "price": "4330"
+    },
+    "608": {
+        "name": "[Party] Elixir of Perfect Human Hunt",
+        "stock": "2983",
+        "volume": "456653",
+        "price": "98000"
+    },
+    "609": {
+        "name": "[Party] Elixir of Frenzy",
+        "stock": "290",
+        "volume": "115683",
+        "price": "79500"
+    },
+    "610": {
+        "name": "[Party] Elixir of Endless Frenzy",
+        "stock": "6879",
+        "volume": "373102",
+        "price": "565000"
+    },
+    "611": {
+        "name": "[Party] Golden Hand Elixir",
+        "stock": "12",
+        "volume": "152241",
+        "price": "7750"
+    },
+    "612": {
+        "name": "[Party] Glorious Golden Hand Elixir",
+        "stock": "5214",
+        "volume": "398797",
+        "price": "248000"
+    },
+    "613": {
+        "name": "[Party] Elixir of Draining",
+        "stock": "5907",
+        "volume": "95143",
+        "price": "44700"
+    },
+    "614": {
+        "name": "[Party] Elixir of Strong Draining",
+        "stock": "8894",
+        "volume": "1058813",
+        "price": "251000"
+    },
+    "615": {
+        "name": "[Party] Elixir of Demihuman Hunt",
+        "stock": "311",
+        "volume": "122678",
+        "price": "18700"
+    },
+    "616": {
+        "name": "[Party] Fierce Demihuman Hunting Elixir",
+        "stock": "305",
+        "volume": "1397712",
+        "price": "83000"
+    },
+    "617": {
+        "name": "[Party] Elixir of Perforation",
+        "stock": "10998",
+        "volume": "28912",
+        "price": "86000"
+    },
+    "618": {
+        "name": "[Party] Elixir of Brutal Perforation",
+        "stock": "32",
+        "volume": "269783",
+        "price": "281000"
+    },
+    "619": {
+        "name": "[Party] Elixir of Energy",
+        "stock": "0",
+        "volume": "863",
+        "price": "19700"
+    },
+    "620": {
+        "name": "[Party] Surging Energy Elixir",
+        "stock": "163",
+        "volume": "40022",
+        "price": "49400"
+    },
+    "621": {
+        "name": "[Party] Elixir of Wings",
+        "stock": "0",
+        "volume": "4347",
+        "price": "31700"
+    },
+    "622": {
+        "name": "[Party] Soaring Wings Elixir",
+        "stock": "0",
+        "volume": "229192",
+        "price": "91000"
+    },
+    "623": {
+        "name": "[Party] Elixir of Death",
+        "stock": "88",
+        "volume": "27994",
+        "price": "61000"
+    },
+    "624": {
+        "name": "[Party] Brutal Death Elixir",
+        "stock": "0",
+        "volume": "430896",
+        "price": "447000"
+    },
+    "625": {
+        "name": "[Party] Elixir of Wind",
+        "stock": "2668",
+        "volume": "46841",
+        "price": "99000"
+    },
+    "626": {
+        "name": "[Party] Elixir of Flowing Wind",
+        "stock": "0",
+        "volume": "422792",
+        "price": "151000"
+    },
+    "627": {
+        "name": "[Party] Elixir of Swiftness",
+        "stock": "1453",
+        "volume": "197110",
+        "price": "44100"
+    },
+    "628": {
+        "name": "[Party] Elixir of Intrepid Swiftness",
+        "stock": "1713",
+        "volume": "379888",
+        "price": "155000"
+    },
+    "629": {
+        "name": "[Party] Elixir of Spells",
+        "stock": "0",
+        "volume": "22182",
+        "price": "21900"
+    },
+    "630": {
+        "name": "[Party] Elixir of Agile Spells",
+        "stock": "0",
+        "volume": "137277",
+        "price": "35800"
+    },
+    "631": {
+        "name": "[Party] Elixir of Seal",
+        "stock": "5062",
+        "volume": "56128",
+        "price": "46400"
+    },
+    "632": {
+        "name": "[Party] Agile Seal Elixir",
+        "stock": "806",
+        "volume": "340984",
+        "price": "38000"
+    },
+    "633": {
+        "name": "[Party] Elixir of Assassination",
+        "stock": "276",
+        "volume": "56676",
+        "price": "44700"
+    },
+    "634": {
+        "name": "[Party] Elixir of Lethal Assassin",
+        "stock": "6796",
+        "volume": "731613",
+        "price": "330000"
+    },
+    "635": {
+        "name": "[Party] Elixir of Detection",
+        "stock": "0",
+        "volume": "52623",
+        "price": "447000"
+    },
+    "636": {
+        "name": "[Party] Elixir of Sharp Detection",
+        "stock": "0",
+        "volume": "155338",
+        "price": "760000"
+    },
+    "637": {
+        "name": "[Party] Elixir of Concentration",
+        "stock": "51",
+        "volume": "100518",
+        "price": "16700"
+    },
+    "638": {
+        "name": "[Party] Elixir of Advanced Concentration",
+        "stock": "0",
+        "volume": "287086",
+        "price": "59500"
+    },
+    "639": {
+        "name": "[Party] Elixir of Will",
+        "stock": "1424",
+        "volume": "55825",
+        "price": "62000"
+    },
+    "640": {
+        "name": "[Party] Elixir of Remarkable Will",
+        "stock": "0",
+        "volume": "578980",
+        "price": "93500"
+    },
+    "641": {
+        "name": "[Party] Elixir of Fury",
+        "stock": "0",
+        "volume": "217652",
+        "price": "55000"
+    },
+    "642": {
+        "name": "[Party] Elixir of Endless Fury",
+        "stock": "0",
+        "volume": "623972",
+        "price": "83000"
+    },
+    "643": {
+        "name": "[Party] Elixir of Resistance",
+        "stock": "0",
+        "volume": "13042",
+        "price": "45700"
+    },
+    "644": {
+        "name": "[Party] Elixir of Sharp Resistance",
+        "stock": "0",
+        "volume": "26072",
+        "price": "99000"
+    },
+    "645": {
+        "name": "[Party] Elixir of Life",
+        "stock": "895",
+        "volume": "67883",
+        "price": "40200"
+    },
+    "646": {
+        "name": "[Party] Elixir of Strong Life",
+        "stock": "0",
+        "volume": "499362",
+        "price": "120000"
+    },
+    "647": {
+        "name": "[Party] Elixir of Mentality",
+        "stock": "851",
+        "volume": "1500",
+        "price": "16200"
+    },
+    "648": {
+        "name": "[Party] Elixir of Clear Mentality",
+        "stock": "0",
+        "volume": "45000",
+        "price": "28900"
+    },
+    "649": {
+        "name": "[Party] Grim Reaper's Elixir",
+        "stock": "2174",
+        "volume": "90926",
+        "price": "175000"
+    },
+    "650": {
+        "name": "[Party] Grim Soul Reaper's Elixir",
+        "stock": "0",
+        "volume": "534940",
+        "price": "341000"
+    },
+    "651": {
+        "name": "[Party] EXP Elixir",
+        "stock": "261",
+        "volume": "3455886",
+        "price": "15900"
+    },
+    "652": {
+        "name": "[Party] Splendid EXP Elixir",
+        "stock": "10906",
+        "volume": "1862487",
+        "price": "121000"
+    },
+    "653": {
+        "name": "[Party] Defense Elixir",
+        "stock": "235",
+        "volume": "150313",
+        "price": "29400"
+    },
+    "654": {
+        "name": "[Party] Elixir of Steel Defense",
+        "stock": "0",
+        "volume": "430764",
+        "price": "118000"
+    },
+    "655": {
+        "name": "[Party] Elixir of Carnage",
+        "stock": "166",
+        "volume": "175652",
+        "price": "106000"
+    },
+    "656": {
+        "name": "[Party] Elixir of Brutal Carnage",
+        "stock": "20",
+        "volume": "390468",
+        "price": "347000"
+    },
+    "657": {
+        "name": "[Party] Elixir of Sky",
+        "stock": "22",
+        "volume": "13294",
+        "price": "90000"
+    },
+    "658": {
+        "name": "[Party] Merciless Sky Elixir",
+        "stock": "910",
+        "volume": "132714",
+        "price": "371000"
+    },
+    "659": {
+        "name": "[Party] Elixir of Endurance",
+        "stock": "69",
+        "volume": "16585",
+        "price": "38000"
+    },
+    "660": {
+        "name": "[Party] Elixir of Overwhelming Endurance",
+        "stock": "0",
+        "volume": "99721",
+        "price": "97000"
+    },
+    "661": {
+        "name": "[Party] Worker's Elixir",
+        "stock": "858",
+        "volume": "288379",
+        "price": "38600"
+    },
+    "662": {
+        "name": "[Party] Skilled Worker's Elixir",
+        "stock": "2401",
+        "volume": "186748",
+        "price": "97500"
+    },
+    "663": {
+        "name": "[Party] Fisher's Elixir",
+        "stock": "24",
+        "volume": "59795",
+        "price": "89500"
+    },
+    "664": {
+        "name": "Elixir of Amity",
+        "stock": "259",
+        "volume": "1654325",
+        "price": "25900"
+    },
+    "665": {
+        "name": "Improved Elixir of Amity",
+        "stock": "260",
+        "volume": "596055",
+        "price": "157000"
+    },
+    "668": {
+        "name": "Resurrection Elixir",
+        "stock": "3227",
+        "volume": "16237085",
+        "price": "18700"
+    },
+    "669": {
+        "name": "Strong Resurrection Elixir",
+        "stock": "1108",
+        "volume": "1935115",
+        "price": "18800"
+    },
+    "670": {
+        "name": "Elixir of Human Hunt",
+        "stock": "107",
+        "volume": "7825922",
+        "price": "12900"
+    },
+    "671": {
+        "name": "Elixir of Perfect Human Hunt",
+        "stock": "1662",
+        "volume": "1402083",
+        "price": "39900"
+    },
+    "672": {
+        "name": "Elixir of Frenzy",
+        "stock": "19281",
+        "volume": "29375733",
+        "price": "102000"
+    },
+    "673": {
+        "name": "Elixir of Endless Frenzy",
+        "stock": "6099",
+        "volume": "3318640",
+        "price": "335000"
+    },
+    "674": {
+        "name": "Golden Hand Elixir",
+        "stock": "0",
+        "volume": "11834846",
+        "price": "43200"
+    },
+    "675": {
+        "name": "Glorious Golden Hand Elixir",
+        "stock": "400",
+        "volume": "2766101",
+        "price": "141000"
+    },
+    "676": {
+        "name": "Elixir of Draining",
+        "stock": "78",
+        "volume": "14486355",
+        "price": "22700"
+    },
+    "677": {
+        "name": "Elixir of Strong Draining",
+        "stock": "1872",
+        "volume": "1832451",
+        "price": "78000"
+    },
+    "678": {
+        "name": "Elixir of Demihuman Hunt",
+        "stock": "26050",
+        "volume": "29512248",
+        "price": "17300"
+    },
+    "679": {
+        "name": "Fierce Demihuman Hunting Elixir",
+        "stock": "6759",
+        "volume": "8734337",
+        "price": "49100"
+    },
+    "680": {
+        "name": "Elixir of Perforation",
+        "stock": "2615",
+        "volume": "6415869",
+        "price": "62000"
+    },
+    "681": {
+        "name": "Elixir of Brutal Perforation",
+        "stock": "2329",
+        "volume": "1124909",
+        "price": "217000"
+    },
+    "682": {
+        "name": "Elixir of Energy",
+        "stock": "9283",
+        "volume": "15814241",
+        "price": "35200"
+    },
+    "683": {
+        "name": "Surging Energy Elixir",
+        "stock": "616",
+        "volume": "2149194",
+        "price": "30900"
+    },
+    "684": {
+        "name": "Elixir of Wings",
+        "stock": "4792",
+        "volume": "5425967",
+        "price": "30500"
+    },
+    "685": {
+        "name": "Soaring Wings Elixir",
+        "stock": "1736",
+        "volume": "2363273",
+        "price": "93500"
+    },
+    "686": {
+        "name": "Elixir of Death",
+        "stock": "5950",
+        "volume": "3029713",
+        "price": "107000"
+    },
+    "687": {
+        "name": "Brutal Death Elixir",
+        "stock": "937",
+        "volume": "469672",
+        "price": "360000"
+    },
+    "688": {
+        "name": "Elixir of Wind",
+        "stock": "6287",
+        "volume": "2702530",
+        "price": "33700"
+    },
+    "689": {
+        "name": "Elixir of Flowing Wind",
+        "stock": "0",
+        "volume": "1188136",
+        "price": "157000"
+    },
+    "690": {
+        "name": "Elixir of Swiftness",
+        "stock": "4443",
+        "volume": "7770936",
+        "price": "27800"
+    },
+    "691": {
+        "name": "Elixir of Intrepid Swiftness",
+        "stock": "4572",
+        "volume": "2198041",
+        "price": "85000"
+    },
+    "692": {
+        "name": "Elixir of Spells",
+        "stock": "12813",
+        "volume": "40852915",
+        "price": "28100"
+    },
+    "693": {
+        "name": "Elixir of Agile Spells",
+        "stock": "0",
+        "volume": "5265331",
+        "price": "75000"
+    },
+    "694": {
+        "name": "Elixir of Seal",
+        "stock": "29",
+        "volume": "2709259",
+        "price": "13300"
+    },
+    "695": {
+        "name": "Agile Seal Elixir",
+        "stock": "24",
+        "volume": "2314745",
+        "price": "30400"
+    },
+    "696": {
+        "name": "Elixir of Assassination",
+        "stock": "4638",
+        "volume": "5777499",
+        "price": "44200"
+    },
+    "697": {
+        "name": "Elixir of Lethal Assassin",
+        "stock": "1213",
+        "volume": "870827",
+        "price": "275000"
+    },
+    "698": {
+        "name": "Elixir of Detection",
+        "stock": "0",
+        "volume": "1651842",
+        "price": "475000"
+    },
+    "699": {
+        "name": "Elixir of Sharp Detection",
+        "stock": "0",
+        "volume": "214998",
+        "price": "795000"
+    },
+    "700": {
+        "name": "Elixir of Concentration",
+        "stock": "9048",
+        "volume": "4587286",
+        "price": "16100"
+    },
+    "701": {
+        "name": "Elixir of Advanced Concentration",
+        "stock": "0",
+        "volume": "881029",
+        "price": "61500"
+    },
+    "702": {
+        "name": "Elixir of Will",
+        "stock": "16393",
+        "volume": "7467858",
+        "price": "31800"
+    },
+    "703": {
+        "name": "Elixir of Remarkable Will",
+        "stock": "0",
+        "volume": "3057680",
+        "price": "66000"
+    },
+    "704": {
+        "name": "Elixir of Fury",
+        "stock": "14487",
+        "volume": "22115101",
+        "price": "41300"
+    },
+    "705": {
+        "name": "Elixir of Endless Fury",
+        "stock": "0",
+        "volume": "2883328",
+        "price": "87000"
+    },
+    "706": {
+        "name": "Elixir of Resistance",
+        "stock": "1270",
+        "volume": "888451",
+        "price": "18100"
+    },
+    "707": {
+        "name": "Elixir of Sharp Resistance",
+        "stock": "376",
+        "volume": "136892",
+        "price": "103000"
+    },
+    "708": {
+        "name": "Elixir of Life",
+        "stock": "427",
+        "volume": "4073811",
+        "price": "25100"
+    },
+    "709": {
+        "name": "Elixir of Strong Life",
+        "stock": "200",
+        "volume": "1436535",
+        "price": "43800"
+    },
+    "710": {
+        "name": "Elixir of Mentality",
+        "stock": "10",
+        "volume": "565453",
+        "price": "12600"
+    },
+    "711": {
+        "name": "Elixir of Clear Mentality",
+        "stock": "27",
+        "volume": "475800",
+        "price": "19600"
+    },
+    "712": {
+        "name": "Grim Reaper's Elixir",
+        "stock": "101",
+        "volume": "9315060",
+        "price": "100000"
+    },
+    "713": {
+        "name": "Grim Soul Reaper's Elixir",
+        "stock": "0",
+        "volume": "1426783",
+        "price": "310000"
+    },
+    "714": {
+        "name": "EXP Elixir",
+        "stock": "15673",
+        "volume": "36395491",
+        "price": "20700"
+    },
+    "715": {
+        "name": "Splendid EXP Elixir",
+        "stock": "2881",
+        "volume": "6154063",
+        "price": "82000"
+    },
+    "716": {
+        "name": "Defense Elixir",
+        "stock": "8249",
+        "volume": "6252145",
+        "price": "36200"
+    },
+    "717": {
+        "name": "Elixir of Steel Defense",
+        "stock": "0",
+        "volume": "879927",
+        "price": "121000"
+    },
+    "718": {
+        "name": "Elixir of Carnage",
+        "stock": "4119",
+        "volume": "3499011",
+        "price": "80000"
+    },
+    "719": {
+        "name": "Elixir of Brutal Carnage",
+        "stock": "535",
+        "volume": "612045",
+        "price": "344000"
+    },
+    "720": {
+        "name": "Elixir of Sky",
+        "stock": "1420",
+        "volume": "1657590",
+        "price": "101000"
+    },
+    "721": {
+        "name": "Merciless Sky Elixir",
+        "stock": "433",
+        "volume": "228160",
+        "price": "327000"
+    },
+    "722": {
+        "name": "Elixir of Endurance",
+        "stock": "2878",
+        "volume": "1116289",
+        "price": "19400"
+    },
+    "723": {
+        "name": "Elixir of Overwhelming Endurance",
+        "stock": "0",
+        "volume": "253214",
+        "price": "101000"
+    },
+    "724": {
+        "name": "Worker's Elixir",
+        "stock": "292",
+        "volume": "17346751",
+        "price": "14000"
+    },
+    "725": {
+        "name": "Skilled Worker's Elixir",
+        "stock": "261",
+        "volume": "3250694",
+        "price": "72000"
+    },
+    "726": {
+        "name": "Fisher's Elixir",
+        "stock": "14642",
+        "volume": "22269201",
+        "price": "45100"
+    },
+    "727": {
+        "name": "Skilled Fisher's Elixir",
+        "stock": "1174",
+        "volume": "4242576",
+        "price": "59000"
+    },
+    "728": {
+        "name": "Elixir of Burn Removal",
+        "stock": "54",
+        "volume": "190409",
+        "price": "406"
+    },
+    "729": {
+        "name": "Antidote Elixir",
+        "stock": "635",
+        "volume": "239535",
+        "price": "1080"
+    },
+    "730": {
+        "name": "Elixir of Hemostasis",
+        "stock": "968",
+        "volume": "181137",
+        "price": "540"
+    },
+    "732": {
+        "name": "Whale Tendon Elixir",
+        "stock": "0",
+        "volume": "892712",
+        "price": "2460000"
+    },
+    "733": {
+        "name": "Tough Whale Tendon Elixir",
+        "stock": "135",
+        "volume": "935456",
+        "price": "4940000"
+    },
+    "734": {
+        "name": "Perfume of Courage",
+        "stock": "1579",
+        "volume": "2863283",
+        "price": "6050000"
+    },
+    "735": {
+        "name": "Perfume of Swiftness",
+        "stock": "0",
+        "volume": "340009",
+        "price": "9500000"
+    },
+    "736": {
+        "name": "[Party] Skilled Fisher's Elixir",
+        "stock": "294",
+        "volume": "323529",
+        "price": "72000"
+    },
+    "737": {
+        "name": "[Party] Elixir of Burn Removal",
+        "stock": "0",
+        "volume": "3608",
+        "price": "7200"
+    },
+    "738": {
+        "name": "[Party] Antidote Elixir",
+        "stock": "0",
+        "volume": "6050",
+        "price": "4270"
+    },
+    "739": {
+        "name": "[Party] Elixir of Hemostasis",
+        "stock": "0",
+        "volume": "7177",
+        "price": "4630"
+    },
+    "740": {
+        "name": "Griffon's Elixir",
+        "stock": "0",
+        "volume": "3005564",
+        "price": "83000"
+    },
+    "741": {
+        "name": "Strong Griffon's Elixir",
+        "stock": "0",
+        "volume": "91851",
+        "price": "194000"
+    },
+    "744": {
+        "name": "[Party] Griffon's Elixir",
+        "stock": "0",
+        "volume": "120898",
+        "price": "89500"
+    },
+    "745": {
+        "name": "[Party] Strong Griffon's Elixir",
+        "stock": "0",
+        "volume": "114934",
+        "price": "179000"
+    },
+    "748": {
+        "name": "Khalk's Elixir",
+        "stock": "0",
+        "volume": "406832",
+        "price": "9600000"
+    },
+    "749": {
+        "name": "Elixir of Time",
+        "stock": "12539",
+        "volume": "17465577",
+        "price": "38700"
+    },
+    "750": {
+        "name": "Elixir of Flowing Time",
+        "stock": "12011",
+        "volume": "3482760",
+        "price": "109000"
+    },
+    "751": {
+        "name": "[Party] Elixir of Time",
+        "stock": "1413",
+        "volume": "990016",
+        "price": "83000"
+    },
+    "752": {
+        "name": "[Party] Elixir of Flowing Time",
+        "stock": "1142",
+        "volume": "1524132",
+        "price": "151000"
+    },
+    "753": {
+        "name": "Elixir of Training",
+        "stock": "8833",
+        "volume": "7155969",
+        "price": "35200"
+    },
+    "754": {
+        "name": "Elixir of Expert Training",
+        "stock": "6276",
+        "volume": "1179945",
+        "price": "138000"
+    },
+    "755": {
+        "name": "[Party] Elixir of Training",
+        "stock": "964",
+        "volume": "184242",
+        "price": "101000"
+    },
+    "756": {
+        "name": "[Party] Elixir of Expert Training",
+        "stock": "4488",
+        "volume": "348187",
+        "price": "151000"
+    },
+    "761": {
+        "name": "Marking Reagent",
+        "stock": "0",
+        "volume": "321487",
+        "price": "224000"
+    },
+    "762": {
+        "name": "Elixir of Shock",
+        "stock": "4290",
+        "volume": "22948250",
+        "price": "25000"
+    },
+    "763": {
+        "name": "Elixir of Strong Shock",
+        "stock": "4070",
+        "volume": "3490995",
+        "price": "98000"
+    },
+    "764": {
+        "name": "[Party] Elixir of Shock",
+        "stock": "603",
+        "volume": "811219",
+        "price": "40100"
+    },
+    "765": {
+        "name": "[Party] Elixir of Strong Shock",
+        "stock": "0",
+        "volume": "1065671",
+        "price": "157000"
+    },
+    "766": {
+        "name": "[Mix] EXP-Reaper Elixir",
+        "stock": "205",
+        "volume": "2056603",
+        "price": "48400"
+    },
+    "767": {
+        "name": "[Mix] Time-Training Elixir",
+        "stock": "3",
+        "volume": "574363",
+        "price": "515000"
+    },
+    "768": {
+        "name": "[Mix] Swiftness-Wind-Spell Elixir",
+        "stock": "284",
+        "volume": "411131",
+        "price": "515000"
+    },
+    "769": {
+        "name": "[Mix] Manhunt-Rage Elixir",
+        "stock": "180",
+        "volume": "1254282",
+        "price": "376000"
+    },
+    "770": {
+        "name": "[Mix] Thorn-Defense Elixir",
+        "stock": "0",
+        "volume": "211713",
+        "price": "515000"
+    },
+    "771": {
+        "name": "Elixir of Deep Sea",
+        "stock": "0",
+        "volume": "274998",
+        "price": "4890000"
+    },
+    "773": {
+        "name": "Weenie Elixir",
+        "stock": "5",
+        "volume": "6155103",
+        "price": "20500"
+    },
+    "774": {
+        "name": "Surging Weenie Elixir",
+        "stock": "764",
+        "volume": "1096920",
+        "price": "56500"
+    },
+    "775": {
+        "name": "[Party] Weenie Elixir",
+        "stock": "2214",
+        "volume": "48681",
+        "price": "62000"
+    },
+    "776": {
+        "name": "[Party] Surging Weenie Elixir",
+        "stock": "0",
+        "volume": "213619",
+        "price": "164000"
+    },
+    "777": {
+        "name": "Looney Elixir",
+        "stock": "9546",
+        "volume": "3769696",
+        "price": "34000"
+    },
+    "778": {
+        "name": "Reliable Looney Elixir",
+        "stock": "48",
+        "volume": "881344",
+        "price": "86500"
+    },
+    "779": {
+        "name": "[Party] Looney Elixir",
+        "stock": "0",
+        "volume": "28373",
+        "price": "58000"
+    },
+    "780": {
+        "name": "[Party] Reliable Looney Elixir",
+        "stock": "0",
+        "volume": "83093",
+        "price": "116000"
+    },
+    "781": {
+        "name": "Spirit Perfume Elixir",
+        "stock": "13569",
+        "volume": "7435455",
+        "price": "885000"
+    },
+    "782": {
+        "name": "Helix Elixir",
+        "stock": "55",
+        "volume": "3108999",
+        "price": "46200"
+    },
+    "783": {
+        "name": "Splendid Helix Elixir",
+        "stock": "4772",
+        "volume": "650471",
+        "price": "149000"
+    },
+    "784": {
+        "name": "[Party] Helix Elixir",
+        "stock": "763",
+        "volume": "17836",
+        "price": "68500"
+    },
+    "785": {
+        "name": "[Party] Splendid Helix Elixir",
+        "stock": "0",
+        "volume": "86601",
+        "price": "149000"
+    },
+    "791": {
+        "name": "Verdure Draught",
+        "stock": "7510",
+        "volume": "14145542",
+        "price": "400000"
+    },
+    "792": {
+        "name": "Beast's Draught",
+        "stock": "8007",
+        "volume": "10591652",
+        "price": "710000"
+    },
+    "793": {
+        "name": "Giant's Draught",
+        "stock": "8887",
+        "volume": "18838130",
+        "price": "545000"
+    },
+    "794": {
+        "name": "Savage Draught",
+        "stock": "635",
+        "volume": "919429",
+        "price": "455000"
+    },
+    "795": {
+        "name": "Frenzy Draught",
+        "stock": "3195",
+        "volume": "9523106",
+        "price": "2620000"
+    },
+    "796": {
+        "name": "Celerity Draught",
+        "stock": "517",
+        "volume": "311656",
+        "price": "5200000"
+    },
+    "797": {
+        "name": "Unbridled Celerity Draught",
+        "stock": "288",
+        "volume": "231176",
+        "price": "10200000"
+    },
+    "798": {
+        "name": "Armor Draught",
+        "stock": "457",
+        "volume": "133299",
+        "price": "1210000"
+    },
+    "1152": {
+        "name": "Elixir of Skill",
+        "stock": "188",
+        "volume": "222473",
+        "price": "64000"
+    },
+    "1154": {
+        "name": "Elixir of Infinite Skill",
+        "stock": "186",
+        "volume": "18955",
+        "price": "216000"
+    },
+    "1155": {
+        "name": "Elixir of Mastery",
+        "stock": "9293",
+        "volume": "656067",
+        "price": "62000"
+    },
+    "1156": {
+        "name": "Elixir of Labor",
+        "stock": "12385",
+        "volume": "680362",
+        "price": "24900"
+    },
+    "1157": {
+        "name": "Elixir of Armor",
+        "stock": "79",
+        "volume": "197738",
+        "price": "214000"
+    },
+    "1158": {
+        "name": "Elixir of Improved Mastery",
+        "stock": "2176",
+        "volume": "66261",
+        "price": "464000"
+    },
+    "1159": {
+        "name": "Elixir of Rough Labor",
+        "stock": "0",
+        "volume": "51157",
+        "price": "179000"
+    },
+    "1160": {
+        "name": "Elixir of Corrupted Armor",
+        "stock": "0",
+        "volume": "12923",
+        "price": "710000"
+    },
+    "1161": {
+        "name": "Perfume of Charm",
+        "stock": "129",
+        "volume": "53818",
+        "price": "7350000"
+    },
+    "6394": {
+        "name": "Chowder",
+        "stock": "187",
+        "volume": "764749",
+        "price": "74500"
+    },
+    "6395": {
+        "name": "Elixir of Regeneration",
+        "stock": "91",
+        "volume": "107859",
+        "price": "6950000"
+    },
+    "7918": {
+        "name": "Fragrant Jerky",
+        "stock": "91",
+        "volume": "2190359",
+        "price": "2980"
+    },
+    "7919": {
+        "name": "Well-Dried Jerky",
+        "stock": "0",
+        "volume": "619668",
+        "price": "1050"
+    },
+    "7920": {
+        "name": "Rare Jerky",
+        "stock": "736",
+        "volume": "871248",
+        "price": "1820"
+    },
+    "9201": {
+        "name": "Fruit Wine",
+        "stock": "37801",
+        "volume": "53934697",
+        "price": "2450"
+    },
+    "9202": {
+        "name": "Pickled Vegetables",
+        "stock": "24640",
+        "volume": "1005334602",
+        "price": "2910"
+    },
+    "9203": {
+        "name": "Cheese Gratin",
+        "stock": "28601",
+        "volume": "86775469",
+        "price": "22000"
+    },
+    "9204": {
+        "name": "Aloe Yogurt",
+        "stock": "5450",
+        "volume": "1713692",
+        "price": "7250"
+    },
+    "9205": {
+        "name": "Aloe Cookie",
+        "stock": "46104",
+        "volume": "933073",
+        "price": "1970"
+    },
+    "9206": {
+        "name": "Honey Wine",
+        "stock": "52048",
+        "volume": "104629967",
+        "price": "1490"
+    },
+    "9207": {
+        "name": "Sute Tea",
+        "stock": "60337",
+        "volume": "117842034",
+        "price": "19200"
+    },
+    "9208": {
+        "name": "Fish Fillet Chips",
+        "stock": "3645",
+        "volume": "1514344",
+        "price": "5150"
+    },
+    "9209": {
+        "name": "Assorted Side Dishes",
+        "stock": "21141",
+        "volume": "4134023",
+        "price": "16700"
+    },
+    "9210": {
+        "name": "High-Quality Carrot Juice",
+        "stock": "97119",
+        "volume": "1237870",
+        "price": "414"
+    },
+    "9211": {
+        "name": "Special Carrot Juice",
+        "stock": "199364",
+        "volume": "3914237",
+        "price": "905"
+    },
+    "9213": {
+        "name": "Beer",
+        "stock": "61862",
+        "volume": "2384293116",
+        "price": "2610"
+    },
+    "9214": {
+        "name": "Teff Bread",
+        "stock": "50676",
+        "volume": "364144883",
+        "price": "3510"
+    },
+    "9215": {
+        "name": "Freekeh Snake Stew",
+        "stock": "4500",
+        "volume": "54028578",
+        "price": "24900"
+    },
+    "9216": {
+        "name": "Fig Pie",
+        "stock": "32662",
+        "volume": "340820587",
+        "price": "8000"
+    },
+    "9217": {
+        "name": "Pistachio Fried Rice",
+        "stock": "589351",
+        "volume": "8764067",
+        "price": "1530"
+    },
+    "9218": {
+        "name": "Teff Sandwich",
+        "stock": "48727",
+        "volume": "194345623",
+        "price": "31700"
+    },
+    "9219": {
+        "name": "Date Palm Wine",
+        "stock": "27982",
+        "volume": "533713631",
+        "price": "5100"
+    },
+    "9220": {
+        "name": "Couscous",
+        "stock": "45519",
+        "volume": "131535371",
+        "price": "21900"
+    },
+    "9241": {
+        "name": "Stir-Fried Vegetables",
+        "stock": "46389",
+        "volume": "138686257",
+        "price": "6900"
+    },
+    "9255": {
+        "name": "Grain Soup",
+        "stock": "5708",
+        "volume": "4838750",
+        "price": "452"
+    },
+    "9256": {
+        "name": "Fried Vegetables",
+        "stock": "10932",
+        "volume": "1288959",
+        "price": "1840"
+    },
+    "9257": {
+        "name": "Fruit Juice",
+        "stock": "107985",
+        "volume": "6147413",
+        "price": "585"
+    },
+    "9258": {
+        "name": "Fruit and Vegetable Salad",
+        "stock": "48783",
+        "volume": "7804385",
+        "price": "1380"
+    },
+    "9259": {
+        "name": "Fruit Pudding",
+        "stock": "24",
+        "volume": "1552082",
+        "price": "7000"
+    },
+    "9260": {
+        "name": "Soft Bread",
+        "stock": "11817",
+        "volume": "19516502",
+        "price": "17000"
+    },
+    "9261": {
+        "name": "Oatmeal",
+        "stock": "0",
+        "volume": "31074560",
+        "price": "16300"
+    },
+    "9262": {
+        "name": "Exotic Herbal Wine",
+        "stock": "21779",
+        "volume": "88384750",
+        "price": "675"
+    },
+    "9263": {
+        "name": "Milk Tea",
+        "stock": "29196",
+        "volume": "82473047",
+        "price": "19500"
+    },
+    "9264": {
+        "name": "Fruit Pie",
+        "stock": "172",
+        "volume": "3717350",
+        "price": "8000"
+    },
+    "9265": {
+        "name": "Meat Pie",
+        "stock": "0",
+        "volume": "14496983",
+        "price": "13600"
+    },
+    "9266": {
+        "name": "Honeycomb Cookie",
+        "stock": "0",
+        "volume": "8921517",
+        "price": "18700"
+    },
+    "9267": {
+        "name": "Ham Sandwich",
+        "stock": "32184",
+        "volume": "21082228",
+        "price": "34200"
+    },
+    "9268": {
+        "name": "Cheese Pie",
+        "stock": "0",
+        "volume": "4137692",
+        "price": "14000"
+    },
+    "9269": {
+        "name": "Omelet",
+        "stock": "3400",
+        "volume": "8085348",
+        "price": "1900"
+    },
+    "9270": {
+        "name": "Tea With Fine Scent",
+        "stock": "14512",
+        "volume": "143424669",
+        "price": "8150"
+    },
+    "9271": {
+        "name": "Crispy Fried Vegetables",
+        "stock": "4016",
+        "volume": "259122",
+        "price": "6050"
+    },
+    "9273": {
+        "name": "High-Quality Cheese Pie",
+        "stock": "0",
+        "volume": "878127",
+        "price": "18300"
+    },
+    "9274": {
+        "name": "Special Fruit Pudding",
+        "stock": "0",
+        "volume": "876657",
+        "price": "14600"
+    },
+    "9275": {
+        "name": "Special Grain Soup",
+        "stock": "189",
+        "volume": "506385",
+        "price": "1020"
+    },
+    "9276": {
+        "name": "Refined Oatmeal",
+        "stock": "0",
+        "volume": "14132662",
+        "price": "29400"
+    },
+    "9277": {
+        "name": "Smooth Milk Tea",
+        "stock": "0",
+        "volume": "18212331",
+        "price": "45600"
+    },
+    "9278": {
+        "name": "Thick Fruit Juice",
+        "stock": "18198",
+        "volume": "1023847",
+        "price": "1170"
+    },
+    "9279": {
+        "name": "Full-bodied Exotic Herbal Wine",
+        "stock": "12300",
+        "volume": "28859604",
+        "price": "2050"
+    },
+    "9280": {
+        "name": "Luscious Fruit Wine",
+        "stock": "2238",
+        "volume": "11098527",
+        "price": "7100"
+    },
+    "9281": {
+        "name": "Sweet and Sour Pickled Vegetable",
+        "stock": "17795",
+        "volume": "199749359",
+        "price": "8800"
+    },
+    "9282": {
+        "name": "Chewy Cheese Gratin",
+        "stock": "55644",
+        "volume": "71738743",
+        "price": "54500"
+    },
+    "9283": {
+        "name": "Cold Draft Beer",
+        "stock": "14490",
+        "volume": "445214030",
+        "price": "5250"
+    },
+    "9284": {
+        "name": "Crispy Stir-Fried Vegetables",
+        "stock": "34844",
+        "volume": "44836975",
+        "price": "12700"
+    },
+    "9285": {
+        "name": "Fresh Fruit and Vegetable Salad",
+        "stock": "8698",
+        "volume": "1579624",
+        "price": "2490"
+    },
+    "9286": {
+        "name": "Moist Milk Bread",
+        "stock": "0",
+        "volume": "5307796",
+        "price": "19900"
+    },
+    "9287": {
+        "name": "Sweet Fruit Pie",
+        "stock": "125",
+        "volume": "510332",
+        "price": "9200"
+    },
+    "9288": {
+        "name": "Lean Meat Pie",
+        "stock": "5250",
+        "volume": "8396858",
+        "price": "17800"
+    },
+    "9289": {
+        "name": "Crispy Honeycomb Cookie",
+        "stock": "0",
+        "volume": "3877724",
+        "price": "33700"
+    },
+    "9290": {
+        "name": "High-Quality Ham Sandwich",
+        "stock": "26216",
+        "volume": "8516702",
+        "price": "65000"
+    },
+    "9291": {
+        "name": "Soft Omelet",
+        "stock": "282",
+        "volume": "2805628",
+        "price": "8000"
+    },
+    "9292": {
+        "name": "Tea with Strong Scent",
+        "stock": "24501",
+        "volume": "37321697",
+        "price": "17200"
+    },
+    "9293": {
+        "name": "Thick Aloe Yogurt",
+        "stock": "3461",
+        "volume": "229844",
+        "price": "15500"
+    },
+    "9294": {
+        "name": "Sweet Aloe Cookie",
+        "stock": "8308",
+        "volume": "120090",
+        "price": "4340"
+    },
+    "9295": {
+        "name": "Tangy Honey Wine",
+        "stock": "10507",
+        "volume": "18715019",
+        "price": "2810"
+    },
+    "9296": {
+        "name": "Healthy Sute Tea",
+        "stock": "32630",
+        "volume": "21156506",
+        "price": "58000"
+    },
+    "9297": {
+        "name": "Mouth-watering Fish Fillet Chips",
+        "stock": "108",
+        "volume": "881410",
+        "price": "12100"
+    },
+    "9298": {
+        "name": "Plentiful Assorted Side Dishes",
+        "stock": "13174",
+        "volume": "776203",
+        "price": "46000"
+    },
+    "9299": {
+        "name": "Spongy Teff Bread",
+        "stock": "63423",
+        "volume": "71151576",
+        "price": "3910"
+    },
+    "9300": {
+        "name": "Thick Freekeh Snake Stew",
+        "stock": "252",
+        "volume": "16679740",
+        "price": "29100"
+    },
+    "9301": {
+        "name": "Sweet Fig Pie",
+        "stock": "55196",
+        "volume": "65885202",
+        "price": "8000"
+    },
+    "9302": {
+        "name": "Savory Pistachio Fried Rice",
+        "stock": "86083",
+        "volume": "4037302",
+        "price": "2300"
+    },
+    "9303": {
+        "name": "Spicy Teff Sandwich",
+        "stock": "44231",
+        "volume": "46649566",
+        "price": "31300"
+    },
+    "9304": {
+        "name": "Mild Date Palm Wine",
+        "stock": "4307",
+        "volume": "91928693",
+        "price": "5050"
+    },
+    "9305": {
+        "name": "Classic Couscous",
+        "stock": "44494",
+        "volume": "35137041",
+        "price": "21500"
+    },
+    "9306": {
+        "name": "Star Anise Tea",
+        "stock": "194108",
+        "volume": "23174292",
+        "price": "1020"
+    },
+    "9307": {
+        "name": "Coconut Cocktail",
+        "stock": "15078",
+        "volume": "68121473",
+        "price": "3620"
+    },
+    "9308": {
+        "name": "Coconut Pasta",
+        "stock": "43056",
+        "volume": "18833942",
+        "price": "11700"
+    },
+    "9309": {
+        "name": "Coconut Fried Fish",
+        "stock": "1919",
+        "volume": "6241790",
+        "price": "6250"
+    },
+    "9310": {
+        "name": "Chilled Coconut Cocktail",
+        "stock": "14786",
+        "volume": "12789712",
+        "price": "12800"
+    },
+    "9311": {
+        "name": "Sweet Coconut Pasta",
+        "stock": "18173",
+        "volume": "4210622",
+        "price": "29600"
+    },
+    "9312": {
+        "name": "Crispy Coconut Fried Fish",
+        "stock": "11804",
+        "volume": "1556037",
+        "price": "16800"
+    },
+    "9313": {
+        "name": "Spirit Essence of Wind",
+        "stock": "0",
+        "volume": "739558",
+        "price": "84500"
+    },
+    "9314": {
+        "name": "Spirit Essence of Earth",
+        "stock": "0",
+        "volume": "1689817",
+        "price": "84500"
+    },
+    "9315": {
+        "name": "Spirit Essence of Water",
+        "stock": "0",
+        "volume": "1787471",
+        "price": "84500"
+    },
+    "9316": {
+        "name": "Rainbow Button Mushroom Sandwich",
+        "stock": "8482",
+        "volume": "3300161",
+        "price": "33400"
+    },
+    "9317": {
+        "name": "Sweet Rainbow Button Mushroom Sandwich",
+        "stock": "22498",
+        "volume": "936825",
+        "price": "48600"
+    },
+    "9318": {
+        "name": "Stir-Fried Bracken",
+        "stock": "147",
+        "volume": "1896600",
+        "price": "23800"
+    },
+    "9319": {
+        "name": "Savory Stir-Fried Bracken",
+        "stock": "0",
+        "volume": "298814",
+        "price": "35600"
+    },
+    "9321": {
+        "name": "Carrot Confit",
+        "stock": "12268",
+        "volume": "6148218",
+        "price": "41200"
+    },
+    "9323": {
+        "name": "Delotia Tart",
+        "stock": "72",
+        "volume": "144321",
+        "price": "15700"
+    },
+    "9324": {
+        "name": "High-Quality Delotia Tart",
+        "stock": "48",
+        "volume": "42858",
+        "price": "30800"
+    },
+    "9325": {
+        "name": "Delotia Pudding",
+        "stock": "318",
+        "volume": "2820250",
+        "price": "35900"
+    },
+    "9326": {
+        "name": "Blood Red Delotia Pudding",
+        "stock": "14622",
+        "volume": "2804180",
+        "price": "54000"
+    },
+    "9327": {
+        "name": "Delotia Juice",
+        "stock": "0",
+        "volume": "3380451",
+        "price": "7700"
+    },
+    "9328": {
+        "name": "Chilled Delotia Juice",
+        "stock": "0",
+        "volume": "925963",
+        "price": "13800"
+    },
+    "9329": {
+        "name": "Delotia Milk Tea",
+        "stock": "562",
+        "volume": "577668",
+        "price": "22500"
+    },
+    "9330": {
+        "name": "Fragrant Delotia Milk Tea",
+        "stock": "0",
+        "volume": "109186",
+        "price": "40200"
+    },
+    "9331": {
+        "name": "Stir-Fried Bird",
+        "stock": "3256",
+        "volume": "5050680",
+        "price": "10100"
+    },
+    "9332": {
+        "name": "Savory Stir-Fried Bird",
+        "stock": "4215",
+        "volume": "1531591",
+        "price": "18500"
+    },
+    "9333": {
+        "name": "Stir-Fried Bracken and Meat",
+        "stock": "0",
+        "volume": "7112437",
+        "price": "33300"
+    },
+    "9334": {
+        "name": "Light Stir-Fried Bracken and Meat",
+        "stock": "7005",
+        "volume": "2307375",
+        "price": "60000"
+    },
+    "9335": {
+        "name": "Chicken Breast Salad",
+        "stock": "18",
+        "volume": "6128017",
+        "price": "5350"
+    },
+    "9336": {
+        "name": "Fresh Chicken Breast Salad",
+        "stock": "31",
+        "volume": "1794788",
+        "price": "15000"
+    },
+    "9337": {
+        "name": "Frank Sandwich",
+        "stock": "1",
+        "volume": "243020",
+        "price": "21200"
+    },
+    "9338": {
+        "name": "High-Quality Frank Sandwich",
+        "stock": "0",
+        "volume": "29884",
+        "price": "41900"
+    },
+    "9401": {
+        "name": "Steak",
+        "stock": "0",
+        "volume": "5139298",
+        "price": "16100"
+    },
+    "9402": {
+        "name": "Boiled Bird Eggs",
+        "stock": "0",
+        "volume": "50642161",
+        "price": "3050"
+    },
+    "9403": {
+        "name": "Fried Bird",
+        "stock": "3170",
+        "volume": "4693603",
+        "price": "9550"
+    },
+    "9404": {
+        "name": "Meat Croquette",
+        "stock": "0",
+        "volume": "27406411",
+        "price": "28600"
+    },
+    "9405": {
+        "name": "Steamed Bird",
+        "stock": "32010",
+        "volume": "9280329",
+        "price": "2150"
+    },
+    "9406": {
+        "name": "Lizard Kebab",
+        "stock": "2547",
+        "volume": "2142753",
+        "price": "23900"
+    },
+    "9407": {
+        "name": "Fried Fish",
+        "stock": "9233",
+        "volume": "18204028",
+        "price": "479"
+    },
+    "9408": {
+        "name": "Borscht",
+        "stock": "33",
+        "volume": "243322",
+        "price": "15300"
+    },
+    "9409": {
+        "name": "Steamed Fish",
+        "stock": "97",
+        "volume": "421044",
+        "price": "520"
+    },
+    "9410": {
+        "name": "Desert Dumpling",
+        "stock": "1153",
+        "volume": "452139",
+        "price": "4670"
+    },
+    "9411": {
+        "name": "Steamed Seafood",
+        "stock": "3001",
+        "volume": "106288",
+        "price": "3700"
+    },
+    "9412": {
+        "name": "Pickled Fish",
+        "stock": "23674",
+        "volume": "962454",
+        "price": "705"
+    },
+    "9413": {
+        "name": "Seafood Pasta",
+        "stock": "12569",
+        "volume": "535836",
+        "price": "4240"
+    },
+    "9414": {
+        "name": "Meat Stew",
+        "stock": "614",
+        "volume": "10980634",
+        "price": "13200"
+    },
+    "9415": {
+        "name": "Meat Sandwich",
+        "stock": "352",
+        "volume": "1939962",
+        "price": "32000"
+    },
+    "9416": {
+        "name": "Meat Pasta",
+        "stock": "0",
+        "volume": "3228738",
+        "price": "19900"
+    },
+    "9417": {
+        "name": "Smoked Fish Steak",
+        "stock": "16319",
+        "volume": "191052647",
+        "price": "2900"
+    },
+    "9418": {
+        "name": "Fish Soup",
+        "stock": "1861",
+        "volume": "459117",
+        "price": "2680"
+    },
+    "9419": {
+        "name": "Seafood Mushroom Salad",
+        "stock": "326",
+        "volume": "78312",
+        "price": "2180"
+    },
+    "9420": {
+        "name": "Stir-Fried Seafood",
+        "stock": "8",
+        "volume": "123951",
+        "price": "3450"
+    },
+    "9421": {
+        "name": "Seafood Grilled with Butter",
+        "stock": "5",
+        "volume": "108707",
+        "price": "1570"
+    },
+    "9422": {
+        "name": "Dark Pudding",
+        "stock": "36093",
+        "volume": "32566024",
+        "price": "31900"
+    },
+    "9423": {
+        "name": "Fish Fillet Salad",
+        "stock": "19163",
+        "volume": "2872609",
+        "price": "12700"
+    },
+    "9424": {
+        "name": "Meat Soup",
+        "stock": "16",
+        "volume": "1993736",
+        "price": "11000"
+    },
+    "9425": {
+        "name": "Lean Meat Salad",
+        "stock": "0",
+        "volume": "8760935",
+        "price": "17500"
+    },
+    "9426": {
+        "name": "Stir-Fried Meat",
+        "stock": "0",
+        "volume": "3984310",
+        "price": "23800"
+    },
+    "9427": {
+        "name": "Grilled Sausage",
+        "stock": "0",
+        "volume": "22443902",
+        "price": "17100"
+    },
+    "9428": {
+        "name": "Special Fish Soup",
+        "stock": "1531",
+        "volume": "113416",
+        "price": "1410"
+    },
+    "9429": {
+        "name": "Crispy Fried Fish",
+        "stock": "20863",
+        "volume": "7442707",
+        "price": "860"
+    },
+    "9430": {
+        "name": "Juicy Steak",
+        "stock": "0",
+        "volume": "2284609",
+        "price": "29000"
+    },
+    "9431": {
+        "name": "Smoked Sausage",
+        "stock": "0",
+        "volume": "26287879",
+        "price": "34200"
+    },
+    "9432": {
+        "name": "Special Stir-Fried Meat",
+        "stock": "0",
+        "volume": "745502",
+        "price": "43000"
+    },
+    "9433": {
+        "name": "Savory Seafood Grilled with Butter",
+        "stock": "62",
+        "volume": "14738",
+        "price": "5150"
+    },
+    "9434": {
+        "name": "Special Meat Soup",
+        "stock": "0",
+        "volume": "335315",
+        "price": "30700"
+    },
+    "9435": {
+        "name": "Top Grade Lean Meat Salad",
+        "stock": "0",
+        "volume": "7392887",
+        "price": "31600"
+    },
+    "9436": {
+        "name": "Appealing Boiled Bird Egg",
+        "stock": "0",
+        "volume": "18358882",
+        "price": "6200"
+    },
+    "9437": {
+        "name": "Divine Fried Bird",
+        "stock": "547",
+        "volume": "757925",
+        "price": "8900"
+    },
+    "9438": {
+        "name": "Crispy Meat Croquette",
+        "stock": "0",
+        "volume": "61564818",
+        "price": "52000"
+    },
+    "9439": {
+        "name": "Lean Steamed Fish",
+        "stock": "92",
+        "volume": "45038",
+        "price": "1860"
+    },
+    "9440": {
+        "name": "Plentiful Steamed Seafood",
+        "stock": "204",
+        "volume": "25609",
+        "price": "2830"
+    },
+    "9441": {
+        "name": "High-Quality Seafood Pasta",
+        "stock": "3804",
+        "volume": "476570",
+        "price": "6450"
+    },
+    "9442": {
+        "name": "Thick Meat Stew",
+        "stock": "1073",
+        "volume": "6437605",
+        "price": "11300"
+    },
+    "9443": {
+        "name": "High-Quality Meat Sandwich",
+        "stock": "0",
+        "volume": "737569",
+        "price": "58500"
+    },
+    "9444": {
+        "name": "Spaghetti alla Bolognese",
+        "stock": "0",
+        "volume": "1214501",
+        "price": "35600"
+    },
+    "9445": {
+        "name": "Golden Smoked Fish Steak",
+        "stock": "28664",
+        "volume": "45116722",
+        "price": "2900"
+    },
+    "9446": {
+        "name": "Special Seafood Mushroom Salad",
+        "stock": "781",
+        "volume": "64045",
+        "price": "1610"
+    },
+    "9447": {
+        "name": "Special Stir-Fried Seafood",
+        "stock": "16",
+        "volume": "16241",
+        "price": "10800"
+    },
+    "9448": {
+        "name": "Bloody Dark Pudding",
+        "stock": "20803",
+        "volume": "16205874",
+        "price": "66500"
+    },
+    "9449": {
+        "name": "Fresh Fish Fillet Salad",
+        "stock": "7448",
+        "volume": "812092",
+        "price": "12000"
+    },
+    "9450": {
+        "name": "Well-aged Steamed Bird",
+        "stock": "492",
+        "volume": "1544247",
+        "price": "4570"
+    },
+    "9451": {
+        "name": "Lean Lizard Kebab",
+        "stock": "3166",
+        "volume": "326999",
+        "price": "54000"
+    },
+    "9452": {
+        "name": "Fragrant Borscht",
+        "stock": "0",
+        "volume": "46274",
+        "price": "27700"
+    },
+    "9453": {
+        "name": "Chewy Desert Dumpling",
+        "stock": "177",
+        "volume": "165802",
+        "price": "14100"
+    },
+    "9454": {
+        "name": "Sour Pickled Fish",
+        "stock": "5776",
+        "volume": "219409",
+        "price": "1400"
+    },
+    "9455": {
+        "name": "Steamed Whale Meat",
+        "stock": "18093",
+        "volume": "23343",
+        "price": "42700"
+    },
+    "9456": {
+        "name": "Whale Meat Salad",
+        "stock": "29726",
+        "volume": "583835",
+        "price": "57500"
+    },
+    "9457": {
+        "name": "Chewy Steamed Whale Meat",
+        "stock": "525",
+        "volume": "6205",
+        "price": "220000"
+    },
+    "9458": {
+        "name": "Fresh Whale Meat Salad",
+        "stock": "0",
+        "volume": "65898",
+        "price": "1490000"
+    },
+    "9459": {
+        "name": "Hunter's Salad",
+        "stock": "2607",
+        "volume": "621638",
+        "price": "21300"
+    },
+    "9460": {
+        "name": "Fresh Hunter's Salad",
+        "stock": "0",
+        "volume": "59749",
+        "price": "44700"
+    },
+    "9461": {
+        "name": "Grilled Scorpion",
+        "stock": "0",
+        "volume": "10356545",
+        "price": "25200"
+    },
+    "9462": {
+        "name": "Crispy Grilled Scorpion",
+        "stock": "0",
+        "volume": "11969609",
+        "price": "37700"
+    },
+    "9463": {
+        "name": "King of Jungle Hamburg",
+        "stock": "70794",
+        "volume": "272064203",
+        "price": "40400"
+    },
+    "9464": {
+        "name": "Jumbo King of Jungle Hamburg",
+        "stock": "75813",
+        "volume": "83800387",
+        "price": "63500"
+    },
+    "9469": {
+        "name": "Khalk's Fermented Wine",
+        "stock": "1538",
+        "volume": "378780",
+        "price": "51000"
+    },
+    "9470": {
+        "name": "Khalk's Strong Fermented Wine",
+        "stock": "860",
+        "volume": "45451",
+        "price": "266000"
+    },
+    "9471": {
+        "name": "Prawn Salad",
+        "stock": "0",
+        "volume": "1408933",
+        "price": "9800"
+    },
+    "9472": {
+        "name": "Sweet and Sour Prawn Salad",
+        "stock": "4036",
+        "volume": "194901",
+        "price": "10600"
+    },
+    "9473": {
+        "name": "Steamed Prawn",
+        "stock": "22992",
+        "volume": "812888",
+        "price": "5200"
+    },
+    "9474": {
+        "name": "Hearty Steamed Prawn",
+        "stock": "3932",
+        "volume": "110775",
+        "price": "13200"
+    },
+    "9475": {
+        "name": "Pan-Fried Oyster",
+        "stock": "11845",
+        "volume": "1173875",
+        "price": "20500"
+    },
+    "9476": {
+        "name": "Aromatic Pan-Fried Oyster",
+        "stock": "1266",
+        "volume": "239724",
+        "price": "43800"
+    },
+    "9477": {
+        "name": "Butter-Roasted Lobster",
+        "stock": "0",
+        "volume": "475320",
+        "price": "52500"
+    },
+    "9478": {
+        "name": "Golden Butter-Roasted Lobster",
+        "stock": "28",
+        "volume": "140559",
+        "price": "93500"
+    },
+    "9479": {
+        "name": "Hard-Boiled Shellfish",
+        "stock": "5427",
+        "volume": "680132",
+        "price": "58500"
+    },
+    "9480": {
+        "name": "Big Hard-Boiled Shellfish",
+        "stock": "0",
+        "volume": "68219",
+        "price": "105000"
+    },
+    "9483": {
+        "name": "Rainbow Button Mushroom Cheese Melt",
+        "stock": "0",
+        "volume": "2969776",
+        "price": "25200"
+    },
+    "9484": {
+        "name": "Mild Rainbow Button Mushroom Cheese Melt",
+        "stock": "0",
+        "volume": "954486",
+        "price": "37400"
+    },
+    "9486": {
+        "name": "Ghormeh Sabzi",
+        "stock": "0",
+        "volume": "1788931",
+        "price": "25400"
+    },
+    "9487": {
+        "name": "Thick Ghormeh Sabzi",
+        "stock": "0",
+        "volume": "369594",
+        "price": "33100"
+    },
+    "9488": {
+        "name": "Roast Marmot",
+        "stock": "48",
+        "volume": "761306",
+        "price": "9900"
+    },
+    "9489": {
+        "name": "Golden Roast Marmot",
+        "stock": "343",
+        "volume": "172689",
+        "price": "11800"
+    },
+    "9490": {
+        "name": "Skewered Llama Cheese Melt",
+        "stock": "0",
+        "volume": "1258565",
+        "price": "17900"
+    },
+    "9491": {
+        "name": "Spicy Skewered Llama Cheese Melt",
+        "stock": "0",
+        "volume": "189728",
+        "price": "35900"
+    },
+    "9492": {
+        "name": "Grilled Bird Meat",
+        "stock": "34145",
+        "volume": "832712102",
+        "price": "750"
+    },
+    "9493": {
+        "name": "Steaming Hot Grilled Bird Meat",
+        "stock": "20785",
+        "volume": "163956797",
+        "price": "1130"
+    },
+    "9494": {
+        "name": "Five-Grain Chicken Porridge",
+        "stock": "62146",
+        "volume": "26086843",
+        "price": "497"
+    },
+    "9495": {
+        "name": "Thick Five-Grain Chicken Porridge",
+        "stock": "16829",
+        "volume": "7378623",
+        "price": "1840"
+    },
+    "9496": {
+        "name": "Savory Steak",
+        "stock": "0",
+        "volume": "1238773",
+        "price": "28600"
+    },
+    "9601": {
+        "name": "Balenos Meal",
+        "stock": "54976",
+        "volume": "451640856",
+        "price": "22700"
+    },
+    "9602": {
+        "name": "Special Balenos Meal",
+        "stock": "66394",
+        "volume": "119742147",
+        "price": "69000"
+    },
+    "9603": {
+        "name": "Serendia Meal",
+        "stock": "13139",
+        "volume": "50598085",
+        "price": "25500"
+    },
+    "9604": {
+        "name": "Special Serendia Meal",
+        "stock": "10044",
+        "volume": "10695755",
+        "price": "80500"
+    },
+    "9605": {
+        "name": "Calpheon Meal",
+        "stock": "8928",
+        "volume": "12121597",
+        "price": "30000"
+    },
+    "9606": {
+        "name": "Special Calpheon Meal",
+        "stock": "11815",
+        "volume": "2906452",
+        "price": "90000"
+    },
+    "9607": {
+        "name": "Mediah Meal",
+        "stock": "73183",
+        "volume": "77683694",
+        "price": "39600"
+    },
+    "9608": {
+        "name": "Special Mediah Meal",
+        "stock": "19093",
+        "volume": "20665239",
+        "price": "119000"
+    },
+    "9609": {
+        "name": "Valencia Meal",
+        "stock": "110169",
+        "volume": "873383120",
+        "price": "29900"
+    },
+    "9610": {
+        "name": "Special Valencia Meal",
+        "stock": "93918",
+        "volume": "179638895",
+        "price": "92000"
+    },
+    "9631": {
+        "name": "Knight Combat Rations",
+        "stock": "20258",
+        "volume": "19579675",
+        "price": "32200"
+    },
+    "9632": {
+        "name": "Special Arehaza Meal",
+        "stock": "15367",
+        "volume": "10472858",
+        "price": "22200"
+    },
+    "9634": {
+        "name": "Margoria Seafood Meal",
+        "stock": "3020",
+        "volume": "9444518",
+        "price": "48700"
+    },
+    "9635": {
+        "name": "Kamasylvia Meal",
+        "stock": "15493",
+        "volume": "14930243",
+        "price": "23000"
+    },
+    "9636": {
+        "name": "Special Kamasylvia Meal",
+        "stock": "5424",
+        "volume": "3307112",
+        "price": "76500"
+    },
+    "9637": {
+        "name": "Special Drieghanese Meal",
+        "stock": "55",
+        "volume": "1958021",
+        "price": "32100"
+    },
+    "9638": {
+        "name": "O'dyllita Meal",
+        "stock": "44830",
+        "volume": "32764660",
+        "price": "38100"
+    },
+    "9639": {
+        "name": "Special O'dyllita Meal",
+        "stock": "17303",
+        "volume": "7800566",
+        "price": "119000"
+    },
+    "9691": {
+        "name": "Seafood Cron Meal",
+        "stock": "4650",
+        "volume": "6146738",
+        "price": "323000"
+    },
+    "9692": {
+        "name": "Simple Cron Meal",
+        "stock": "12446",
+        "volume": "6727365",
+        "price": "420000"
+    },
+    "9693": {
+        "name": "Exquisite Cron Meal",
+        "stock": "2995",
+        "volume": "6382667",
+        "price": "317000"
+    },
+    "9701": {
+        "name": "Paste Bait",
+        "stock": "170",
+        "volume": "2302063",
+        "price": "1750"
+    },
+    "9702": {
+        "name": "High-Quality Paste Bait",
+        "stock": "0",
+        "volume": "338198",
+        "price": "4890"
+    },
+    "16017": {
+        "name": "Traveler's Map",
+        "stock": "104712",
+        "volume": "1451560",
+        "price": "540000"
+    },
+    "16242": {
+        "name": "Sealed Golden Treasure Chest",
+        "stock": "0",
+        "volume": "432908",
+        "price": "5350000"
+    },
+    "16380": {
+        "name": "[Combat] Trina Lead Bullet",
+        "stock": "0",
+        "volume": "8106",
+        "price": "252000"
+    },
+    "40218": {
+        "name": "Ancient Relic Crystal Shard",
+        "stock": "12184",
+        "volume": "64662042",
+        "price": "1770000"
+    },
+    "40220": {
+        "name": "Forbidden Book",
+        "stock": "707",
+        "volume": "16083192",
+        "price": "1930000"
+    },
+    "40228": {
+        "name": "Scroll Written in Ancient Language",
+        "stock": "6989",
+        "volume": "42369941",
+        "price": "2720000"
+    },
+    "40258": {
+        "name": "Black Spirit's Claw Piece",
+        "stock": "6",
+        "volume": "614907",
+        "price": "22400000"
+    },
+    "40383": {
+        "name": "Manshaum Voodoo Doll",
+        "stock": "321618",
+        "volume": "8270639",
+        "price": "680000"
+    },
+    "40543": {
+        "name": "Fragment of the Deep Sea",
+        "stock": "287",
+        "volume": "790960",
+        "price": "1830000"
+    },
+    "40545": {
+        "name": "Ancient Creature's Scale",
+        "stock": "82218",
+        "volume": "188782",
+        "price": "1230000"
+    },
+    "40547": {
+        "name": "Ancient Seal \u2013 Red Shard",
+        "stock": "22",
+        "volume": "67048",
+        "price": "84000000"
+    },
+    "40548": {
+        "name": "Ancient Seal \u2013 Black Shard",
+        "stock": "47426",
+        "volume": "88899",
+        "price": "3680000"
+    },
+    "43786": {
+        "name": "Remnants of the Rift",
+        "stock": "2421",
+        "volume": "191029",
+        "price": "54000000"
+    },
+    "44165": {
+        "name": "Silver Key",
+        "stock": "1834291",
+        "volume": "37521264",
+        "price": "29100"
+    },
+    "44280": {
+        "name": "Ancient Power - Red Shard",
+        "stock": "142081",
+        "volume": "84247",
+        "price": "5350000"
+    },
+    "44281": {
+        "name": "Ancient Power - Black Shard",
+        "stock": "12",
+        "volume": "34830",
+        "price": "54000000"
+    },
+    "44286": {
+        "name": "Part for Explorer's Compass",
+        "stock": "237",
+        "volume": "1532673",
+        "price": "2100000"
+    },
+    "56001": {
+        "name": "Sturdy Barricade",
+        "stock": "0",
+        "volume": "1296",
+        "price": "147000"
+    },
+    "56003": {
+        "name": "Cannonball",
+        "stock": "0",
+        "volume": "1701470",
+        "price": "89500"
+    },
+    "56007": {
+        "name": "Flame Cannonball",
+        "stock": "0",
+        "volume": "478250",
+        "price": "67000"
+    },
+    "56009": {
+        "name": "Bomb",
+        "stock": "725",
+        "volume": "9783",
+        "price": "138000"
+    },
+    "56014": {
+        "name": "Stun Trap",
+        "stock": "0",
+        "volume": "61508",
+        "price": "70500"
+    },
+    "56015": {
+        "name": "Flame Trap",
+        "stock": "0",
+        "volume": "129955",
+        "price": "70500"
+    },
+    "56016": {
+        "name": "Venom Trap",
+        "stock": "0",
+        "volume": "36416",
+        "price": "87500"
+    },
+    "56017": {
+        "name": "Ankle Trap",
+        "stock": "10",
+        "volume": "44158",
+        "price": "70500"
+    },
+    "757031": {
+        "name": "Fiery Celerity Draught",
+        "stock": "0",
+        "volume": "6344",
+        "price": "28000000"
+    },
+    "757032": {
+        "name": "Stonetail Wind's Meal",
+        "stock": "0",
+        "volume": "18480",
+        "price": "18700000"
+    }
+}

@@ -24,7 +24,7 @@ def fetch_and_store_data(url):
     # Decodes the raw returned message into a processable data-type using the Analysis module
 
     # Open reference file to translate IDs
-    with cm.ContextManager('data/mp_reference.json') as file:
+    with cm.ContextManager('data/mp_reference.json') as file: 
         use_file = json.loads(file.read())
     
         
@@ -87,21 +87,23 @@ class Data_Access_Version:
                 print("------------------------")
                 print(f"{self._all_data[items[0]]['name']}:")
                 print(f"Stock: \n{self._all_data[items[0]]['stock']}")
-                print(f"Stock Change: \n{self._all_data[items[0]]['stock_daily_change']}")
+                print(f"Stock Change: \n{self._all_data[items[0]]['stock_change']}")
                 print(f"Volume: \n{self._all_data[items[0]]['volume']}")
-                print(f"Volume Change: \n{self._all_data[items[0]]['volume_daily_change']}")
+                print(f"Volume Change: \n{self._all_data[items[0]]['volume_change']}")
                 # ADD DAILY VOLUME RIGHT HERE, IT'LL BE WAY MORE USEFUL THAN TOTAL VOLUME
                 print(f"Price: \n{self._all_data[items[0]]['price']}")
-                print(f"Price Change: \n{self._all_data[items[0]]['price_daily_change']}")
+                print(f"Price Change: \n{self._all_data[items[0]]['price_change']}")
             except KeyError as err:
                 print(f"Could not find information on {err}")
             except:
                 print('Big problem')
+
         while True:
             restart_input = str(input("Search for another Item?(y/n): "))
             if restart_input == 'y':
                 self.version_1()
-            elif restart_input == 'n':
+                break
+            if restart_input == 'n':
                 break
             else:
                 print(f"Incorrect Input: {restart_input}")
@@ -114,13 +116,20 @@ class Data_Access_Version:
     def version_3(self,list_with_indicators):
         calculate_ratio = []
         for key,value in list_with_indicators.items():
-            working_stock = value['stock_daily_change']
-            working_price = value['price_daily_change']
-            working_volume = value['volume_daily_change']
+            working_stock = value['stock_change']
+            working_price = value['price_change']
+            working_volume = value['volume_change']
             # I am trying to find items with the biggest price drop and highest stock gain
-            if working_price < -10 and working_stock > 0 and working_volume > 0:
+
+            # Filters the item pre-maths to limit absurdities and favor certain items
+            value_filters = analysis.filter_condition(value)
+            if value_filters:
                 # print(value['price'][0])
-                calculate_ratio.append((value['name'],(2*working_price*working_stock)*working_volume))
+                try:
+                    appendable_value = (value['name'],working_volume/(2*working_price*working_stock))
+                    calculate_ratio.append(appendable_value)
+                except ZeroDivisionError as err:
+                    print(err,appendable_value)
 
 
 
@@ -131,16 +140,17 @@ class Data_Access_Version:
             reference_dict[item[1]] = item
             working_list.append(item[1])
 
-        loop_filter = -1
+        loop_filter = 0
 
         working_list = [a for a in working_list if a < loop_filter]
         working_list.sort()
 
         # All change is in %, between 0-100
         # Formula: ratio(price_change,stock_change)*volume_change*price(this is to favor more expensive items)
-        # the final print() prints out the top 10 best purchases, not taking into account price and relevancy
+        # the final print() prints out the top 10 best purchases
         top_10 = [reference_dict[a] for a in working_list[:10]]
         print(top_10)
+        return top_10
 
 
 

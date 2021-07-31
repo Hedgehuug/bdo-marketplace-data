@@ -11,6 +11,19 @@ class Analysis:
         mapped_msg = list(mapped_msg)[:-1]
         return list(mapped_msg)
 
+    # Used at the start of option 3:ranking, to filter items based on desired input
+    @staticmethod
+    def filter_condition(data={}):
+        price_threshold = int(data['price'][0]) > 1000
+        stock_threshold = int(data['stock'][0]) > 10
+        volume_threshold = int(data['volume_change']) > 0
+        price_change_threshold = int(data['price_change']) < -12
+
+        return all([price_threshold,stock_threshold,volume_threshold,price_change_threshold])
+        
+
+
+
     # This is going to convert working data to savable json data for sub_group searches
     @staticmethod
     def reformat_sub_group(data):
