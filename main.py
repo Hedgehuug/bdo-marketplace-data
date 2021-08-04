@@ -1,3 +1,4 @@
+import os
 import json
 import data
 import datetime
@@ -12,7 +13,8 @@ import services
 # Main file
 
 # Temporary Link, will turn into a selection
-with cm.ContextManager('data/settings.json') as file:
+abspath = os.path.abspath('main.py')[:-7]
+with cm.ContextManager(f"{abspath}data/settings.json") as file:
     settings = json.loads(file.read())
 temporary_link = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
 offile_mode = False
@@ -70,7 +72,7 @@ def main():
         # if it is not fetched
         option_one(temporary_link)
         settings['last-fetched'] = str(date_today)
-        with open('data/settings.json','w') as file:
+        with open(f"{abspath}data/settings.json",'w') as file:
             json.dump(settings,file)
         print('\n')
         
