@@ -35,11 +35,11 @@ class Data_Access:
         use_date = date_today
         for a in range(onlyfiles-1):
             use_date -= day_delta
-            # print(use_date)
             for i in range(1,14):
                 with cm.ContextManager(f"data/group_{i}/daily/{str(use_date)}.json") as file:
                     lookback_file = json.loads(file.read())
                 for key,value in lookback_file.items():
+                    print(key,value)
                     final_value[key]['stock'].append(value['stock'])
                     final_value[key]['volume'].append(value['volume'])
                     final_value[key]['price'].append(value['price'])

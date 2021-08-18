@@ -5,6 +5,7 @@ import data.context_manager as cm
 import api_data.api_requests as api_requests
 from analysis.analysis import Analysis as analysis
 from data_access.data_access import Data_Access as data_access
+import requests
 
 date_today = datetime.date.today()
 day_delta = datetime.timedelta(days=1)
@@ -31,31 +32,35 @@ def fetch_and_store_data(url):
     # List of item-groups as they are organised in bdo-mp
     # TO BE MOVED TO ITS OWN FILE
     group_list = [(1,"Main Weapons"),(5,"Sub Weapons"),(10,"Awakening Weapons"),(15,"Armors"),(20,"Accessories"),(25,"Materials"),(30,"Enchancements/Upgrades"),(35,"Consumables"),(40,"Life Tools"),(45,"Alchemy Stones"),(50,"Crystals"),(65,"Mount"),(70,"Ship"),(75,"Wagon"),(80,"Furniture")]
+    sub_lists = [17,15,22,6,4,8,2,8,10,4,7,13,9,6,9]
+    with requests.Session() as session:
+        for i in group_list:
+            rawest_msg = (api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0],subkey=1,session=session).content).content
+            # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
+            print(rawest_msg)
+            raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0],session=session).content).content)['resultMsg']
+            # Step 2: (decodes the message and converts it to usable data)
+            
+            decoded_msg = analysis.decode_msg(raw_msg)
+            # This is how you find the index of a value in a list
+            final_print = []
+            for a in decoded_msg:
+                # This sorts through all the item references in the json file and match them to the api returned data
+                # by ID, and return both data in a tuple
+                for item in use_file:
+                    if item[0] == a[0]:
+                        final_print.append((item,a[1:]))
+            # THIS SEGMENT IS GOING TO BE MOVED TO SAVE_DATA MODULE
+            to_save_json = analysis.reformat_sub_group(final_print)
+            to_save_json = json.dumps(to_save_json,indent=4)
+            date_today = str(datetime.date.today())
+            folder_index = group_list.index(i)+1
+            with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
+                file.write(to_save_json)
 
-    for i in group_list:
-        # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
-        raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0]).content).content)['resultMsg']
-        # Step 2: (decodes the message and converts it to usable data)
-        decoded_msg = analysis.decode_msg(raw_msg)
-        # This is how you find the index of a value in a list
-        final_print = []
-        for a in decoded_msg:
-            # This sorts through all the item references in the json file and match them to the api returned data
-            # by ID, and return both data in a tuple
-            for item in use_file:
-                if item[0] == a[0]:
-                    final_print.append((item,a[1:]))
-        # THIS SEGMENT IS GOING TO BE MOVED TO SAVE_DATA MODULE
-        to_save_json = analysis.reformat_sub_group(final_print)
-        to_save_json = json.dumps(to_save_json,indent=4)
-        date_today = str(datetime.date.today())
-        folder_index = group_list.index(i)+1
-        with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
-            file.write(to_save_json)
-
-        # Progress bar
-        progress_percent = ((group_list.index(i)+1) / (len(group_list))) * 100
-        print(f"Completion: {progress_percent}% - {i[1]}", end='\r')
+            # Progress bar
+            progress_percent = ((group_list.index(i)+1) / (len(group_list))) * 100
+            print(f"Completion: {progress_percent}% - {i[1]}", end='\r')
 
 
 
