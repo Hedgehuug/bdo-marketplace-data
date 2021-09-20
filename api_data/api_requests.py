@@ -11,6 +11,7 @@ use_headers = {
 example_url = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
 
 # Class to create requests for the api
+# I am going to remove this class system for now and just use regular functions
 class Api_Request:
     def __init__(self,url,session,headers={},payload = {}):
         self._headers = headers
@@ -36,10 +37,25 @@ class Api_Request:
             url = url,
             session = session
         )
+    # Redesigned for the new API specifications and using requests.session
+    @staticmethod
+    def sub_request(session, mainKey = 1, subKey = 1):
+        return Api_Request.send_request(
+            session = session,
+            payload = {
+                "keyType": 0,
+                "mainCategory": mainKey,
+                "subCategory": subKey,
+            },
+            url = example_url,
+        )
 
-    def send_request(self):
-        response = self._session.request('POST',url = self._url,json = self._payload,headers = self._headers)
+
+    @staticmethod
+    def send_request(session,url,payload):
+        response = session.request('POST',url = url,json = payload,headers = session.headers)
         return response
+
 
 if __name__ == "__main__":
     # This is for debugging, if you run the file this'll run

@@ -13,8 +13,9 @@ import services
 # Main file
 
 # Temporary Link, will turn into a selection
-abspath = os.path.abspath('main.py')[:-7]
-with cm.ContextManager(f"{abspath}data/settings.json") as file:
+abspath = os.path.abspath('bdo-marketplace-data')
+print(abspath)
+with cm.ContextManager(f"{abspath}/data/settings.json") as file:
     settings = json.loads(file.read())
 temporary_link = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
 offile_mode = False
@@ -35,7 +36,7 @@ def option_one(url):
 def option_two():
     # Item id-name references
     while True:
-        with cm.ContextManager('data/mp_reference.json') as item_reference_file:
+        with cm.ContextManager(f"{abspath}/data/mp_reference.json") as item_reference_file:
             reference_json = json.loads(item_reference_file.read())
         all_data = data_access.Data_Access.get_all_info()
 
@@ -72,7 +73,7 @@ def main():
         # if it is not fetched
         option_one(temporary_link)
         settings['last-fetched'] = str(date_today)
-        with open(f"{abspath}data/settings.json",'w') as file:
+        with open(f"{abspath}/data/settings.json",'w') as file:
             json.dump(settings,file)
         print('\n')
         

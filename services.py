@@ -9,6 +9,14 @@ import requests
 
 date_today = datetime.date.today()
 day_delta = datetime.timedelta(days=1)
+abspath = os.path.abspath('bdo-marketplace-data')
+
+# Use this header for sending requests to bdo API
+use_headers = {
+    "Content-Type": "application/json",
+    "User-Agent": "BlackDesert",
+    "cookie": "visid_incap_2504216=1c%2FH2VetS%2FeZihDG6z7E9QIIoWAAAAAAQUIPAAAAAAA6X8M83f1Phv%2BPRqqkMjF%2F; nlbi_2504216=w0WTY261IhfxWhLpoDFtLwAAAACqkRKdV1p2v7vzexYYoVQg; incap_ses_876_2504216=G054LgVtC39mlu5grS0oDAIIoWAAAAAAHal%2FMOTTzoq4I6krrEwXCQ%3D%3D"
+}
 
 
 # Going to repurpose this file to bunch up all the encompassing micro-services for the main loop
@@ -25,7 +33,7 @@ def fetch_and_store_data(url):
     # Decodes the raw returned message into a processable data-type using the Analysis module
 
     # Open reference file to translate IDs
-    with cm.ContextManager('data/mp_reference.json') as file: 
+    with cm.ContextManager(f"{abspath}/data/mp_reference.json") as file: 
         use_file = json.loads(file.read())
     
         
@@ -33,29 +41,40 @@ def fetch_and_store_data(url):
     # TO BE MOVED TO ITS OWN FILE
     group_list = [(1,"Main Weapons"),(5,"Sub Weapons"),(10,"Awakening Weapons"),(15,"Armors"),(20,"Accessories"),(25,"Materials"),(30,"Enchancements/Upgrades"),(35,"Consumables"),(40,"Life Tools"),(45,"Alchemy Stones"),(50,"Crystals"),(65,"Mount"),(70,"Ship"),(75,"Wagon"),(80,"Furniture")]
     sub_lists = [17,15,22,6,4,8,2,8,10,4,7,13,9,6,9]
-    with requests.Session() as session:
+    request_session = requests.Session()
+    request_session.headers = use_headers
+    with request_session as session:
         for i in group_list:
-            rawest_msg = (api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0],subkey=1,session=session).content).content
-            # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
-            print(rawest_msg)
-            raw_msg = json.loads((api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0],session=session).content).content)['resultMsg']
-            # Step 2: (decodes the message and converts it to usable data)
-            
-            decoded_msg = analysis.decode_msg(raw_msg)
-            # This is how you find the index of a value in a list
+            sub_range = sub_lists[group_list.index(i)]
             final_print = []
-            for a in decoded_msg:
-                # This sorts through all the item references in the json file and match them to the api returned data
-                # by ID, and return both data in a tuple
-                for item in use_file:
-                    if item[0] == a[0]:
-                        final_print.append((item,a[1:]))
+            for x in range(1,sub_range+1):
+            # rawest_msg = (api_requests.Api_Request.sub_class_request(url=work_url,mainkey=i[0],subkey=1,session=session).content).content
+            # Step 1: (fetches the info from the mp for the currently selected group, selecting the group with the value from "group_list")
+                raw_msg = json.loads((api_requests.Api_Request.sub_request(mainKey=i[0],subKey=x,session=session).content))['resultMsg']
+                # Step 2: (decodes the message and converts it to usable data)
+            
+                decoded_msg = analysis.decode_msg(raw_msg)
+                # This is how you find the index of a value in a list
+
+                for a in use_file:
+                    for item in decoded_msg:
+                        if item[0] == a[0]:
+                            final_print.append((a,item[1:]))
+                        else:
+                            print(item)
+                """for a in decoded_msg:
+                    # This sorts through all the item references in the json file and match them to the api returned data
+                    # by ID, and return both data in a tuple
+                    for item in use_file:
+                        if item[0] == a[0]:
+                            final_print.append((item,a[1:]))"""
+
             # THIS SEGMENT IS GOING TO BE MOVED TO SAVE_DATA MODULE
             to_save_json = analysis.reformat_sub_group(final_print)
             to_save_json = json.dumps(to_save_json,indent=4)
             date_today = str(datetime.date.today())
             folder_index = group_list.index(i)+1
-            with open(f"data/group_{folder_index}/daily/{date_today}.json","w") as file:
+            with open(f"{abspath}/data/group_{folder_index}/daily/{date_today}.json","w") as file:
                 file.write(to_save_json)
 
             # Progress bar
