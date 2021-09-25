@@ -61,7 +61,8 @@ def fetch_and_store_data(url):
                         if item[0] == a[0]:
                             final_print.append((a,item[1:]))
                         else:
-                            print(item)
+                            pass
+                            # print(item)
                 """for a in decoded_msg:
                     # This sorts through all the item references in the json file and match them to the api returned data
                     # by ID, and return both data in a tuple
