@@ -1,0 +1,590 @@
+{
+    "10102": {
+        "name": "Vangertz Shield",
+        "stock": "26",
+        "volume": "828985",
+        "price": "18000"
+    },
+    "10103": {
+        "name": "Axion Shield",
+        "stock": "30",
+        "volume": "1258139",
+        "price": "21100"
+    },
+    "10105": {
+        "name": "Kite Shield",
+        "stock": "14",
+        "volume": "504996",
+        "price": "24200"
+    },
+    "10124": {
+        "name": "Krea Shield",
+        "stock": "66",
+        "volume": "1235272",
+        "price": "27200"
+    },
+    "10125": {
+        "name": "Rosar Shield",
+        "stock": "1447",
+        "volume": "886842",
+        "price": "63500"
+    },
+    "10138": {
+        "name": "Nouver Shield",
+        "stock": "43",
+        "volume": "35308",
+        "price": "107000000"
+    },
+    "10140": {
+        "name": "Kutum Shield",
+        "stock": "68",
+        "volume": "63338",
+        "price": "111000000"
+    },
+    "10303": {
+        "name": "Bronze Dagger",
+        "stock": "34",
+        "volume": "1501033",
+        "price": "18000"
+    },
+    "10304": {
+        "name": "Steel Dagger",
+        "stock": "92",
+        "volume": "2502428",
+        "price": "21100"
+    },
+    "10305": {
+        "name": "Parrying Dagger",
+        "stock": "14",
+        "volume": "643756",
+        "price": "24200"
+    },
+    "10324": {
+        "name": "Krea Dagger",
+        "stock": "18",
+        "volume": "655525",
+        "price": "27200"
+    },
+    "10325": {
+        "name": "Rosar Dagger",
+        "stock": "14",
+        "volume": "641257",
+        "price": "63500"
+    },
+    "10338": {
+        "name": "Nouver Dagger",
+        "stock": "53",
+        "volume": "45673",
+        "price": "107000000"
+    },
+    "10340": {
+        "name": "Kutum Dagger",
+        "stock": "61",
+        "volume": "57227",
+        "price": "111000000"
+    },
+    "10503": {
+        "name": "Helrick Talisman",
+        "stock": "28",
+        "volume": "501310",
+        "price": "18000"
+    },
+    "10504": {
+        "name": "Jubre Talisman",
+        "stock": "55",
+        "volume": "678060",
+        "price": "21100"
+    },
+    "10505": {
+        "name": "Rhik Talisman",
+        "stock": "28",
+        "volume": "100532",
+        "price": "24200"
+    },
+    "10524": {
+        "name": "Krea Talisman",
+        "stock": "59",
+        "volume": "197165",
+        "price": "27200"
+    },
+    "10525": {
+        "name": "Rosar Talisman",
+        "stock": "81",
+        "volume": "1134543",
+        "price": "63500"
+    },
+    "10538": {
+        "name": "Nouver Talisman",
+        "stock": "37",
+        "volume": "22652",
+        "price": "107000000"
+    },
+    "10540": {
+        "name": "Kutum Talisman",
+        "stock": "75",
+        "volume": "32286",
+        "price": "111000000"
+    },
+    "10703": {
+        "name": "Saiyer Ornamental Knot",
+        "stock": "145",
+        "volume": "1034045",
+        "price": "18000"
+    },
+    "10704": {
+        "name": "Oros Ornamental Knot",
+        "stock": "494",
+        "volume": "1504385",
+        "price": "21100"
+    },
+    "10705": {
+        "name": "Theos Ornamental Knot",
+        "stock": "1231",
+        "volume": "516502",
+        "price": "24200"
+    },
+    "10724": {
+        "name": "Krea Ornamental Knot",
+        "stock": "748",
+        "volume": "916291",
+        "price": "27200"
+    },
+    "10725": {
+        "name": "Rosar Ornamental Knot",
+        "stock": "65",
+        "volume": "199670",
+        "price": "63500"
+    },
+    "10738": {
+        "name": "Nouver Ornamental Knot",
+        "stock": "21",
+        "volume": "28810",
+        "price": "107000000"
+    },
+    "10740": {
+        "name": "Kutum Ornamental Knot",
+        "stock": "37",
+        "volume": "35899",
+        "price": "111000000"
+    },
+    "13003": {
+        "name": "Incense Trinket",
+        "stock": "92",
+        "volume": "474347",
+        "price": "18000"
+    },
+    "13004": {
+        "name": "Needle Trinket",
+        "stock": "248",
+        "volume": "595024",
+        "price": "21100"
+    },
+    "13005": {
+        "name": "Blade Trinket",
+        "stock": "364",
+        "volume": "80540",
+        "price": "24200"
+    },
+    "13024": {
+        "name": "Krea Trinket",
+        "stock": "843",
+        "volume": "263620",
+        "price": "27200"
+    },
+    "13025": {
+        "name": "Rosar Trinket",
+        "stock": "495",
+        "volume": "430540",
+        "price": "63500"
+    },
+    "13038": {
+        "name": "Nouver Trinket",
+        "stock": "9",
+        "volume": "7849",
+        "price": "107000000"
+    },
+    "13040": {
+        "name": "Kutum Trinket",
+        "stock": "17",
+        "volume": "12183",
+        "price": "111000000"
+    },
+    "13103": {
+        "name": "Black Warrior Horn Bow",
+        "stock": "28",
+        "volume": "955782",
+        "price": "18000"
+    },
+    "13104": {
+        "name": "White Horn Bow",
+        "stock": "22",
+        "volume": "900593",
+        "price": "21100"
+    },
+    "13105": {
+        "name": "White Warrior Horn Bow",
+        "stock": "3",
+        "volume": "449944",
+        "price": "24200"
+    },
+    "13124": {
+        "name": "Krea Horn Bow",
+        "stock": "10",
+        "volume": "411245",
+        "price": "27200"
+    },
+    "13125": {
+        "name": "Rosar Horn Bow",
+        "stock": "42",
+        "volume": "341710",
+        "price": "63500"
+    },
+    "13138": {
+        "name": "Nouver Horn Bow",
+        "stock": "31",
+        "volume": "23998",
+        "price": "107000000"
+    },
+    "13140": {
+        "name": "Kutum Horn Bow",
+        "stock": "50",
+        "volume": "35881",
+        "price": "111000000"
+    },
+    "14503": {
+        "name": "Quitar Kunai",
+        "stock": "179",
+        "volume": "972905",
+        "price": "18000"
+    },
+    "14504": {
+        "name": "Estique Kunai",
+        "stock": "841",
+        "volume": "1084582",
+        "price": "21100"
+    },
+    "14505": {
+        "name": "Tadd Kunai",
+        "stock": "46",
+        "volume": "429977",
+        "price": "24200"
+    },
+    "14524": {
+        "name": "Krea Kunai",
+        "stock": "2765",
+        "volume": "413136",
+        "price": "27200"
+    },
+    "14525": {
+        "name": "Rosar Kunai",
+        "stock": "307",
+        "volume": "160678",
+        "price": "63500"
+    },
+    "14538": {
+        "name": "Nouver Kunai",
+        "stock": "11",
+        "volume": "9266",
+        "price": "107000000"
+    },
+    "14540": {
+        "name": "Kutum Kunai",
+        "stock": "23",
+        "volume": "13376",
+        "price": "111000000"
+    },
+    "14603": {
+        "name": "Quitar Shuriken",
+        "stock": "191",
+        "volume": "979803",
+        "price": "18000"
+    },
+    "14604": {
+        "name": "Estique Shuriken",
+        "stock": "2764",
+        "volume": "1115793",
+        "price": "21100"
+    },
+    "14605": {
+        "name": "Tadd Shuriken",
+        "stock": "1022",
+        "volume": "428757",
+        "price": "24200"
+    },
+    "14624": {
+        "name": "Krea Shuriken",
+        "stock": "2713",
+        "volume": "408613",
+        "price": "27200"
+    },
+    "14625": {
+        "name": "Rosar Shuriken",
+        "stock": "73",
+        "volume": "160250",
+        "price": "63500"
+    },
+    "14638": {
+        "name": "Nouver Shuriken",
+        "stock": "13",
+        "volume": "15282",
+        "price": "107000000"
+    },
+    "14640": {
+        "name": "Kutum Shuriken",
+        "stock": "38",
+        "volume": "20733",
+        "price": "111000000"
+    },
+    "11303": {
+        "name": "Leather Vambrace",
+        "stock": "71",
+        "volume": "512016",
+        "price": "18000"
+    },
+    "11304": {
+        "name": "Scale Vambrace",
+        "stock": "4773",
+        "volume": "892927",
+        "price": "21100"
+    },
+    "11305": {
+        "name": "Iron Vambrace",
+        "stock": "1518",
+        "volume": "330071",
+        "price": "24200"
+    },
+    "11324": {
+        "name": "Krea Vambrace",
+        "stock": "1149",
+        "volume": "916038",
+        "price": "27200"
+    },
+    "11325": {
+        "name": "Rosar Vambrace",
+        "stock": "297",
+        "volume": "821867",
+        "price": "63500"
+    },
+    "11338": {
+        "name": "Nouver Vambrace",
+        "stock": "29",
+        "volume": "29216",
+        "price": "107000000"
+    },
+    "11340": {
+        "name": "Kutum Vambrace",
+        "stock": "94",
+        "volume": "44627",
+        "price": "111000000"
+    },
+    "13503": {
+        "name": "Ascending Noble Sword",
+        "stock": "150",
+        "volume": "282941",
+        "price": "18000"
+    },
+    "13504": {
+        "name": "Crow Noble Sword",
+        "stock": "5392",
+        "volume": "700093",
+        "price": "21100"
+    },
+    "13505": {
+        "name": "Mistress Noble Sword",
+        "stock": "4636",
+        "volume": "252574",
+        "price": "24200"
+    },
+    "13524": {
+        "name": "Krea Noble Sword",
+        "stock": "1670",
+        "volume": "402648",
+        "price": "27200"
+    },
+    "13525": {
+        "name": "Rosar Noble Sword",
+        "stock": "201",
+        "volume": "131771",
+        "price": "63500"
+    },
+    "13538": {
+        "name": "Nouver Noble Sword",
+        "stock": "32",
+        "volume": "18074",
+        "price": "107000000"
+    },
+    "13540": {
+        "name": "Kutum Noble Sword",
+        "stock": "43",
+        "volume": "30606",
+        "price": "111000000"
+    },
+    "13803": {
+        "name": "Bhatu Ra'ghon",
+        "stock": "127",
+        "volume": "147111",
+        "price": "18000"
+    },
+    "13804": {
+        "name": "Ganatte Ra'ghon",
+        "stock": "9384",
+        "volume": "438365",
+        "price": "21100"
+    },
+    "13805": {
+        "name": "Sharos Ra'ghon",
+        "stock": "1049",
+        "volume": "51384",
+        "price": "24200"
+    },
+    "13824": {
+        "name": "Krea Ra'ghon",
+        "stock": "5029",
+        "volume": "505298",
+        "price": "27200"
+    },
+    "13825": {
+        "name": "Rosar Ra'ghon",
+        "stock": "1196",
+        "volume": "518746",
+        "price": "63500"
+    },
+    "13838": {
+        "name": "Nouver Ra'ghon",
+        "stock": "36",
+        "volume": "14174",
+        "price": "107000000"
+    },
+    "13840": {
+        "name": "Kutum Ra'ghon",
+        "stock": "74",
+        "volume": "20740",
+        "price": "111000000"
+    },
+    "719003": {
+        "name": "Saiyer Vitclari",
+        "stock": "13409",
+        "volume": "786615",
+        "price": "18000"
+    },
+    "719004": {
+        "name": "Oros Vitclari",
+        "stock": "17005",
+        "volume": "654250",
+        "price": "21100"
+    },
+    "719005": {
+        "name": "Theos Vitclari",
+        "stock": "11053",
+        "volume": "403463",
+        "price": "24200"
+    },
+    "719024": {
+        "name": "Krea Vitclari",
+        "stock": "4179",
+        "volume": "191418",
+        "price": "27200"
+    },
+    "719025": {
+        "name": "Rosar Vitclari",
+        "stock": "66",
+        "volume": "81619",
+        "price": "63500"
+    },
+    "719038": {
+        "name": "Nouver Vitclari",
+        "stock": "19",
+        "volume": "4201",
+        "price": "107000000"
+    },
+    "719040": {
+        "name": "Kutum Vitclari",
+        "stock": "26",
+        "volume": "14730",
+        "price": "111000000"
+    },
+    "692504": {
+        "name": "Ahin Haladie",
+        "stock": "17926",
+        "volume": "307348",
+        "price": "18000"
+    },
+    "692505": {
+        "name": "Baduum Haladie",
+        "stock": "16578",
+        "volume": "148681",
+        "price": "21100"
+    },
+    "692506": {
+        "name": "Neshal Haladie",
+        "stock": "10981",
+        "volume": "78025",
+        "price": "24200"
+    },
+    "692510": {
+        "name": "Krea Haladie",
+        "stock": "3219",
+        "volume": "27382",
+        "price": "27200"
+    },
+    "692511": {
+        "name": "Rosar Haladie",
+        "stock": "722",
+        "volume": "66032",
+        "price": "63500"
+    },
+    "692514": {
+        "name": "Nouver Haladie",
+        "stock": "50",
+        "volume": "7262",
+        "price": "107000000"
+    },
+    "692516": {
+        "name": "Kutum Haladie",
+        "stock": "37",
+        "volume": "8125",
+        "price": "111000000"
+    },
+    "730704": {
+        "name": "Pau Quoratum",
+        "stock": "994",
+        "volume": "20157",
+        "price": "18000"
+    },
+    "730705": {
+        "name": "Luka Quoratum",
+        "stock": "8689",
+        "volume": "54690",
+        "price": "21100"
+    },
+    "730706": {
+        "name": "Vishur Quoratum",
+        "stock": "32",
+        "volume": "20248",
+        "price": "24200"
+    },
+    "730710": {
+        "name": "Krea Quoratum",
+        "stock": "4955",
+        "volume": "64031",
+        "price": "27200"
+    },
+    "730711": {
+        "name": "Rosar Quoratum",
+        "stock": "1122",
+        "volume": "92362",
+        "price": "63500"
+    },
+    "730714": {
+        "name": "Nouver Quoratum",
+        "stock": "29",
+        "volume": "5487",
+        "price": "107000000"
+    },
+    "730716": {
+        "name": "Kutum Quoratum",
+        "stock": "48",
+        "volume": "7849",
+        "price": "111000000"
+    }
+}

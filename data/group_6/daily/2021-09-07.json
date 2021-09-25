@@ -1,0 +1,686 @@
+{
+    "4001": {
+        "name": "Iron Ore",
+        "stock": "7206",
+        "volume": "2727522084",
+        "price": "665"
+    },
+    "4002": {
+        "name": "Lead Ore",
+        "stock": "82788",
+        "volume": "642663436",
+        "price": "590"
+    },
+    "4003": {
+        "name": "Copper Ore",
+        "stock": "0",
+        "volume": "2486535092",
+        "price": "555"
+    },
+    "4004": {
+        "name": "Tin Ore",
+        "stock": "247",
+        "volume": "1007912708",
+        "price": "1040"
+    },
+    "4005": {
+        "name": "Zinc Ore",
+        "stock": "86208",
+        "volume": "1231377709",
+        "price": "1570"
+    },
+    "4006": {
+        "name": "Rough Stone",
+        "stock": "0",
+        "volume": "169334545",
+        "price": "3510"
+    },
+    "4007": {
+        "name": "Coal",
+        "stock": "62503",
+        "volume": "1607597940",
+        "price": "685"
+    },
+    "4008": {
+        "name": "Vanadium Ore",
+        "stock": "2668",
+        "volume": "236670477",
+        "price": "2620"
+    },
+    "4009": {
+        "name": "Titanium Ore",
+        "stock": "25207",
+        "volume": "225221339",
+        "price": "2580"
+    },
+    "4010": {
+        "name": "Sulfur",
+        "stock": "20",
+        "volume": "2950838",
+        "price": "910"
+    },
+    "4011": {
+        "name": "Noc Ore",
+        "stock": "28171",
+        "volume": "351709452",
+        "price": "760"
+    },
+    "4013": {
+        "name": "Nickel Ore",
+        "stock": "17110",
+        "volume": "17244326",
+        "price": "675"
+    },
+    "4051": {
+        "name": "Melted Iron Shard",
+        "stock": "5712",
+        "volume": "598922589",
+        "price": "2250"
+    },
+    "4052": {
+        "name": "Iron Ingot",
+        "stock": "100174",
+        "volume": "120937268",
+        "price": "9150"
+    },
+    "4053": {
+        "name": "Pure Iron Crystal",
+        "stock": "1925",
+        "volume": "12133435",
+        "price": "125000"
+    },
+    "4054": {
+        "name": "Melted Lead Shard",
+        "stock": "12785",
+        "volume": "41738491",
+        "price": "1670"
+    },
+    "4055": {
+        "name": "Lead Ingot",
+        "stock": "27691",
+        "volume": "32534421",
+        "price": "9350"
+    },
+    "4056": {
+        "name": "Pure Lead Crystal",
+        "stock": "161",
+        "volume": "1065124",
+        "price": "108000"
+    },
+    "4057": {
+        "name": "Melted Copper Shard",
+        "stock": "14765",
+        "volume": "415887587",
+        "price": "1140"
+    },
+    "4058": {
+        "name": "Copper Ingot",
+        "stock": "348920",
+        "volume": "90775278",
+        "price": "9050"
+    },
+    "4059": {
+        "name": "Pure Copper Crystal",
+        "stock": "2762",
+        "volume": "3559829",
+        "price": "130000"
+    },
+    "4060": {
+        "name": "Melted Tin Shard",
+        "stock": "49968",
+        "volume": "126696164",
+        "price": "4840"
+    },
+    "4061": {
+        "name": "Tin Ingot",
+        "stock": "280051",
+        "volume": "20785049",
+        "price": "9150"
+    },
+    "4062": {
+        "name": "Pure Tin Crystal",
+        "stock": "2346",
+        "volume": "981737",
+        "price": "154000"
+    },
+    "4063": {
+        "name": "Melted Zinc Shard",
+        "stock": "3438",
+        "volume": "167427779",
+        "price": "5050"
+    },
+    "4064": {
+        "name": "Zinc Ingot",
+        "stock": "34469",
+        "volume": "130568692",
+        "price": "21900"
+    },
+    "4065": {
+        "name": "Pure Zinc Crystal",
+        "stock": "11128",
+        "volume": "1392501",
+        "price": "56500"
+    },
+    "4066": {
+        "name": "Brass Ingot",
+        "stock": "22977",
+        "volume": "116699431",
+        "price": "13800"
+    },
+    "4067": {
+        "name": "Bronze Ingot",
+        "stock": "30093",
+        "volume": "124679020",
+        "price": "11700"
+    },
+    "4068": {
+        "name": "Polished Stone",
+        "stock": "0",
+        "volume": "29129991",
+        "price": "16000"
+    },
+    "4070": {
+        "name": "Processed Coal",
+        "stock": "66055",
+        "volume": "34012469",
+        "price": "2940"
+    },
+    "4077": {
+        "name": "Steel",
+        "stock": "78465",
+        "volume": "474121252",
+        "price": "7950"
+    },
+    "4078": {
+        "name": "Melted Vanadium Shard",
+        "stock": "4812",
+        "volume": "17737975",
+        "price": "7900"
+    },
+    "4079": {
+        "name": "Vanadium Ingot",
+        "stock": "14384",
+        "volume": "20088627",
+        "price": "36200"
+    },
+    "4080": {
+        "name": "Pure Vanadium Crystal",
+        "stock": "5012",
+        "volume": "22196880",
+        "price": "189000"
+    },
+    "4081": {
+        "name": "Melted Titanium Shard",
+        "stock": "809",
+        "volume": "23138328",
+        "price": "5350"
+    },
+    "4082": {
+        "name": "Titanium Ingot",
+        "stock": "10803",
+        "volume": "14541072",
+        "price": "22100"
+    },
+    "4083": {
+        "name": "Pure Titanium Crystal",
+        "stock": "3189",
+        "volume": "12701047",
+        "price": "187000"
+    },
+    "4084": {
+        "name": "Margoria Dark Iron",
+        "stock": "566",
+        "volume": "1214374",
+        "price": "685000"
+    },
+    "4085": {
+        "name": "Melted Noc Shard",
+        "stock": "12703",
+        "volume": "9468738",
+        "price": "2680"
+    },
+    "4086": {
+        "name": "Noc Ingot",
+        "stock": "14893",
+        "volume": "10223405",
+        "price": "18000"
+    },
+    "4087": {
+        "name": "Pure Noc Crystal",
+        "stock": "2641",
+        "volume": "400126",
+        "price": "136000"
+    },
+    "4088": {
+        "name": "Melted Nickel Shard",
+        "stock": "48109",
+        "volume": "651235",
+        "price": "2200"
+    },
+    "4089": {
+        "name": "Nickel Ingot",
+        "stock": "129957",
+        "volume": "315843",
+        "price": "17600"
+    },
+    "4090": {
+        "name": "Pure Nickel Crystal",
+        "stock": "1102",
+        "volume": "4504",
+        "price": "100000"
+    },
+    "4201": {
+        "name": "Silver Ore",
+        "stock": "0",
+        "volume": "42511168",
+        "price": "10500"
+    },
+    "4202": {
+        "name": "Gold Ore",
+        "stock": "1208",
+        "volume": "33144307",
+        "price": "6350"
+    },
+    "4203": {
+        "name": "Platinum Ore",
+        "stock": "20683",
+        "volume": "121412572",
+        "price": "4030"
+    },
+    "4204": {
+        "name": "Rough Opal",
+        "stock": "10008",
+        "volume": "88313067",
+        "price": "2370"
+    },
+    "4206": {
+        "name": "Mythril",
+        "stock": "0",
+        "volume": "1823260",
+        "price": "37300"
+    },
+    "4251": {
+        "name": "Melted Silver Shard",
+        "stock": "329",
+        "volume": "23401010",
+        "price": "24000"
+    },
+    "4252": {
+        "name": "Silver Ingot",
+        "stock": "24903",
+        "volume": "2565709",
+        "price": "94500"
+    },
+    "4253": {
+        "name": "Pure Silver Crystal",
+        "stock": "306",
+        "volume": "1090004",
+        "price": "101000"
+    },
+    "4254": {
+        "name": "Melted Gold Shard",
+        "stock": "2304",
+        "volume": "17316429",
+        "price": "11400"
+    },
+    "4255": {
+        "name": "Gold Ingot",
+        "stock": "66713",
+        "volume": "4059435",
+        "price": "59000"
+    },
+    "4256": {
+        "name": "Pure Gold Crystal",
+        "stock": "5315",
+        "volume": "860284",
+        "price": "150000"
+    },
+    "4257": {
+        "name": "Melted Platinum Shard",
+        "stock": "10846",
+        "volume": "31646944",
+        "price": "10900"
+    },
+    "4258": {
+        "name": "Platinum Ingot",
+        "stock": "692234",
+        "volume": "1452973",
+        "price": "67000"
+    },
+    "4259": {
+        "name": "Pure Platinum Crystal",
+        "stock": "2047",
+        "volume": "2560209",
+        "price": "158000"
+    },
+    "4260": {
+        "name": "Polished Opal",
+        "stock": "9741",
+        "volume": "14817170",
+        "price": "9800"
+    },
+    "4262": {
+        "name": "Melted Mythril Shard",
+        "stock": "0",
+        "volume": "91608",
+        "price": "83500"
+    },
+    "4263": {
+        "name": "Mythril Ingot",
+        "stock": "0",
+        "volume": "230591",
+        "price": "640000"
+    },
+    "4264": {
+        "name": "Pure Mythril Crystal",
+        "stock": "0",
+        "volume": "680406",
+        "price": "1560000"
+    },
+    "4265": {
+        "name": "Brilliant Opal",
+        "stock": "1923",
+        "volume": "1462172",
+        "price": "47200"
+    },
+    "4266": {
+        "name": "Moonlight Opal",
+        "stock": "1791",
+        "volume": "1502366",
+        "price": "182000"
+    },
+    "4267": {
+        "name": "Black Gold Ingot",
+        "stock": "193",
+        "volume": "504045",
+        "price": "960000"
+    },
+    "4269": {
+        "name": "Jade Coral Ingot",
+        "stock": "2642",
+        "volume": "12591937",
+        "price": "267000"
+    },
+    "4401": {
+        "name": "Rough Ruby",
+        "stock": "13514",
+        "volume": "62217220",
+        "price": "3640"
+    },
+    "4402": {
+        "name": "Rough Sapphire",
+        "stock": "0",
+        "volume": "3231292",
+        "price": "33100"
+    },
+    "4403": {
+        "name": "Rough Topaz",
+        "stock": "49",
+        "volume": "4101917",
+        "price": "5650"
+    },
+    "4404": {
+        "name": "Rough Emerald",
+        "stock": "149",
+        "volume": "3128019",
+        "price": "19300"
+    },
+    "4405": {
+        "name": "Rough Diamond",
+        "stock": "244",
+        "volume": "2984849",
+        "price": "4310"
+    },
+    "4406": {
+        "name": "Rough Translucent Crystal",
+        "stock": "6771",
+        "volume": "41609193",
+        "price": "2100"
+    },
+    "4407": {
+        "name": "Rough Mud Crystal",
+        "stock": "35979",
+        "volume": "81273028",
+        "price": "4240"
+    },
+    "4408": {
+        "name": "Rough Red Crystal",
+        "stock": "13192",
+        "volume": "92517033",
+        "price": "1490"
+    },
+    "4409": {
+        "name": "Rough Green Crystal",
+        "stock": "15022",
+        "volume": "48645907",
+        "price": "1510"
+    },
+    "4410": {
+        "name": "Rough Black Crystal",
+        "stock": "58722",
+        "volume": "160088216",
+        "price": "2750"
+    },
+    "4411": {
+        "name": "Rough Blue Crystal",
+        "stock": "45549",
+        "volume": "29548576",
+        "price": "1320"
+    },
+    "4412": {
+        "name": "Rough Violet Crystal",
+        "stock": "12397",
+        "volume": "33870148",
+        "price": "1370"
+    },
+    "4413": {
+        "name": "Rough Lapis Lazuli",
+        "stock": "0",
+        "volume": "2856696",
+        "price": "37300"
+    },
+    "4451": {
+        "name": "Ruby",
+        "stock": "11765",
+        "volume": "5142325",
+        "price": "14500"
+    },
+    "4452": {
+        "name": "Resplendent Ruby",
+        "stock": "334272",
+        "volume": "1299711",
+        "price": "46700"
+    },
+    "4453": {
+        "name": "Blood Ruby",
+        "stock": "500",
+        "volume": "653252",
+        "price": "428000"
+    },
+    "4454": {
+        "name": "Sapphire",
+        "stock": "960",
+        "volume": "880033",
+        "price": "47200"
+    },
+    "4455": {
+        "name": "Resplendent Sapphire",
+        "stock": "194",
+        "volume": "959195",
+        "price": "86000"
+    },
+    "4456": {
+        "name": "Ocean Sapphire",
+        "stock": "1516",
+        "volume": "290805",
+        "price": "845000"
+    },
+    "4457": {
+        "name": "Topaz",
+        "stock": "372",
+        "volume": "1295747",
+        "price": "14900"
+    },
+    "4458": {
+        "name": "Resplendent Topaz",
+        "stock": "22973",
+        "volume": "599565",
+        "price": "51500"
+    },
+    "4459": {
+        "name": "Gold Topaz",
+        "stock": "0",
+        "volume": "147347",
+        "price": "296000"
+    },
+    "4460": {
+        "name": "Emerald",
+        "stock": "485",
+        "volume": "2190347",
+        "price": "47800"
+    },
+    "4461": {
+        "name": "Resplendent Emerald",
+        "stock": "230",
+        "volume": "912590",
+        "price": "89000"
+    },
+    "4462": {
+        "name": "Forest Emerald",
+        "stock": "514",
+        "volume": "91193",
+        "price": "510000"
+    },
+    "4463": {
+        "name": "Diamond",
+        "stock": "9508",
+        "volume": "815767",
+        "price": "16200"
+    },
+    "4464": {
+        "name": "Resplendent Diamond",
+        "stock": "56343",
+        "volume": "447616",
+        "price": "57500"
+    },
+    "4465": {
+        "name": "Star Diamond",
+        "stock": "1007",
+        "volume": "126132",
+        "price": "545000"
+    },
+    "4466": {
+        "name": "Translucent Crystal",
+        "stock": "0",
+        "volume": "6885241",
+        "price": "6650"
+    },
+    "4467": {
+        "name": "Mud Crystal",
+        "stock": "10460",
+        "volume": "8494439",
+        "price": "8200"
+    },
+    "4468": {
+        "name": "Red Crystal",
+        "stock": "19211",
+        "volume": "9624113",
+        "price": "6000"
+    },
+    "4469": {
+        "name": "Green Crystal",
+        "stock": "11664",
+        "volume": "3300013",
+        "price": "6150"
+    },
+    "4470": {
+        "name": "Black Crystal",
+        "stock": "26219",
+        "volume": "37579512",
+        "price": "11000"
+    },
+    "4481": {
+        "name": "Gem Polisher",
+        "stock": "974",
+        "volume": "2883252",
+        "price": "97000"
+    },
+    "4483": {
+        "name": "Blue Crystal",
+        "stock": "78559",
+        "volume": "1880911",
+        "price": "5300"
+    },
+    "4485": {
+        "name": "Violet Crystal",
+        "stock": "25225",
+        "volume": "12766623",
+        "price": "13400"
+    },
+    "4490": {
+        "name": "Lapis Lazuli",
+        "stock": "0",
+        "volume": "243653",
+        "price": "122000"
+    },
+    "4491": {
+        "name": "Resplendent Lapis Lazuli",
+        "stock": "5250",
+        "volume": "186612",
+        "price": "391000"
+    },
+    "4492": {
+        "name": "Indigo Lapis Lazuli",
+        "stock": "96",
+        "volume": "91060",
+        "price": "1990000"
+    },
+    "4801": {
+        "name": "Powder of Darkness",
+        "stock": "15029",
+        "volume": "481604646",
+        "price": "4630"
+    },
+    "4802": {
+        "name": "Powder of Flame",
+        "stock": "2899140",
+        "volume": "324347152",
+        "price": "2020"
+    },
+    "4803": {
+        "name": "Powder of Crevice",
+        "stock": "5238177",
+        "volume": "222279175",
+        "price": "1620"
+    },
+    "4804": {
+        "name": "Powder of Earth",
+        "stock": "11466",
+        "volume": "180585751",
+        "price": "5000"
+    },
+    "4805": {
+        "name": "Powder of Time",
+        "stock": "2203761",
+        "volume": "262414658",
+        "price": "2040"
+    },
+    "4901": {
+        "name": "Black Stone Powder",
+        "stock": "99209",
+        "volume": "1490902072",
+        "price": "4600"
+    },
+    "4902": {
+        "name": "Alluvial Gold",
+        "stock": "941",
+        "volume": "12098078",
+        "price": "4910"
+    },
+    "9746": {
+        "name": "Abyssal Brass Ingot",
+        "stock": "673",
+        "volume": "396222",
+        "price": "481000"
+    }
+}

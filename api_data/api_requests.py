@@ -5,16 +5,19 @@ import datetime
 
 use_headers = {
     "Content-Type": "application/json",
-    "User-Agent": "BlackDesert"
+    "User-Agent": "BlackDesert",
+    "cookie": "visid_incap_2504216=1c%2FH2VetS%2FeZihDG6z7E9QIIoWAAAAAAQUIPAAAAAAA6X8M83f1Phv%2BPRqqkMjF%2F; nlbi_2504216=w0WTY261IhfxWhLpoDFtLwAAAACqkRKdV1p2v7vzexYYoVQg; incap_ses_876_2504216=G054LgVtC39mlu5grS0oDAIIoWAAAAAAHal%2FMOTTzoq4I6krrEwXCQ%3D%3D"
 }
 example_url = 'https://eu-trade.naeu.playblackdesert.com/Trademarket/GetWorldMarketList'
 
 # Class to create requests for the api
+# I am going to remove this class system for now and just use regular functions
 class Api_Request:
-    def __init__(self,url,headers={},payload = {}):
+    def __init__(self,url,session,headers={},payload = {}):
         self._headers = headers
         self._payload = payload
         self._url = url
+        self._session = session
         self.content = self.send_request()
 
 
@@ -23,19 +26,36 @@ class Api_Request:
 
     # Creates object for a group category items request
     @classmethod
-    def sub_class_request(self,url,mainkey=1):
+    def sub_class_request(self,url,session,mainkey=1,subkey=1):
         return Api_Request(
             headers=use_headers,
             payload= {
                 "keyType": 0,
                 "mainCategory": mainkey,
+                "subCategory": subkey,
             },
-            url = url
+            url = url,
+            session = session
+        )
+    # Redesigned for the new API specifications and using requests.session
+    @staticmethod
+    def sub_request(session, mainKey = 1, subKey = 1):
+        return Api_Request.send_request(
+            session = session,
+            payload = {
+                "keyType": 0,
+                "mainCategory": mainKey,
+                "subCategory": subKey,
+            },
+            url = example_url,
         )
 
-    def send_request(self):
-        response = r.request('POST',url = self._url,json = self._payload,headers = self._headers)
+
+    @staticmethod
+    def send_request(session,url,payload):
+        response = session.request('POST',url = url,json = payload,headers = session.headers)
         return response
+
 
 if __name__ == "__main__":
     # This is for debugging, if you run the file this'll run

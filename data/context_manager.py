@@ -1,4 +1,5 @@
-
+import sys
+sys.path.append("..")
 # Just a contextManager
 class ContextManager:
     def __init__(self,filename):
